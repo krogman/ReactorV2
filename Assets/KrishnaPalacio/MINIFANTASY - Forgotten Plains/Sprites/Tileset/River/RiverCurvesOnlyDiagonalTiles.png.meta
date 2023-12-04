@@ -456,2059 +456,2059 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RiverArrowCurvedCW
+      name: RiverCurvesOnlyDiagonalTiles_0
       rect:
         serializedVersion: 2
         x: 0
         y: 128
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b093f4a2cfdcaf60800000000000000
-      internalID: 8047052661288308914
+      spriteID: 0ffb27542af29f749b1cd23087d99023
+      internalID: -433861809
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise1a
+      name: RiverCurvesOnlyDiagonalTiles_1
       rect:
         serializedVersion: 2
         x: 8
         y: 128
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2193470c8c4b5d50800000000000000
-      internalID: 6727054632708968748
+      spriteID: 1f76e1cabf413b24699fdf0d922f3646
+      internalID: -477104111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise4a
+      name: RiverCurvesOnlyDiagonalTiles_2
       rect:
         serializedVersion: 2
         x: 56
         y: 128
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1fc405a3123cc27d0800000000000000
-      internalID: -2941761909100098319
+      spriteID: b3ff67b1da765cf49981086e4d2cc22d
+      internalID: 1405184963
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise1b
+      name: RiverCurvesOnlyDiagonalTiles_3
       rect:
         serializedVersion: 2
         x: 72
         y: 128
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe33eef9361b1e750800000000000000
-      internalID: 6332537592502694895
+      spriteID: b69964bce75f18e408760e0e1f2496eb
+      internalID: -211200312
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise4b
+      name: RiverCurvesOnlyDiagonalTiles_4
       rect:
         serializedVersion: 2
         x: 120
         y: 128
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 650a2accebe8b0960800000000000000
-      internalID: 7569300548854390870
+      spriteID: bfe9de4f84e7ec54e8ed90085bcb5cf9
+      internalID: -1154666892
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise1c
+      name: RiverCurvesOnlyDiagonalTiles_5
       rect:
         serializedVersion: 2
         x: 136
         y: 128
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e461734e8730df860800000000000000
-      internalID: 7565206766812075598
+      spriteID: 39cd111544489654099b3a2e746daa4e
+      internalID: 1120458140
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise4c
+      name: RiverCurvesOnlyDiagonalTiles_6
       rect:
         serializedVersion: 2
         x: 184
         y: 128
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb1fa8eb2df4d7e40800000000000000
-      internalID: 5655764473605714364
+      spriteID: 172eeb383d9b2174983da56097c1c150
+      internalID: 1126563050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise1d
+      name: RiverCurvesOnlyDiagonalTiles_7
       rect:
         serializedVersion: 2
         x: 200
         y: 128
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 367ce0bed514a21c0800000000000000
-      internalID: -4527734603736234141
+      spriteID: 53fbb8b1ddda3cd418d68c4ced39821a
+      internalID: 129788423
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise4d
+      name: RiverCurvesOnlyDiagonalTiles_8
       rect:
         serializedVersion: 2
         x: 248
         y: 128
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7365be4fba107d2b0800000000000000
-      internalID: -5559973376905488841
+      spriteID: 3ffc3a0984834fc41ab5feb8149f5109
+      internalID: 1295246027
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise2a
+      name: RiverCurvesOnlyDiagonalTiles_9
       rect:
         serializedVersion: 2
         x: 16
         y: 120
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28d151b1341aa3db0800000000000000
-      internalID: -4811355942302704254
+      spriteID: a447dbf7d18778141b649c2c57b7d080
+      internalID: -1445095537
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise5a
+      name: RiverCurvesOnlyDiagonalTiles_10
       rect:
         serializedVersion: 2
         x: 48
         y: 120
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e08af8d3525ebf70800000000000000
-      internalID: 9204885208467931362
+      spriteID: 1c8f19d8c5886ac4bb54063db249e4a9
+      internalID: 814691461
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise2b
+      name: RiverCurvesOnlyDiagonalTiles_11
       rect:
         serializedVersion: 2
         x: 80
         y: 120
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe6b55d5aa6088b00800000000000000
-      internalID: 830921460029961967
+      spriteID: 5a379f2dc4d0515448300bc2b8dd8f03
+      internalID: -685598622
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise5b
+      name: RiverCurvesOnlyDiagonalTiles_12
       rect:
         serializedVersion: 2
         x: 112
         y: 120
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c0e0b73f81d3ef40800000000000000
-      internalID: 5756675161754493124
+      spriteID: a5b1b2c7cf574b348b7a922e995163a3
+      internalID: -221344561
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise2c
+      name: RiverCurvesOnlyDiagonalTiles_13
       rect:
         serializedVersion: 2
         x: 144
         y: 120
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d72ced4712adf9060800000000000000
-      internalID: 6962523386167607933
+      spriteID: 6b8851a5129721c45b9907ba1d35ca60
+      internalID: -1297044289
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise5c
+      name: RiverCurvesOnlyDiagonalTiles_14
       rect:
         serializedVersion: 2
         x: 176
         y: 120
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d478d34c4f98ce380800000000000000
-      internalID: -8940619475879884979
+      spriteID: e96cb1d02d0eb0144856be3f6f8eb6be
+      internalID: -832541258
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise2d
+      name: RiverCurvesOnlyDiagonalTiles_15
       rect:
         serializedVersion: 2
         x: 208
         y: 120
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5cb25558cf786f2d0800000000000000
-      internalID: -3245256962835403835
+      spriteID: 9af9b200cd6ff8e4cb8058cf56dae304
+      internalID: 103062160
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise5d
+      name: RiverCurvesOnlyDiagonalTiles_16
       rect:
         serializedVersion: 2
         x: 240
         y: 120
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bb7bb6307073c2c0800000000000000
-      internalID: -4412559582636049488
+      spriteID: cf21de81faba2624f947fdfa218fde8b
+      internalID: -78841558
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise3a
+      name: RiverCurvesOnlyDiagonalTiles_17
       rect:
         serializedVersion: 2
         x: 24
         y: 112
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d84f393969ba2db0800000000000000
-      internalID: -4815832989936170794
+      spriteID: 22549eff7ffed8c4cb8ac48dd79fa095
+      internalID: 372608556
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise6a
+      name: RiverCurvesOnlyDiagonalTiles_18
       rect:
         serializedVersion: 2
         x: 40
         y: 112
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a04ee79048ba8f390800000000000000
-      internalID: -7784283372326558710
+      spriteID: 3f3da5abb75e21440b71b84997fd588a
+      internalID: -1901695259
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise3b
+      name: RiverCurvesOnlyDiagonalTiles_19
       rect:
         serializedVersion: 2
         x: 88
         y: 112
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3c91e94c2db6d790800000000000000
-      internalID: -7505603731050619844
+      spriteID: a1ce07a0479d9034d93e50ea5bb66ccd
+      internalID: -39187998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise6b
+      name: RiverCurvesOnlyDiagonalTiles_20
       rect:
         serializedVersion: 2
         x: 104
         y: 112
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8268c59a6c25e6430800000000000000
-      internalID: 3778048150608840232
+      spriteID: 01e70dbb25d7f5b40bcd9e8e97f94fa3
+      internalID: 692478555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise3c
+      name: RiverCurvesOnlyDiagonalTiles_21
       rect:
         serializedVersion: 2
         x: 152
         y: 112
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c1b16ebe2d14b720800000000000000
-      internalID: 2860943749886882249
+      spriteID: 881d65097bdb6bc4db0f61e726acd88e
+      internalID: 1107562612
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise6c
+      name: RiverCurvesOnlyDiagonalTiles_22
       rect:
         serializedVersion: 2
         x: 168
         y: 112
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7461d3dbbb4718da0800000000000000
-      internalID: -5944341683469740473
+      spriteID: c5fbab8be4e8e1a4799aa64f40c365d6
+      internalID: 1445211021
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise3d
+      name: RiverCurvesOnlyDiagonalTiles_23
       rect:
         serializedVersion: 2
         x: 216
         y: 112
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 189db37407ce4b0f0800000000000000
-      internalID: -1101996041823331967
+      spriteID: 217280d69d89cbe4eb6fab420f700cd2
+      internalID: 1981668069
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise6d
+      name: RiverCurvesOnlyDiagonalTiles_24
       rect:
         serializedVersion: 2
         x: 232
         y: 112
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cda4023d334206b60800000000000000
-      internalID: 7737223964826553052
+      spriteID: 00f02b3cc07ada743be7839ac14bd8cb
+      internalID: 1407055103
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise12a
+      name: RiverCurvesOnlyDiagonalTiles_25
       rect:
         serializedVersion: 2
         x: 24
         y: 96
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1eb600884ab5c4ae0800000000000000
-      internalID: -1563774208389911583
+      spriteID: fff18a924b7edf146af3cbe8e29d082a
+      internalID: 1946277303
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise9a
+      name: RiverCurvesOnlyDiagonalTiles_26
       rect:
         serializedVersion: 2
         x: 40
         y: 96
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8942f176e82506e60800000000000000
-      internalID: 7953447713505223832
+      spriteID: 920d8b05f40e0174e93471b6a4f9ce31
+      internalID: 1580877910
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise12b
+      name: RiverCurvesOnlyDiagonalTiles_27
       rect:
         serializedVersion: 2
         x: 88
         y: 96
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0fc66f29886101d60800000000000000
-      internalID: 7858806125598502128
+      spriteID: 81777e1a1b29d224183e5cf23ee07982
+      internalID: 298290567
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise9b
+      name: RiverCurvesOnlyDiagonalTiles_28
       rect:
         serializedVersion: 2
         x: 104
         y: 96
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6fd0c944b1cf3a510800000000000000
-      internalID: 1559367090045718006
+      spriteID: bb689dae3dab1a34495cec6d8ba5e266
+      internalID: 1847578160
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise12c
+      name: RiverCurvesOnlyDiagonalTiles_29
       rect:
         serializedVersion: 2
         x: 152
         y: 96
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c15d0795e1103bc0800000000000000
-      internalID: -3805522007348653626
+      spriteID: 1b4abcd51cfed894db4286dd1f884d6a
+      internalID: -751608052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise9c
+      name: RiverCurvesOnlyDiagonalTiles_30
       rect:
         serializedVersion: 2
         x: 168
         y: 96
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: add26548c8e30c730800000000000000
-      internalID: 4017279640851066330
+      spriteID: 7d235120699bea14d86dc5b92fa9a463
+      internalID: 1017309750
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise12d
+      name: RiverCurvesOnlyDiagonalTiles_31
       rect:
         serializedVersion: 2
         x: 216
         y: 96
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c65019012dde7510800000000000000
-      internalID: 1548918455817754313
+      spriteID: 35fcaed390a80584a824fead072c098c
+      internalID: -378565812
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise9d
+      name: RiverCurvesOnlyDiagonalTiles_32
       rect:
         serializedVersion: 2
         x: 232
         y: 96
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4033fbfe1f5fcc2b0800000000000000
-      internalID: -5562801020251196668
+      spriteID: f9f637007c91d5141a9e070383580f2d
+      internalID: -1729571047
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise11a
+      name: RiverCurvesOnlyDiagonalTiles_33
       rect:
         serializedVersion: 2
         x: 16
         y: 88
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27db02b0754cab400800000000000000
-      internalID: 340800599947787634
+      spriteID: 2a631fa09bd1bdc4e9a1aef62a5fe40b
+      internalID: -1233573305
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise8a
+      name: RiverCurvesOnlyDiagonalTiles_34
       rect:
         serializedVersion: 2
         x: 48
         y: 88
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06caa3f584d30ee50800000000000000
-      internalID: 6836531615393033312
+      spriteID: 9b9f0a7e7193f31468894ed000e6f375
+      internalID: 1484543836
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise11b
+      name: RiverCurvesOnlyDiagonalTiles_35
       rect:
         serializedVersion: 2
         x: 80
         y: 88
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b96b43d2d3fa6c100800000000000000
-      internalID: 127982316712933019
+      spriteID: 2b46150e0aec4f1428156bd96b0384e6
+      internalID: 1790047510
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise8b
+      name: RiverCurvesOnlyDiagonalTiles_36
       rect:
         serializedVersion: 2
         x: 112
         y: 88
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a6f261067eebdef0800000000000000
-      internalID: -82209977579407710
+      spriteID: f83064c456d6f534496dc554dc3ec1a1
+      internalID: -24715137
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise11c
+      name: RiverCurvesOnlyDiagonalTiles_37
       rect:
         serializedVersion: 2
         x: 144
         y: 88
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1034ff42e65652ec0800000000000000
-      internalID: -3592353604016585983
+      spriteID: 9375053c6a14d3c47908a38dae2c4273
+      internalID: -905486630
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise8c
+      name: RiverCurvesOnlyDiagonalTiles_38
       rect:
         serializedVersion: 2
         x: 176
         y: 88
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28d5ed3c57cd95f50800000000000000
-      internalID: 6870765104885816706
+      spriteID: 31518150ce1d6d74eaf202bc976768df
+      internalID: 1398450116
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise11d
+      name: RiverCurvesOnlyDiagonalTiles_39
       rect:
         serializedVersion: 2
         x: 208
         y: 88
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8039305aba338820800000000000000
-      internalID: 2919241555350466700
+      spriteID: 49356104141b6a54ea7a2b5e5717a7d8
+      internalID: 1747972246
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise8d
+      name: RiverCurvesOnlyDiagonalTiles_40
       rect:
         serializedVersion: 2
         x: 240
         y: 88
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8586b96c0668d830800000000000000
-      internalID: 4096136064592676235
+      spriteID: 77462376ed7a7734c9b6c1346b647930
+      internalID: 1427405535
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise10a
+      name: RiverCurvesOnlyDiagonalTiles_41
       rect:
         serializedVersion: 2
         x: 8
         y: 80
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b82d6a8c106313a70800000000000000
-      internalID: 8804878127775273611
+      spriteID: 20522a635105e2349810b0af49d1d68e
+      internalID: -891898154
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise7a
+      name: RiverCurvesOnlyDiagonalTiles_42
       rect:
         serializedVersion: 2
         x: 56
         y: 80
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c79377113fdd403c0800000000000000
-      internalID: -4394143300366943876
+      spriteID: 4ee60d89bd2c64b44add41144dd24b59
+      internalID: -1394731089
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise10b
+      name: RiverCurvesOnlyDiagonalTiles_43
       rect:
         serializedVersion: 2
         x: 72
         y: 80
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 50936f9bfa978cf00800000000000000
-      internalID: 1137292701557209349
+      spriteID: 3026fbc8c75c69c4783921e773a05838
+      internalID: 506722319
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise7b
+      name: RiverCurvesOnlyDiagonalTiles_44
       rect:
         serializedVersion: 2
         x: 120
         y: 80
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3633e8f4a1596c900800000000000000
-      internalID: 704414331966468963
+      spriteID: 7786f49ae8607674d9b5565e967ab251
+      internalID: -1202723899
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise10c
+      name: RiverCurvesOnlyDiagonalTiles_45
       rect:
         serializedVersion: 2
         x: 136
         y: 80
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41e10bae21fb17b80800000000000000
-      internalID: -8398721742101537260
+      spriteID: 5c6285a60e2309440bcf838ac50e060b
+      internalID: 332987877
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise7c
+      name: RiverCurvesOnlyDiagonalTiles_46
       rect:
         serializedVersion: 2
         x: 184
         y: 80
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55158c5cd994ee810800000000000000
-      internalID: 1796454243344339285
+      spriteID: a4d7e2916e2e0644fb0a6b21fccd089c
+      internalID: -1233748704
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise10d
+      name: RiverCurvesOnlyDiagonalTiles_47
       rect:
         serializedVersion: 2
         x: 200
         y: 80
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c85773b68bfca7b0800000000000000
-      internalID: -5211514112819373883
+      spriteID: c0183269cce0cc444aa837e066fe2209
+      internalID: -1461116606
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverClockwise7d
+      name: RiverCurvesOnlyDiagonalTiles_48
       rect:
         serializedVersion: 2
         x: 248
         y: 80
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94ad7e25d380c7060800000000000000
-      internalID: 6952440984230156873
+      spriteID: c3c3c5b6b7d32db408300d6359413906
+      internalID: 1859883162
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverArrowCurvedCCW
+      name: RiverCurvesOnlyDiagonalTiles_49
       rect:
         serializedVersion: 2
         x: 0
         y: 56
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 457dec6b7f3d61790800000000000000
-      internalID: -7559621863617407148
+      spriteID: 4de00c83fcbc9814685bca5c5f7a5177
+      internalID: 1516337280
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise1a
+      name: RiverCurvesOnlyDiagonalTiles_50
       rect:
         serializedVersion: 2
         x: 8
         y: 56
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71e8c33c1e7112d50800000000000000
-      internalID: 6710671178169355799
+      spriteID: fd526bb4241566440963c7a8d9e91143
+      internalID: -1670479116
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise4a
+      name: RiverCurvesOnlyDiagonalTiles_51
       rect:
         serializedVersion: 2
         x: 56
         y: 56
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e0941dc34322e010800000000000000
-      internalID: 1216573623453913319
+      spriteID: 6c5e454c693810345be566a994f29c87
+      internalID: 2080658272
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise1b
+      name: RiverCurvesOnlyDiagonalTiles_52
       rect:
         serializedVersion: 2
         x: 72
         y: 56
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b86ea59e36075670800000000000000
-      internalID: 8527291285318297778
+      spriteID: 650ee70d547e7de4db6820a4455160a1
+      internalID: 1199508910
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise4b
+      name: RiverCurvesOnlyDiagonalTiles_53
       rect:
         serializedVersion: 2
         x: 120
         y: 56
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d48add2bb35697c00800000000000000
-      internalID: 898860907715471437
+      spriteID: 376cde2d3206724499dfac65e6b439b5
+      internalID: -1152230217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise1c
+      name: RiverCurvesOnlyDiagonalTiles_54
       rect:
         serializedVersion: 2
         x: 136
         y: 56
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55d2326d343eafa40800000000000000
-      internalID: 5402880583479274837
+      spriteID: 1b4623b851b8f434b8f26dce0eeccfb7
+      internalID: 746676615
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise4c
+      name: RiverCurvesOnlyDiagonalTiles_55
       rect:
         serializedVersion: 2
         x: 184
         y: 56
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e61b14d9fa1e812a0800000000000000
-      internalID: -6766410295750315666
+      spriteID: 15d8ad8502e4da24ba8765e4d6db7171
+      internalID: -816703385
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise1d
+      name: RiverCurvesOnlyDiagonalTiles_56
       rect:
         serializedVersion: 2
         x: 200
         y: 56
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5bc774e3e844effd0800000000000000
-      internalID: -2306330581446198091
+      spriteID: be49422db6fee2c4b970aeb0273a1d06
+      internalID: -517720559
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise4d
+      name: RiverCurvesOnlyDiagonalTiles_57
       rect:
         serializedVersion: 2
         x: 248
         y: 56
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbb01c5ac09797ca0800000000000000
-      internalID: -6018646331776496708
+      spriteID: b291ed8404a82f346a32ba22b2f2a9ad
+      internalID: 651227370
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise2a
+      name: RiverCurvesOnlyDiagonalTiles_58
       rect:
         serializedVersion: 2
         x: 16
         y: 48
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ba4cb48b097b9380800000000000000
-      internalID: -8963437542972306759
+      spriteID: 8d271a768d423ed4993d9087d288c951
+      internalID: -699537848
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise5a
+      name: RiverCurvesOnlyDiagonalTiles_59
       rect:
         serializedVersion: 2
         x: 48
         y: 48
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 927dad5edc51dcfc0800000000000000
-      internalID: -3473095763563981015
+      spriteID: a936bb6675e05d54f911db4bd2933fc5
+      internalID: -1911390869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise2b
+      name: RiverCurvesOnlyDiagonalTiles_60
       rect:
         serializedVersion: 2
         x: 80
         y: 48
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b2a6307285489f10800000000000000
-      internalID: 2276646038166479537
+      spriteID: 79e4cf7d56de4364a9cfd1cd82feedf6
+      internalID: -692973740
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise5b
+      name: RiverCurvesOnlyDiagonalTiles_61
       rect:
         serializedVersion: 2
         x: 112
         y: 48
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 123555e834606ade0800000000000000
-      internalID: -1322362553366129887
+      spriteID: ff4d06254b806284581f7b0556831214
+      internalID: 311684323
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise2c
+      name: RiverCurvesOnlyDiagonalTiles_62
       rect:
         serializedVersion: 2
         x: 144
         y: 48
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddcc3cfb023b2fb20800000000000000
-      internalID: 3166790441232485597
+      spriteID: 98924c0508ae45842938ae9ec8b0ed34
+      internalID: 857722123
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise5c
+      name: RiverCurvesOnlyDiagonalTiles_63
       rect:
         serializedVersion: 2
         x: 176
         y: 48
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 398aa7b03a7012640800000000000000
-      internalID: 5053328653740058771
+      spriteID: ab56631acd7136144a831c1ca0e411cc
+      internalID: -1518753344
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise2d
+      name: RiverCurvesOnlyDiagonalTiles_64
       rect:
         serializedVersion: 2
         x: 208
         y: 48
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 245e456b173545010800000000000000
-      internalID: 1176657150505968962
+      spriteID: 41f2355a58d1e7445848a6de9bc1a65d
+      internalID: -435537583
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise5d
+      name: RiverCurvesOnlyDiagonalTiles_65
       rect:
         serializedVersion: 2
         x: 240
         y: 48
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 063183f239683c9e0800000000000000
-      internalID: -1602289075703245984
+      spriteID: 512867e7946527e449244feb3a5d371c
+      internalID: -1432167713
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise3a
+      name: RiverCurvesOnlyDiagonalTiles_66
       rect:
         serializedVersion: 2
         x: 24
         y: 40
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 78ff1f6de85cb6840800000000000000
-      internalID: 5218481810521063303
+      spriteID: 1a47daf6c75ba744dbb2dd9d2499453e
+      internalID: 351758946
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise6a
+      name: RiverCurvesOnlyDiagonalTiles_67
       rect:
         serializedVersion: 2
         x: 40
         y: 40
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2b3e3ceebd344210800000000000000
-      internalID: 1316244881315609387
+      spriteID: f199af7d3a70ef74abf667d548d97a77
+      internalID: -1949909434
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise3b
+      name: RiverCurvesOnlyDiagonalTiles_68
       rect:
         serializedVersion: 2
         x: 88
         y: 40
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c7a8737623b48530800000000000000
-      internalID: 3856404158663403461
+      spriteID: 5110b8bcb41f0754bae8de3bd09ccaca
+      internalID: -1939601432
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise6b
+      name: RiverCurvesOnlyDiagonalTiles_69
       rect:
         serializedVersion: 2
         x: 104
         y: 40
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ebbbd2201b8ec0580800000000000000
-      internalID: -8859450520001201218
+      spriteID: 0f36a67d77949164ea6408d29e914690
+      internalID: 880158552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise3c
+      name: RiverCurvesOnlyDiagonalTiles_70
       rect:
         serializedVersion: 2
         x: 152
         y: 40
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02cb111947464db70800000000000000
-      internalID: 8922867213540637728
+      spriteID: 4f26acfacc0cefc4d8a372e881048e3e
+      internalID: -435572263
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise6c
+      name: RiverCurvesOnlyDiagonalTiles_71
       rect:
         serializedVersion: 2
         x: 168
         y: 40
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26b2fed70cfb4c5e0800000000000000
-      internalID: -1890175110121313438
+      spriteID: 7faa03e0abb519f4da5abb7e9fba7fcb
+      internalID: -134183831
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise3d
+      name: RiverCurvesOnlyDiagonalTiles_72
       rect:
         serializedVersion: 2
         x: 216
         y: 40
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 35af855c14adfb280800000000000000
-      internalID: -9025255152208512429
+      spriteID: 2c513d12f1ed67147a3990c4529aff75
+      internalID: 1905803467
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise6d
+      name: RiverCurvesOnlyDiagonalTiles_73
       rect:
         serializedVersion: 2
         x: 232
         y: 40
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41d71136e2fa40670800000000000000
-      internalID: 8504114610147786004
+      spriteID: af874de4b695a9f469c5bbc1c9aa735b
+      internalID: 1445769707
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise12a
+      name: RiverCurvesOnlyDiagonalTiles_74
       rect:
         serializedVersion: 2
         x: 24
         y: 24
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad6c150dfecfc5d70800000000000000
-      internalID: 9033373059520775898
+      spriteID: 68d681a6fbc0d584e97df44ace2497ec
+      internalID: -660073941
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise9a
+      name: RiverCurvesOnlyDiagonalTiles_75
       rect:
         serializedVersion: 2
         x: 40
         y: 24
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b24d7fd77a8203b50800000000000000
-      internalID: 6570796556171596843
+      spriteID: 957fe03c035cfb343bc2d67b21e85e96
+      internalID: 2081763720
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise12b
+      name: RiverCurvesOnlyDiagonalTiles_76
       rect:
         serializedVersion: 2
         x: 88
         y: 24
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa04588cdadeefca0800000000000000
-      internalID: -5981081924452138833
+      spriteID: c605b57a600c4d64a825c3d5c3b569fb
+      internalID: 62862436
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise9b
+      name: RiverCurvesOnlyDiagonalTiles_77
       rect:
         serializedVersion: 2
         x: 104
         y: 24
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3849b4ed3063fefe0800000000000000
-      internalID: -1157647188968631165
+      spriteID: f016280c0ab8b1d4ea75005133b09e48
+      internalID: -620797658
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise12c
+      name: RiverCurvesOnlyDiagonalTiles_78
       rect:
         serializedVersion: 2
         x: 152
         y: 24
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3817680c5d1f0250800000000000000
-      internalID: 5912977116875921467
+      spriteID: bea3390880cf3cf4fad9c46d4ae2ec64
+      internalID: 891534752
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise9c
+      name: RiverCurvesOnlyDiagonalTiles_79
       rect:
         serializedVersion: 2
         x: 168
         y: 24
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47fdd06320ba24620800000000000000
-      internalID: 2756953947889327988
+      spriteID: f518e6276e359ce4cb6128f836ca92de
+      internalID: -1336306358
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise12d
+      name: RiverCurvesOnlyDiagonalTiles_80
       rect:
         serializedVersion: 2
         x: 216
         y: 24
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2773de7a80c87bb00800000000000000
-      internalID: 844297423960225650
+      spriteID: 27e1c476062ff0149bad69cb665e3be5
+      internalID: -657542215
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise9d
+      name: RiverCurvesOnlyDiagonalTiles_81
       rect:
         serializedVersion: 2
         x: 232
         y: 24
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ef29f3a1f1f32e70800000000000000
-      internalID: 9089374493104222179
+      spriteID: c90412ac7373674419342ee517782bcb
+      internalID: 569051335
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise11a
+      name: RiverCurvesOnlyDiagonalTiles_82
       rect:
         serializedVersion: 2
         x: 16
         y: 16
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5cbdf72f933433c10800000000000000
-      internalID: 2032041773034888133
+      spriteID: 5bc51d83fe2394c4a85e267dce564e4b
+      internalID: -467652048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise8a
+      name: RiverCurvesOnlyDiagonalTiles_83
       rect:
         serializedVersion: 2
         x: 48
         y: 16
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d451411bb3d96a30800000000000000
-      internalID: 4209128127156278481
+      spriteID: fc4ae8788fbf623458e5736f0d9c0204
+      internalID: -1907300190
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise11b
+      name: RiverCurvesOnlyDiagonalTiles_84
       rect:
         serializedVersion: 2
         x: 80
         y: 16
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0121988283d57ddf0800000000000000
-      internalID: -155553166341369328
+      spriteID: 6d598eaf7274e024696de4c00cec13fc
+      internalID: -1365365161
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise8b
+      name: RiverCurvesOnlyDiagonalTiles_85
       rect:
         serializedVersion: 2
         x: 112
         y: 16
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e9eefce2384fdc70800000000000000
-      internalID: 8997989964071234019
+      spriteID: e4dc0329219576e4e8e92043fb775cd4
+      internalID: -1300015891
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise11c
+      name: RiverCurvesOnlyDiagonalTiles_86
       rect:
         serializedVersion: 2
         x: 144
         y: 16
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2d7245dcdf952f90800000000000000
-      internalID: -6978996276721189590
+      spriteID: e4d95c2e4b7b6d44db334de7fbca7a5b
+      internalID: 2124918148
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise8c
+      name: RiverCurvesOnlyDiagonalTiles_87
       rect:
         serializedVersion: 2
         x: 176
         y: 16
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c694af2e5e783b30800000000000000
-      internalID: 4267299589924886213
+      spriteID: 69a381e5f4fde554fa290f6ca3b088f8
+      internalID: 611595312
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise11d
+      name: RiverCurvesOnlyDiagonalTiles_88
       rect:
         serializedVersion: 2
         x: 208
         y: 16
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4714bd0108a47150800000000000000
-      internalID: 5869500936848938827
+      spriteID: 2821805dd16ffc54dabfe0618345e76c
+      internalID: 1327187526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise8d
+      name: RiverCurvesOnlyDiagonalTiles_89
       rect:
         serializedVersion: 2
         x: 240
         y: 16
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55386422dbfb7ea10800000000000000
-      internalID: 1938728983651058517
+      spriteID: 0583ebe8b8e860145a67fbcba394dac5
+      internalID: -237818232
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise10a
+      name: RiverCurvesOnlyDiagonalTiles_90
       rect:
         serializedVersion: 2
         x: 8
         y: 8
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab4cb713277c42f10800000000000000
-      internalID: 2244137807607743674
+      spriteID: 56e1d7ce3e2370c449e6d422f084e793
+      internalID: 949550969
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise7a
+      name: RiverCurvesOnlyDiagonalTiles_91
       rect:
         serializedVersion: 2
         x: 56
         y: 8
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a136a8af9166022f0800000000000000
-      internalID: -999686855512661222
+      spriteID: af651f43aba75db48b02177dd067f9d5
+      internalID: 1970792349
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise10b
+      name: RiverCurvesOnlyDiagonalTiles_92
       rect:
         serializedVersion: 2
         x: 72
         y: 8
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 978edd0641e300c00800000000000000
-      internalID: 864759385700558969
+      spriteID: 215d14227290e4e46845eccd78bf26f1
+      internalID: 1798329764
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise7b
+      name: RiverCurvesOnlyDiagonalTiles_93
       rect:
         serializedVersion: 2
         x: 120
         y: 8
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a163bc361277b2490800000000000000
-      internalID: -7769985746805770726
+      spriteID: 09fb72ce872d0014abce3168a5f48fda
+      internalID: 709538128
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise10c
+      name: RiverCurvesOnlyDiagonalTiles_94
       rect:
         serializedVersion: 2
         x: 136
         y: 8
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3cbd0802642369b80800000000000000
-      internalID: -8388461979156554813
+      spriteID: 37b8fb93f5f74f949a0a7b0ea9d4836c
+      internalID: 1875892439
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise7c
+      name: RiverCurvesOnlyDiagonalTiles_95
       rect:
         serializedVersion: 2
         x: 184
         y: 8
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26ac0cd50d274c420800000000000000
-      internalID: 2649368720052374114
+      spriteID: 6437ca93ccc7581499fce01f886ae7f7
+      internalID: 867511023
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise10d
+      name: RiverCurvesOnlyDiagonalTiles_96
       rect:
         serializedVersion: 2
         x: 200
         y: 8
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3a815a09fd8ae310800000000000000
-      internalID: 1435115532030413375
+      spriteID: 5fd2296c6dc836341ad2b692bbee922c
+      internalID: -30905943
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverCounterClockwise7d
+      name: RiverCurvesOnlyDiagonalTiles_97
       rect:
         serializedVersion: 2
         x: 248
         y: 8
         width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74e6936cb21508740800000000000000
-      internalID: 5152207222162943559
+      spriteID: 62ddf290297849744ae3d5d0a71398fd
+      internalID: 1368983730
       vertices: []
       indices: 
       edges: []
@@ -2524,104 +2524,104 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      RiverArrowCurvedCCW: -7559621863617407148
-      RiverArrowCurvedCW: 8047052661288308914
-      RiverClockwise10a: 8804878127775273611
-      RiverClockwise10b: 1137292701557209349
-      RiverClockwise10c: -8398721742101537260
-      RiverClockwise10d: -5211514112819373883
-      RiverClockwise11a: 340800599947787634
-      RiverClockwise11b: 127982316712933019
-      RiverClockwise11c: -3592353604016585983
-      RiverClockwise11d: 2919241555350466700
-      RiverClockwise12a: -1563774208389911583
-      RiverClockwise12b: 7858806125598502128
-      RiverClockwise12c: -3805522007348653626
-      RiverClockwise12d: 1548918455817754313
-      RiverClockwise1a: 6727054632708968748
-      RiverClockwise1b: 6332537592502694895
-      RiverClockwise1c: 7565206766812075598
-      RiverClockwise1d: -4527734603736234141
-      RiverClockwise2a: -4811355942302704254
-      RiverClockwise2b: 830921460029961967
-      RiverClockwise2c: 6962523386167607933
-      RiverClockwise2d: -3245256962835403835
-      RiverClockwise3a: -4815832989936170794
-      RiverClockwise3b: -7505603731050619844
-      RiverClockwise3c: 2860943749886882249
-      RiverClockwise3d: -1101996041823331967
-      RiverClockwise4a: -2941761909100098319
-      RiverClockwise4b: 7569300548854390870
-      RiverClockwise4c: 5655764473605714364
-      RiverClockwise4d: -5559973376905488841
-      RiverClockwise5a: 9204885208467931362
-      RiverClockwise5b: 5756675161754493124
-      RiverClockwise5c: -8940619475879884979
-      RiverClockwise5d: -4412559582636049488
-      RiverClockwise6a: -7784283372326558710
-      RiverClockwise6b: 3778048150608840232
-      RiverClockwise6c: -5944341683469740473
-      RiverClockwise6d: 7737223964826553052
-      RiverClockwise7a: -4394143300366943876
-      RiverClockwise7b: 704414331966468963
-      RiverClockwise7c: 1796454243344339285
-      RiverClockwise7d: 6952440984230156873
-      RiverClockwise8a: 6836531615393033312
-      RiverClockwise8b: -82209977579407710
-      RiverClockwise8c: 6870765104885816706
-      RiverClockwise8d: 4096136064592676235
-      RiverClockwise9a: 7953447713505223832
-      RiverClockwise9b: 1559367090045718006
-      RiverClockwise9c: 4017279640851066330
-      RiverClockwise9d: -5562801020251196668
-      RiverCounterClockwise10a: 2244137807607743674
-      RiverCounterClockwise10b: 864759385700558969
-      RiverCounterClockwise10c: -8388461979156554813
-      RiverCounterClockwise10d: 1435115532030413375
-      RiverCounterClockwise11a: 2032041773034888133
-      RiverCounterClockwise11b: -155553166341369328
-      RiverCounterClockwise11c: -6978996276721189590
-      RiverCounterClockwise11d: 5869500936848938827
-      RiverCounterClockwise12a: 9033373059520775898
-      RiverCounterClockwise12b: -5981081924452138833
-      RiverCounterClockwise12c: 5912977116875921467
-      RiverCounterClockwise12d: 844297423960225650
-      RiverCounterClockwise1a: 6710671178169355799
-      RiverCounterClockwise1b: 8527291285318297778
-      RiverCounterClockwise1c: 5402880583479274837
-      RiverCounterClockwise1d: -2306330581446198091
-      RiverCounterClockwise2a: -8963437542972306759
-      RiverCounterClockwise2b: 2276646038166479537
-      RiverCounterClockwise2c: 3166790441232485597
-      RiverCounterClockwise2d: 1176657150505968962
-      RiverCounterClockwise3a: 5218481810521063303
-      RiverCounterClockwise3b: 3856404158663403461
-      RiverCounterClockwise3c: 8922867213540637728
-      RiverCounterClockwise3d: -9025255152208512429
-      RiverCounterClockwise4a: 1216573623453913319
-      RiverCounterClockwise4b: 898860907715471437
-      RiverCounterClockwise4c: -6766410295750315666
-      RiverCounterClockwise4d: -6018646331776496708
-      RiverCounterClockwise5a: -3473095763563981015
-      RiverCounterClockwise5b: -1322362553366129887
-      RiverCounterClockwise5c: 5053328653740058771
-      RiverCounterClockwise5d: -1602289075703245984
-      RiverCounterClockwise6a: 1316244881315609387
-      RiverCounterClockwise6b: -8859450520001201218
-      RiverCounterClockwise6c: -1890175110121313438
-      RiverCounterClockwise6d: 8504114610147786004
-      RiverCounterClockwise7a: -999686855512661222
-      RiverCounterClockwise7b: -7769985746805770726
-      RiverCounterClockwise7c: 2649368720052374114
-      RiverCounterClockwise7d: 5152207222162943559
-      RiverCounterClockwise8a: 4209128127156278481
-      RiverCounterClockwise8b: 8997989964071234019
-      RiverCounterClockwise8c: 4267299589924886213
-      RiverCounterClockwise8d: 1938728983651058517
-      RiverCounterClockwise9a: 6570796556171596843
-      RiverCounterClockwise9b: -1157647188968631165
-      RiverCounterClockwise9c: 2756953947889327988
-      RiverCounterClockwise9d: 9089374493104222179
+      RiverCurvesOnlyDiagonalTiles_0: -433861809
+      RiverCurvesOnlyDiagonalTiles_1: -477104111
+      RiverCurvesOnlyDiagonalTiles_10: 814691461
+      RiverCurvesOnlyDiagonalTiles_11: -685598622
+      RiverCurvesOnlyDiagonalTiles_12: -221344561
+      RiverCurvesOnlyDiagonalTiles_13: -1297044289
+      RiverCurvesOnlyDiagonalTiles_14: -832541258
+      RiverCurvesOnlyDiagonalTiles_15: 103062160
+      RiverCurvesOnlyDiagonalTiles_16: -78841558
+      RiverCurvesOnlyDiagonalTiles_17: 372608556
+      RiverCurvesOnlyDiagonalTiles_18: -1901695259
+      RiverCurvesOnlyDiagonalTiles_19: -39187998
+      RiverCurvesOnlyDiagonalTiles_2: 1405184963
+      RiverCurvesOnlyDiagonalTiles_20: 692478555
+      RiverCurvesOnlyDiagonalTiles_21: 1107562612
+      RiverCurvesOnlyDiagonalTiles_22: 1445211021
+      RiverCurvesOnlyDiagonalTiles_23: 1981668069
+      RiverCurvesOnlyDiagonalTiles_24: 1407055103
+      RiverCurvesOnlyDiagonalTiles_25: 1946277303
+      RiverCurvesOnlyDiagonalTiles_26: 1580877910
+      RiverCurvesOnlyDiagonalTiles_27: 298290567
+      RiverCurvesOnlyDiagonalTiles_28: 1847578160
+      RiverCurvesOnlyDiagonalTiles_29: -751608052
+      RiverCurvesOnlyDiagonalTiles_3: -211200312
+      RiverCurvesOnlyDiagonalTiles_30: 1017309750
+      RiverCurvesOnlyDiagonalTiles_31: -378565812
+      RiverCurvesOnlyDiagonalTiles_32: -1729571047
+      RiverCurvesOnlyDiagonalTiles_33: -1233573305
+      RiverCurvesOnlyDiagonalTiles_34: 1484543836
+      RiverCurvesOnlyDiagonalTiles_35: 1790047510
+      RiverCurvesOnlyDiagonalTiles_36: -24715137
+      RiverCurvesOnlyDiagonalTiles_37: -905486630
+      RiverCurvesOnlyDiagonalTiles_38: 1398450116
+      RiverCurvesOnlyDiagonalTiles_39: 1747972246
+      RiverCurvesOnlyDiagonalTiles_4: -1154666892
+      RiverCurvesOnlyDiagonalTiles_40: 1427405535
+      RiverCurvesOnlyDiagonalTiles_41: -891898154
+      RiverCurvesOnlyDiagonalTiles_42: -1394731089
+      RiverCurvesOnlyDiagonalTiles_43: 506722319
+      RiverCurvesOnlyDiagonalTiles_44: -1202723899
+      RiverCurvesOnlyDiagonalTiles_45: 332987877
+      RiverCurvesOnlyDiagonalTiles_46: -1233748704
+      RiverCurvesOnlyDiagonalTiles_47: -1461116606
+      RiverCurvesOnlyDiagonalTiles_48: 1859883162
+      RiverCurvesOnlyDiagonalTiles_49: 1516337280
+      RiverCurvesOnlyDiagonalTiles_5: 1120458140
+      RiverCurvesOnlyDiagonalTiles_50: -1670479116
+      RiverCurvesOnlyDiagonalTiles_51: 2080658272
+      RiverCurvesOnlyDiagonalTiles_52: 1199508910
+      RiverCurvesOnlyDiagonalTiles_53: -1152230217
+      RiverCurvesOnlyDiagonalTiles_54: 746676615
+      RiverCurvesOnlyDiagonalTiles_55: -816703385
+      RiverCurvesOnlyDiagonalTiles_56: -517720559
+      RiverCurvesOnlyDiagonalTiles_57: 651227370
+      RiverCurvesOnlyDiagonalTiles_58: -699537848
+      RiverCurvesOnlyDiagonalTiles_59: -1911390869
+      RiverCurvesOnlyDiagonalTiles_6: 1126563050
+      RiverCurvesOnlyDiagonalTiles_60: -692973740
+      RiverCurvesOnlyDiagonalTiles_61: 311684323
+      RiverCurvesOnlyDiagonalTiles_62: 857722123
+      RiverCurvesOnlyDiagonalTiles_63: -1518753344
+      RiverCurvesOnlyDiagonalTiles_64: -435537583
+      RiverCurvesOnlyDiagonalTiles_65: -1432167713
+      RiverCurvesOnlyDiagonalTiles_66: 351758946
+      RiverCurvesOnlyDiagonalTiles_67: -1949909434
+      RiverCurvesOnlyDiagonalTiles_68: -1939601432
+      RiverCurvesOnlyDiagonalTiles_69: 880158552
+      RiverCurvesOnlyDiagonalTiles_7: 129788423
+      RiverCurvesOnlyDiagonalTiles_70: -435572263
+      RiverCurvesOnlyDiagonalTiles_71: -134183831
+      RiverCurvesOnlyDiagonalTiles_72: 1905803467
+      RiverCurvesOnlyDiagonalTiles_73: 1445769707
+      RiverCurvesOnlyDiagonalTiles_74: -660073941
+      RiverCurvesOnlyDiagonalTiles_75: 2081763720
+      RiverCurvesOnlyDiagonalTiles_76: 62862436
+      RiverCurvesOnlyDiagonalTiles_77: -620797658
+      RiverCurvesOnlyDiagonalTiles_78: 891534752
+      RiverCurvesOnlyDiagonalTiles_79: -1336306358
+      RiverCurvesOnlyDiagonalTiles_8: 1295246027
+      RiverCurvesOnlyDiagonalTiles_80: -657542215
+      RiverCurvesOnlyDiagonalTiles_81: 569051335
+      RiverCurvesOnlyDiagonalTiles_82: -467652048
+      RiverCurvesOnlyDiagonalTiles_83: -1907300190
+      RiverCurvesOnlyDiagonalTiles_84: -1365365161
+      RiverCurvesOnlyDiagonalTiles_85: -1300015891
+      RiverCurvesOnlyDiagonalTiles_86: 2124918148
+      RiverCurvesOnlyDiagonalTiles_87: 611595312
+      RiverCurvesOnlyDiagonalTiles_88: 1327187526
+      RiverCurvesOnlyDiagonalTiles_89: -237818232
+      RiverCurvesOnlyDiagonalTiles_9: -1445095537
+      RiverCurvesOnlyDiagonalTiles_90: 949550969
+      RiverCurvesOnlyDiagonalTiles_91: 1970792349
+      RiverCurvesOnlyDiagonalTiles_92: 1798329764
+      RiverCurvesOnlyDiagonalTiles_93: 709538128
+      RiverCurvesOnlyDiagonalTiles_94: 1875892439
+      RiverCurvesOnlyDiagonalTiles_95: 867511023
+      RiverCurvesOnlyDiagonalTiles_96: -30905943
+      RiverCurvesOnlyDiagonalTiles_97: 1368983730
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
