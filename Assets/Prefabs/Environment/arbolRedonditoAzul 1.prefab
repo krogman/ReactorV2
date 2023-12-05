@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2550427684175866324}
   - component: {fileID: 6115817800029423920}
-  - component: {fileID: 6710501121808596494}
+  - component: {fileID: 6899698275725184877}
   m_Layer: 0
   m_Name: arbolRedonditoAzul 1
   m_TagString: Untagged
@@ -85,8 +85,8 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 1
---- !u!58 &6710501121808596494
-CircleCollider2D:
+--- !u!61 &6899698275725184877
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -117,6 +117,16 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 2.96875}
+  m_Offset: {x: 0, y: 1.2}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0}
+    oldSize: {x: 5.625, y: 5.9375}
+    newSize: {x: 5.625, y: 5.9375}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
   serializedVersion: 2
-  m_Radius: 2.96875
+  m_Size: {x: 1.5, y: 0.1}
+  m_EdgeRadius: 0

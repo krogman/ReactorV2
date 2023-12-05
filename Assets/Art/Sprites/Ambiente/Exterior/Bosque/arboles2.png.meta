@@ -123,90 +123,6 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: arboles2_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 768
-        width: 75
-        height: 163
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 437b6c1cc34f1c941a12bf2229747ecb
-      internalID: 1312018007
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arboles2_1
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 768
-        width: 75
-        height: 163
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ecab0125d81723489a7c37b5a260dfa
-      internalID: 1800123508
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arboles2_2
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 768
-        width: 75
-        height: 163
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e81ac41b05270594a8278dad8abcddfd
-      internalID: -1035818244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arboles2_3
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 768
-        width: 75
-        height: 163
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2b0202bb680a6104e82d1d72dabaf3a1
-      internalID: -573731129
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: arboles2_4
       rect:
         serializedVersion: 2
@@ -1189,27 +1105,6 @@ TextureImporter:
       bones: []
       spriteID: b2485a342c0bc4547a4beacc21a8bd09
       internalID: 183221956
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: arboles2_51
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 560
-        width: 156
-        height: 69
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4d9501088e98e5d48817785fcc222640
-      internalID: 403861224
       vertices: []
       indices: 
       edges: []
@@ -2916,27 +2811,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: arboles2_133
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 0
-        width: 187
-        height: 85
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b5473c724850c4c439d7667490636e21
-      internalID: 1607100245
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: arboles2_134
       rect:
         serializedVersion: 2
@@ -3323,7 +3197,7 @@ TextureImporter:
         width: 129
         height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3344,7 +3218,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
