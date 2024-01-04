@@ -22,6 +22,9 @@ public class DialogoController : Singleton<DialogoController>
 
     //bool
     bool despedidaMostrada;
+    bool tieneMision;
+    bool misionAceptada;
+    Mision misionDialogo;
 
     private void Start() {
         dialogoSecuencia= new Queue<string>();
@@ -41,6 +44,13 @@ public class DialogoController : Singleton<DialogoController>
         if(despedidaMostrada){
             UIController.Instance.cerrarPanelDialogo();
             despedidaMostrada=false;
+            WayPointMovimiento.Instance.estaHablando=false;
+            if(tieneMision){
+                if(misionDialogo.misionAceptada==false){
+                    UIController.Instance.abrirCerrarPanelMision();
+                    MisionController.Instance.cargarInformacionNPC(misionDialogo);
+                }
+            }
             return;
         }
         continuarDialogo();
@@ -50,13 +60,11 @@ public class DialogoController : Singleton<DialogoController>
         if(dialogo==null){
             return;
         }
-        //if()
         if(dialogoSecuencia.Count==0){
             conversacion.text=dialogo.despedida;
             despedidaMostrada=true;
             return;
-        }
-        //string siguienteDialogo = 
+        } 
         conversacion.text=dialogoSecuencia.Dequeue();
     }
 
@@ -66,21 +74,25 @@ public class DialogoController : Singleton<DialogoController>
         eventoActual=JugadorStats.Instance.evento;
         string[] auxChat;
         for(int i=0;i<dialogo.conversacion.Length;i++){
-             Debug.Log("FOR");
-             Debug.Log("Numero de chat" + dialogo.conversacion[i].hastaEvento);
-            Debug.Log("Numero de eventoActual" + eventoActual );
+             //Debug.Log("FOR");
+             //Debug.Log("Numero de chat" + dialogo.conversacion[i].hastaEvento);
+            //Debug.Log("Numero de eventoActual" + eventoActual );
             if(eventoActual<=dialogo.conversacion[i].hastaEvento){
-                Debug.Log("Entro al if");
+                //Debug.Log("Entro al if");
                 auxChat=dialogo.conversacion[i].oraciones;
+                tieneMision=dialogo.conversacion[i].contieneMision;
+                if(tieneMision){
+                    misionDialogo=dialogo.conversacion[i].mision;
+                }
                 for(int j=0;j<auxChat.Length;j++){
                     dialogoSecuencia.Enqueue(auxChat[j]);
                 }
                 break;
             }
         }
-        if(dialogoSecuencia.Count==0){
+        /*if(dialogoSecuencia.Count==0){
             Debug.Log("dialogosecuencia no guarda nada");
-        }
+        }*/
     }
 
 }

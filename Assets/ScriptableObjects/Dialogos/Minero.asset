@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9051e32d038d174aae402ce05c06297, type: 3}
+  m_Name: Minero
+  m_EditorClassIdentifier: 
+  nombre: Minero2
+  saludo: Hola, bienvenido a la ciudad
+  conversacion:
+  - hastaEvento: 3
+    contieneMision: 1
+    oraciones:
+    - Esta ciudad siempre ha sido mi favorita, deberias visitar la panaderia,  hacen
+      unos pasteles deliciosos
+    - "Esta hacia el norte, te acompa\xF1aria, pero mi hijo me espera en casa"
+    mision: {fileID: 11400000, guid: ecc27004aced7334486f1ef972561885, type: 2}
+  despedida: Nos vemos

@@ -10,6 +10,8 @@ public class SlotInventario : MonoBehaviour
     private Button boton;
     //public int itemId = itemGuardado.id;
 
+    public bool esSlotEquipado;
+
     private void Start() {
         boton = GetComponent<Button>();
         boton.onClick.AddListener(mostrarInfo);
@@ -25,8 +27,18 @@ public class SlotInventario : MonoBehaviour
     }
 
     public void mostrarInfo(){
-        UIController.Instance.abrirInfoObj();
-        Inventario.Instance.mostrarInfoItem(itemGuardado);
+        
+        if(esSlotEquipado){
+            if(itemGuardado!=null){
+                UIController.Instance.abrirInfoObj();
+                Inventario.Instance.mostrarInfoItem(itemGuardado,esSlotEquipado);
+
+            }
+
+        }else{
+            UIController.Instance.abrirInfoObj();
+            Inventario.Instance.mostrarInfoItem(itemGuardado,esSlotEquipado);
+        }
     }
 
 }

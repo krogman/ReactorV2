@@ -10,8 +10,6 @@ public class NPCDialogo : ScriptableObject
     [Header("Info")]
     public string nombre;
     //public Sprite Icono;
-    public bool ContieneInteraccionExtra;
-
 
     [Header("Saludo")]
     [TextArea] public string saludo;
@@ -25,9 +23,10 @@ public class NPCDialogo : ScriptableObject
     [Serializable]
     public class DialogoTexto
     {
-        //[TextArea] public string oracion;
         public int hastaEvento;
+        public bool contieneMision;
         [TextArea] public string[] oraciones;
+        public Mision mision;
     }
 
 

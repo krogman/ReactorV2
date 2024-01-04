@@ -174,85 +174,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TilesExtras_0
+      name: ExtraGrass_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 8
         height: 8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c152ae62744c04b43bbac6a38f697b6f
-      internalID: 828993172
+      spriteID: 910cc8ed15f8b0ff0800000000000000
+      internalID: -68803787505221607
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TilesExtras_1
+      name: ExtraGrass_1
       rect:
         serializedVersion: 2
         x: 8
         y: 0
         width: 8
         height: 8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d9376024ed2cce409f53ec170f4b0a0
-      internalID: -183524682
+      spriteID: 846e729bc0a47d020800000000000000
+      internalID: 2366441547712947784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TilesExtras_2
+      name: ExtraGrass_2
       rect:
         serializedVersion: 2
         x: 16
         y: 0
         width: 8
         height: 8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84c39031ac0f7c445a527e34db636974
-      internalID: -416477970
+      spriteID: e44e59e1e78e4d8b0800000000000000
+      internalID: -5128218447291489202
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TilesExtras_3
+      name: ExtraGrass_3
       rect:
         serializedVersion: 2
         x: 24
         y: 0
         width: 8
         height: 8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 973e22b121716eb43bd22ba32f7a4f45
-      internalID: -1330503446
+      spriteID: f4e7a6600fa148b20800000000000000
+      internalID: 3135660858758823503
       vertices: []
       indices: 
       edges: []
@@ -268,10 +268,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      TilesExtras_0: 828993172
-      TilesExtras_1: -183524682
-      TilesExtras_2: -416477970
-      TilesExtras_3: -1330503446
+      ExtraGrass_0: -68803787505221607
+      ExtraGrass_1: 2366441547712947784
+      ExtraGrass_2: -5128218447291489202
+      ExtraGrass_3: 3135660858758823503
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

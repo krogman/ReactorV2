@@ -1,15 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 
-public enum DireccionMovimiento{
-    Horizontal,
-    Vertical
-}
 
-public class WayPointMovimiento : MonoBehaviour
+public class WayPointMovimiento : Singleton<WayPointMovimiento>
 {
-    [SerializeField] private DireccionMovimiento direccion;
     [SerializeField] private float velocidad;
 
     public Vector3 siguientePosicion => _waypoint.ObtenerPosicionMovimiento(puntoActualIndex);
@@ -17,22 +13,33 @@ public class WayPointMovimiento : MonoBehaviour
     private int puntoActualIndex;
     private Vector3 ultimaPosicion;
 
+    //PARA EL DIALOGO
+    public bool estaHablando=false;
+
+    //animaciones
+    public Animator animator;
+    private Vector3 auxXY;
+
    
-    // Start is called before the first frame update
     private void Start()
     {
         puntoActualIndex=0;
         _waypoint=GetComponent<WayPoint>();
+        animator=GetComponent<Animator>();
     }
 
-    // Update is called once per frame
     private void Update()
     {
-        moverPersonaje();
-        rotarPersonaje();
+        if(!estaHablando){
+            moverPersonaje();
+            rotarPersonaje();
+        }else{
+            animator.Play("Idle");
+        }
 
         if(alcanzaPunto()){
             actualizarIndexMovimiento();
+            auxXY=ultimaPosicion-siguientePosicion;
         }
     }
 
@@ -60,17 +67,28 @@ public class WayPointMovimiento : MonoBehaviour
             }
         }
     }
-
     private void rotarPersonaje(){
-        if(direccion != DireccionMovimiento.Horizontal){
-            return;
-        }
 
-        if(siguientePosicion.x > ultimaPosicion.x){
-            transform.localScale = new Vector3((float)1.6,(float)1.6,(float)1.6);
+        animator.SetFloat("Horizontal", 0f);
+        animator.SetFloat("Vertical", 0f);
+        
+        if(Math.Abs(auxXY.x)>Math.Abs(auxXY.y)){
+            //Camina Horizontalmente
+            if(siguientePosicion.x > ultimaPosicion.x){
+                animator.SetFloat("Horizontal", 1f);
+        }   else{
+                animator.SetFloat("Horizontal", -1f);
+            }
         }else{
-            transform.localScale = new Vector3((float)-1.6,(float)1.6,(float)1.6);
+            //Camina Verticalmente
+            if(siguientePosicion.y > ultimaPosicion.y){
+                animator.SetFloat("Vertical", 1f);
+            }else{
+                animator.SetFloat("Vertical", -1f);
+            }
+
         }
+        animator.Play("Caminar");
     }
 
 }

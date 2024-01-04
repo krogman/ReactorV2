@@ -14,11 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 0
   nombre: "Hidr\xF3geno [H]"
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: fb0a21ff412b5264cad97c350dca6d07, type: 3}
   descripcion: 'Es un gas inflamable eh incoloro, se encuentra en la atmosfera terrestre
     y en el agua '
   tipo: 3
-  elemento_img: {fileID: 0}
+  esElemento: 1
+  simbolo: H
+  elemento_img: {fileID: 21300000, guid: fb0a21ff412b5264cad97c350dca6d07, type: 3}
   numAtomico: 1
   pesoAtomico: 1.00784 u
   uso: "Se utiliza en la producci\xF3n de amoniaco, combustible, refinaci\xF3n de

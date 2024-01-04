@@ -6,6 +6,24 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Managers.unity
+    guid: ad5f3ee803439a845a51062d2ced0129
+  - enabled: 1
+    path: Assets/Scenes/Bosque.unity
+    guid: 4f74d46c3d0db584aa9f1e351649c0c4
+  - enabled: 1
+    path: Assets/Scenes/Kalybsia.unity
+    guid: 4b9dd3d8ac60fea4b88760ad829cd0f7
+  - enabled: 1
+    path: Assets/Scenes/TP.unity
+    guid: 62470b5a765fc704d81e3f0fb219ff43
+  - enabled: 1
+    path: Assets/Scenes/Minas.unity
+    guid: 1fb3d070a16a4364a97229c01a58bf08
+  - enabled: 1
+    path: Assets/Scenes/LabArk.unity
+    guid: 53debd9c3711fb94e96a812a72c24bd1
+  - enabled: 1
     path: Assets/Scenes/Bosque.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}

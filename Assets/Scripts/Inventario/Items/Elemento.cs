@@ -5,6 +5,7 @@ using UnityEngine;
 [CreateAssetMenu(menuName= "Items/Elemento")]
 public class Elemento : Item
 {
+    public string simbolo;
     public Sprite elemento_img;
     public int numAtomico;
     public string pesoAtomico;
@@ -13,5 +14,8 @@ public class Elemento : Item
     [TextArea] public string caracteristicas;
     [TextArea] public string dndEncontrarlo;
 
+    public override Elemento getElemento(){
+        return this;
+    }
 
 }

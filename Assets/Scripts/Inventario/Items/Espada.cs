@@ -6,4 +6,14 @@ using UnityEngine;
 public class Espada : Item
 {
     public int nivelDano;
+
+    public override void usarItem(){
+        JugadorStats.Instance.Arma=this;
+        JugadorStats.Instance.nivelDanoAct=nivelDano;
+    }
+
+    public override void destruirItem(){
+        JugadorStats.Instance.Arma=null;
+        JugadorStats.Instance.nivelDanoAct=0;
+    }
 }

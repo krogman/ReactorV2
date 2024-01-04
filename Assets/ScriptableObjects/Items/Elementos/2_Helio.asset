@@ -14,17 +14,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 1
   nombre: Helio[He]
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: fb0a21ff412b5264cad97c350dca6d07, type: 3}
   descripcion: Es un gas noble, incoloro e inodoro. se encuentra como gas natural
     y en la admosfera solar
   tipo: 3
-  elemento_img: {fileID: 0}
+  esElemento: 1
+  simbolo: He
+  elemento_img: {fileID: 21300000, guid: fb0a21ff412b5264cad97c350dca6d07, type: 3}
   numAtomico: 2
-  pesoAtomico: 
+  pesoAtomico: 2.0125u
   uso: "Se suele utilizar en Soldadura por arco y en la fabricaci\xF3n de cristales
     de silicio y germanio, presurizar combustibles l\xEDquidos de cohetes. Criogenia
     en la refrigeraci\xF3n de imanes superconductores; IRM. Enfriamiento de imanes
     en resonancia magn\xE9tica, soldadura, detecci\xF3n de fugas"
-  configElectronica: 
-  caracteristicas: 
-  dndEncontrarlo: 
+  configElectronica: 1 S<sup>1</sup>
+  caracteristicas: 'EJEMPLO Es un gas inflamable eh incoloro que no se puede encontrar
+    en esttdo puro '
+  dndEncontrarlo: "EJEMPLO Gas natural,  el petr\xF3leo, el carb\xF3n y el agua.
+    \nPara poder separar el Hidr\xF3geno[H] de estas sustancias, se utilizan distintas
+    t\xE9cnicas tales como la electr\xF3lisis, reformaci\xF3n catal\xEDtica, entre
+    otras."

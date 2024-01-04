@@ -42,6 +42,7 @@ public class NPCInteraccion : MonoBehaviour
     public void iniciarConversacion(){
         UIController.Instance.abrirPanelDialogo();
         DialogoController.Instance.iniciarDialogo(npcDialogo);
+        WayPointMovimiento.Instance.estaHablando=true;
     }
 
     //public void continuarConversacion(){

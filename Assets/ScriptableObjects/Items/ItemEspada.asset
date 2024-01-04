@@ -12,9 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 14147b18279bf95418de8147ecf7e884, type: 3}
   m_Name: ItemEspada
   m_EditorClassIdentifier: 
-  id: 1
+  id: 5
   nombre: Espada
   icono: {fileID: 546484342, guid: 0d941b46741ce5c40ae1349e3de18a9d, type: 3}
   descripcion: "Es facil de conseguir, pero no inflinge mucho da\xF1o"
   tipo: 0
+  esElemento: 0
   nivelDano: 3

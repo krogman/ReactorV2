@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class JugadorVida : MonoBehaviour
+public class JugadorVida : Singleton<JugadorVida>
 {
 
     public GameObject[] corazones;
@@ -18,6 +18,10 @@ public class JugadorVida : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        actualizarCorazones(vida);
+    }
+    public void cargarVida(int vid){
+        vida=vid;
         actualizarCorazones(vida);
     }
 

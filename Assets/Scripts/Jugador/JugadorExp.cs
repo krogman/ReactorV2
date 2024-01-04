@@ -4,10 +4,10 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
-public class JugadorExp : MonoBehaviour
+public class JugadorExp : Singleton<JugadorExp>
 {
     public int expMax;
-    private int expActual;
+    public int expActual;
     public TextMeshProUGUI expTMP;
 
     private int nivel;
@@ -25,10 +25,15 @@ public class JugadorExp : MonoBehaviour
               
               if(expActual>=expMax){
                     subirNivel();
-                    actualizarTxt(expMax,expMax);              
+                    actualizarTxt(expMax,expMax);
+                    expActual=expMax;             
                 }else{
                    actualizarTxt(expActual,expMax); 
                 }  
+            }else if(expActual==expMax){
+                if(nivel<=1){
+                    subirNivel();
+                }
             }
             
         }
