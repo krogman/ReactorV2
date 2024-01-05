@@ -65,49 +65,49 @@ public class MonstruosUi : MonoBehaviour
     public void mostrarInformacion(){
         switch(posicion){
             case 0:
-                nombreM.text = "Hidrogeno";
+                nombreM.text = "Cedromorfo";
                 monstruoImg.sprite = monstruosImgs[posicion];
-                poder.text = "P1:Lanzar guizantes por la boca";
-                debilidad.text= "Zombies";
-                armaN.text = "espada";
-                dano.text = "0";
-                exp.text = "1";
+                poder.text = "Controla y manipula la madera a su alrededor, convirtiéndose en ella para camuflarse y para atacar a su enemigo.";
+                debilidad.text= "Elementos que alteren la estructura de la celulosa";
+                armaN.text = "Espada de acero";
+                dano.text = "3";
+                exp.text = "5";
                 break;
             case 1:
-                nombreM.text = "Helio";
+                nombreM.text = "Toxiglop";
                 monstruoImg.sprite = monstruosImgs[posicion];
-                poder.text = "P2: Se pega a su enemigo y emite rashos laser";
-                debilidad.text= "niños";
-                armaN.text = "calcetines";
-                dano.text = "1";
-                exp.text = "2";
+                poder.text = "Emite radiación que daña la salud del jugador.";
+                debilidad.text= "Plomo y boro";
+                armaN.text = "Arma de plomo";
+                dano.text = "9";
+                exp.text = "15";
                 break;
             case 2:
-                nombreM.text = "Argon";
+                nombreM.text = "Neonix prime";
                 monstruoImg.sprite = monstruosImgs[posicion];
                 poder.text = "P3: Embruja a los enemigos que le caen mal";
                 debilidad.text= "agua";
-                armaN.text = "pistola de agua";
-                dano.text = "2";
-                exp.text = "3";
+                armaN.text = "Arma mágica para absorber Aetherium";
+                dano.text = "10";
+                exp.text = "25";
                 break;
             case 3:
-                nombreM.text = "Kripton";
+                nombreM.text = "Metallus";
                 monstruoImg.sprite = monstruosImgs[posicion];
-                poder.text = "P4: Gataclismo, destruye lo que toca, pero solo lo puede usar una vez";
-                debilidad.text= "friendzone";
-                armaN.text = "Amenazas";
-                dano.text = "3";
-                exp.text = "4";
+                poder.text = "Capacidad de manipular y controlar la electricidad";
+                debilidad.text= "Temperaturas extremas";
+                armaN.text = "Arma de frío o lanzallamas";
+                dano.text = "8";
+                exp.text = "15";
                 break;
             case 4:
-                nombreM.text = "Neon";
+                nombreM.text = "Lantaris";
                 monstruoImg.sprite = monstruosImgs[posicion];
-                poder.text = "P5: Santouriu: utiliza 3 espada y corta a sus enemigos";
-                debilidad.text= "desorientacion";
-                armaN.text = "laberinto";
-                dano.text = "4";
-                exp.text = "5";
+                poder.text = "Genera poderosos ataques de ondas sónicas gracias a su gran fuerza. ";
+                debilidad.text= "Materiales más duros y con mayor resistencia ";
+                armaN.text = "Espada de diamante";
+                dano.text = "7";
+                exp.text = "15";
                 break;
             case 5:
                 nombreM.text = "Oxigeno";

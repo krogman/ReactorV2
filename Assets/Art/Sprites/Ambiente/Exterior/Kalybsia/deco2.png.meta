@@ -126,9 +126,9 @@ TextureImporter:
       name: deco2_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 4
         y: 0
-        width: 78
+        width: 69
         height: 91
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -147,9 +147,9 @@ TextureImporter:
       name: deco2_1
       rect:
         serializedVersion: 2
-        x: 78
+        x: 84
         y: 0
-        width: 78
+        width: 69
         height: 91
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -168,9 +168,9 @@ TextureImporter:
       name: deco2_2
       rect:
         serializedVersion: 2
-        x: 156
+        x: 165
         y: 0
-        width: 78
+        width: 69
         height: 91
       alignment: 7
       pivot: {x: 0.5, y: 0}
