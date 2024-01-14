@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 79_Oro
+  m_EditorClassIdentifier: 
+  id: 3
+  nombre: Oro
+  icono: {fileID: 0}
+  descripcion: "industria qu\xEDmica.Metal de transici\xF3n, precioso, utilizado
+    en joyer\xEDa, electr\xF3nica y en la industria m\xE9dica."
+  tipo: 3
+  esElemento: 1
+  simbolo: Au
+  elemento_img: {fileID: 0}
+  numAtomico: 79
+  pesoAtomico: 196.9665
+  uso: "En joyer\xEDa, monedas, electr\xF3nica, odontolog\xEDa, medicina, entre otros."
+  configElectronica: '[Xe] 4f <sup> 14</sup> 5d<sup>10</sup> 6s<sup>1</sup>'
+  caracteristicas: "El oro exhibe un color amarillo en bruto. Es considerado como
+    el metal m\xE1s maleable y d\xFActil que se conoce."
+  dndEncontrarlo: "Se encuentra en la naturaleza como oro nativo y en minerales de
+    oro como la calaverita, lechos de r\xEDos y vetas de cuarzo."

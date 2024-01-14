@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 39_Itrio
+  m_EditorClassIdentifier: 
+  id: 38
+  nombre: Itrio
+  icono: {fileID: 0}
+  descripcion: "Metal de transici\xF3n, utilizado en la fabricaci\xF3n de l\xE1seres
+    y en aleaciones."
+  tipo: 3
+  esElemento: 1
+  simbolo: Y
+  elemento_img: {fileID: 0}
+  numAtomico: 39
+  pesoAtomico: 88.9059
+  uso: "L\xE1seres, aleaciones, vidrio de alta resistencia"
+  configElectronica: '[Kr] 4d <sup> 1 </sup> 5s <sup>2</sup>'
+  caracteristicas: "Metal de transici\xF3n plateado."
+  dndEncontrarlo: Se extrae de minerales de tierras raras como xenotima, gadolinita,
+    entre otros.

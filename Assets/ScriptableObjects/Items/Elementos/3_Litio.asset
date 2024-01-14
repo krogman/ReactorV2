@@ -12,15 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
   m_Name: 3_Litio
   m_EditorClassIdentifier: 
-  id: 0
-  nombre: 
+  id: 2
+  nombre: Litio
   icono: {fileID: 0}
-  descripcion: 
-  tipo: 0
+  descripcion: "Metal ligero, empleado en bater\xEDas y medicamentos psiqui\xE1tricos."
+  tipo: 3
+  esElemento: 1
+  simbolo: Li
   elemento_img: {fileID: 0}
-  numAtomico: 0
-  pesoAtomico: 
-  uso: 
-  configElectronica: 
-  caracteristicas: 
-  dndEncontrarlo: 
+  numAtomico: 3
+  pesoAtomico: 6.941
+  uso: "Fabricaci\xF3n de bater\xEDas, vidrio, cer\xE1mica, aleaciones."
+  configElectronica: 1s <sup>2 </sup> 2s <sup>1</sup>
+  caracteristicas: Metal blando plateado.
+  dndEncontrarlo: "Se extrae de la salmuera, miner\xEDa de roca dura, entre otros."

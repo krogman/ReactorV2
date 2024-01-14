@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 102_Nobelio
+  m_EditorClassIdentifier: 
+  id: 101
+  nombre: Nobelio
+  icono: {fileID: 0}
+  descripcion: "Act\xEDnido artificial, producido en reactores nucleares, utilizado
+    en investigaciones cient\xEDficas."
+  tipo: 3
+  esElemento: 1
+  simbolo: No
+  elemento_img: {fileID: 0}
+  numAtomico: 102
+  pesoAtomico: 259
+  uso: "El nobelio se utiliza principalmente para la investigaci\xF3n nuclear y la
+    s\xEDntesis de elementos superpesados. Tambi\xE9n puede utilizarse en la medici\xF3n
+    de radiactividad."
+  configElectronica: '[Rn] 5f <sup>14</sup> 7s <sup>2</sup>'
+  caracteristicas: "Llamado as\xED en honor del inventor Alfred Nobel. Es el 11.er
+    elemento sint\xE9tico de la tabla peri\xF3dica. Su decaimiento se realiza por
+    emisi\xF3n de part\xEDculas alfa, es decir, un ion de helio doblemente cargado."
+  dndEncontrarlo: "El nobelio se produce sint\xE9ticamente en peque\xF1as cantidades
+    mediante la irradiaci\xF3n de plutonio o curio en un reactor nuclear."

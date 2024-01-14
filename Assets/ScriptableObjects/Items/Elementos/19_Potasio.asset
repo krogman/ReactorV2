@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 19_Potasio
+  m_EditorClassIdentifier: 
+  id: 18
+  nombre: Potasio
+  icono: {fileID: 0}
+  descripcion: "Metal alcalino, esencial para el equilibrio electrol\xEDtico en el
+    cuerpo y en fertilizantes."
+  tipo: 3
+  esElemento: 1
+  simbolo: K
+  elemento_img: {fileID: 0}
+  numAtomico: 19
+  pesoAtomico: 39.948
+  uso: "Relleno de bombillas y en tubos fluorescentes a una presi\xF3n de 400 Pa;
+    crecimiento de cristales de silicio y germanio; producci\xF3n de titanio, molibdeno
+    y otros elementos reactivos; soldadura de arco y en corte. Utilizado en la iluminaci\xF3n,
+    soldadura y en la producci\xF3n de semiconductores."
+  configElectronica: 1s <sup>2 </sup>2s <sup>2</sup> 2p <sup>6</sup>3s <sup>2</sup>
+    3p <sup> 6 </sup> 4s <sup>1</sup>
+  caracteristicas: Gas noble incoloro
+  dndEncontrarlo: "Se extrae del aire mediante licuefacci\xF3n y destilaci\xF3n fraccionada.
+    El Ar39 se genera por bombardeo de rayos c\xF3smicos principalmente a partir
+    del Ar40."

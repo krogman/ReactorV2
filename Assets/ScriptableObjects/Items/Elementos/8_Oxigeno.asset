@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 8_Oxigeno
+  m_EditorClassIdentifier: 
+  id: 7
+  nombre: "Ox\xEDgeno"
+  icono: {fileID: 0}
+  descripcion: "Vital para la respiraci\xF3n, componente mayoritario de la atm\xF3sfera
+    y oxidante en reacciones qu\xEDmicas."
+  tipo: 3
+  esElemento: 1
+  simbolo: O
+  elemento_img: {fileID: 0}
+  numAtomico: 8
+  pesoAtomico: 15.9994
+  uso: "Combusti\xF3n, respiraci\xF3n, metalurgia, producci\xF3n de explosivos, productos
+    qu\xEDmicos y materiales sint\xE9ticos, entre otros."
+  configElectronica: 1s <sup>2 </sup>2s <sup>2</sup> 2p <sup>4</sup>
+  caracteristicas: "Gas incoloro, inodoro, ins\xEDpido y altamente reactivo. Es un
+    fuerte oxidante."
+  dndEncontrarlo: "Se encuentra en el aire atmosf\xE9rico, en el agua y en muchos
+    compuestos org\xE1nicos e inorg\xE1nicos. Se puede obtener a trav\xE9s de la
+    destilaci\xF3n fraccionada del aire l\xEDquido."

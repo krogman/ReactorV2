@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 49_Indio
+  m_EditorClassIdentifier: 
+  id: 48
+  nombre: Indio
+  icono: {fileID: 0}
+  descripcion: "Metal escaso, utilizado en pantallas t\xE1ctiles, semiconductores
+    y en aleaciones."
+  tipo: 3
+  esElemento: 1
+  simbolo: In
+  elemento_img: {fileID: 0}
+  numAtomico: 49
+  pesoAtomico: 114.818
+  uso: "Joyer\xEDa, electr\xF3nica, monedas y utensilios de plata, entre otros."
+  configElectronica: '[Kr] 4d <sup> 10</sup> 5s <sup>2</sup> 5p <sup>1</sup>'
+  caracteristicas: Color plata blanca y suave.
+  dndEncontrarlo: "En minerales de cobre y plomo.\nEn la naturaleza se encuentra
+    en minas y dep\xF3sitos, en ambientes acuosos y en algunos organismos vivos como
+    algas y peces"

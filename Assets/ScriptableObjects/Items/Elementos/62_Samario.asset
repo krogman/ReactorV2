@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 62_Samario
+  m_EditorClassIdentifier: 
+  id: 61
+  nombre: Samario
+  icono: {fileID: 0}
+  descripcion: "Lant\xE1nido, empleado en imanes permanentes y en la producci\xF3n
+    de aleaciones."
+  tipo: 3
+  esElemento: 1
+  simbolo: Sm
+  elemento_img: {fileID: 0}
+  numAtomico: 62
+  pesoAtomico: 150.36
+  uso: "puede ser encontrado en equipos tales como televisiones en color, l\xE1mparas
+    fluorescentes y cristales. Imanes de aleaci\xF3n samario-cobalto para auriculares,
+    motores peque\xF1os y pastillas para guitarras el\xE9ctricas; estos imanes resisten
+    la desmagnetizaci\xF3n, etc\xE9tera."
+  configElectronica: '[Xe] 4f <sup> 6 </sup> 6s<sup>2</sup>'
+  caracteristicas: Es un metal raro de tierra, con un lustre plateado brilloso
+  dndEncontrarlo: "Es obtenido principalmente a trav\xE9s de un proceso de intercambio
+    i\xF3nico de la arena de monacita ((Ce, La, Th, Nd, Y)PO4), un material rico
+    en elementos de tierras raras que contiene hasta un 2,8 % de samario."

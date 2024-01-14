@@ -31,6 +31,7 @@ public class ListaStringWrapper{
 
 
 public class DatosPartida : MonoBehaviour
+
 {
 
     private void Start() {

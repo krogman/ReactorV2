@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 94_Plutonio
+  m_EditorClassIdentifier: 
+  id: 93
+  nombre: Plutonio
+  icono: {fileID: 0}
+  descripcion: "Act\xEDnido radioactivo, utilizado en la fabricaci\xF3n de armas
+    nucleares y en reactores."
+  tipo: 3
+  esElemento: 1
+  simbolo: Pu
+  elemento_img: {fileID: 0}
+  numAtomico: 94
+  pesoAtomico: 243
+  uso: "Reactores nucleares, investigaci\xF3n cient\xEDfica, armamento nuclear, etc\xE9tera."
+  configElectronica: '[Rn] 5f <sup>6</sup> 7s <sup>2</sup>'
+  caracteristicas: "S\xF3lido met\xE1lico, plateado en apariencia, maleable y d\xFActil."
+  dndEncontrarlo: Se extrae de minerales de uranio y/o plutonio en residuos nucleares.

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 57_Lantano
+  m_EditorClassIdentifier: 
+  id: 56
+  nombre: Lantano
+  icono: {fileID: 0}
+  descripcion: "Lant\xE1nido, utilizado en la fabricaci\xF3n de imanes permanentes
+    y en catalizadores."
+  tipo: 3
+  esElemento: 1
+  simbolo: La
+  elemento_img: {fileID: 0}
+  numAtomico: 57
+  pesoAtomico: 138.9055
+  uso: " Producci\xF3n de catalizadores para la industria petroqu\xEDmica, en la
+    producci\xF3n de materiales de aleaci\xF3n de alta resistencia y en la producci\xF3n
+    de vidrios especiales. Se usa en aleaciones con el aluminio y el magnesio, as\xED
+    como tambi\xE9n con el acero; componente de las pantallas intensificadoras de
+    las unidades de rayos X; el \xF3xido de lantano se usa para fabricar ciertos
+    tipos de vidrios \xF3pticos, entre otros."
+  configElectronica: '[Xe] 4f <sup> 1 </sup> 6s<sup>2</sup>'
+  caracteristicas: "Metal plateado que es blando, d\xFActil y maleable."
+  dndEncontrarlo: "El lantano se encuentra en minerales de tierras raras y se puede
+    obtener por electr\xF3lisis de sus sales fundidas."

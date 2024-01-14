@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 17_Cloro
+  m_EditorClassIdentifier: 
+  id: 16
+  nombre: Cloro
+  icono: {fileID: 0}
+  descripcion: "Gas hal\xF3geno, desinfectante, presente en la sal de mesa y en productos
+    qu\xEDmicos industriales."
+  tipo: 3
+  esElemento: 1
+  simbolo: Cl
+  elemento_img: {fileID: 0}
+  numAtomico: 17
+  pesoAtomico: 35.453
+  uso: "Componente de la producci\xF3n de \xE1cido sulf\xFArico y otros qu\xEDmicos."
+  configElectronica: 1s <sup>2 </sup>2s <sup>2</sup> 2p <sup>6</sup>3s <sup>2</sup>
+    3p <sup> 5 </sup>
+  caracteristicas: No metal
+  dndEncontrarlo: "Extra\xEDdo de azufre y sulfatos de metales"

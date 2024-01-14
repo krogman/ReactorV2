@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 76_Osmio
+  m_EditorClassIdentifier: 
+  id: 75
+  nombre: Osmio
+  icono: {fileID: 0}
+  descripcion: "Metal de transici\xF3n, denso y resistente, utilizado en aleaciones
+    y en la industria qu\xEDmica."
+  tipo: 3
+  esElemento: 1
+  simbolo: Os
+  elemento_img: {fileID: 0}
+  numAtomico: 76
+  pesoAtomico: 190.23
+  uso: "En aleaciones duras y resistentes a la corrosi\xF3n, contactos el\xE9ctricos,
+    puntas de pluma estilogr\xE1fica y componentes de instrumentos de medici\xF3n."
+  configElectronica: '[Xe] 4f <sup> 14</sup> 5d<sup>5</sup> 6s<sup>2</sup>'
+  caracteristicas: 'La dureza del osmio es moderadamente alta, con un valor de 4
+    GPa. '
+  dndEncontrarlo: Se encuentra en minerales de platino y se encuentra en la naturaleza
+    principalmente en forma de aleaciones.

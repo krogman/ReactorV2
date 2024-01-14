@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 26_Hierro
+  m_EditorClassIdentifier: 
+  id: 25
+  nombre: Hierro
+  icono: {fileID: 0}
+  descripcion: "Metal de transici\xF3n, esencial en la hemoglobina, utilizado en
+    construcci\xF3n y en la industria sider\xFArgica."
+  tipo: 3
+  esElemento: 1
+  simbolo: Fe
+  elemento_img: {fileID: 0}
+  numAtomico: 26
+  pesoAtomico: 55.845
+  uso: "Producci\xF3n de acero, imanes, catalizadores, maquinaria industrial, etc."
+  configElectronica: 1s <sup>2 </sup>2s <sup>2</sup> 2p <sup>6</sup>3s <sup>2</sup>
+    3p <sup> 6 </sup> 4s <sup>2</sup> 3d <sup>6 </sup>
+  caracteristicas: "Metal gris plateado, maleable y d\xFActil."
+  dndEncontrarlo: Se extrae de minerales de hierro y otros minerales.

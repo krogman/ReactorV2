@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 70_Iterbio
+  m_EditorClassIdentifier: 
+  id: 69
+  nombre: Iterbio
+  icono: {fileID: 0}
+  descripcion: "Lant\xE1nido, empleado en la fabricaci\xF3n de imanes y en la terapia
+    con radiaci\xF3n."
+  tipo: 3
+  esElemento: 1
+  simbolo: Yb
+  elemento_img: {fileID: 0}
+  numAtomico: 70
+  pesoAtomico: 173.04
+  uso: "Se utiliza en aleaciones, para la fabricaci\xF3n de aceros inoxidables y
+    en la producci\xF3n de aleaciones para la generaci\xF3n de neutrones. Tambi\xE9n
+    se utiliza en dispositivos de detecci\xF3n de radiaci\xF3n y como fuente de radiaci\xF3n
+    gamma."
+  configElectronica: '[Xe] 4f <sup> 14</sup> 6s<sup>2</sup>'
+  caracteristicas: Es un metal plateado brillante.
+  dndEncontrarlo: Se encuentra en minerales de tierras raras junto con otros elementos
+    y en algunos minerales de uranio y torio.

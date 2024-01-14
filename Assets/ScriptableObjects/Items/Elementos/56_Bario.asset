@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 56_Bario
+  m_EditorClassIdentifier: 
+  id: 55
+  nombre: Bario
+  icono: {fileID: 0}
+  descripcion: "Metal alcalinot\xE9rreo, presente en contrastes radiol\xF3gicos y
+    en la industria del vidrio."
+  tipo: 3
+  esElemento: 1
+  simbolo: Ba
+  elemento_img: {fileID: 0}
+  numAtomico: 56
+  pesoAtomico: 137.327
+  uso: "Se utiliza en aleaciones para producir imanes permanentes y en la producci\xF3n
+    de c\xE1todos de tubos de rayos cat\xF3dicos."
+  configElectronica: '[Xe] 6s<sup>2</sup>'
+  caracteristicas: Metal blanco plateado que es blando y reactivo.
+  dndEncontrarlo: "El bario se encuentra en la naturaleza en minerales, rocas sedimentarias
+    y minerales de bario como la barita (extra\xEDdo mediante electr\xF3lisis)."

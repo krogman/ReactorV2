@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 85_Astato
+  m_EditorClassIdentifier: 
+  id: 3
+  nombre: Astato
+  icono: {fileID: 0}
+  descripcion: "Hal\xF3geno radioactivo, presente en trazas, utilizado en investigaciones
+    nucleares."
+  tipo: 3
+  esElemento: 1
+  simbolo: At
+  elemento_img: {fileID: 0}
+  numAtomico: 85
+  pesoAtomico: 210
+  uso: "Fuente de radiaci\xF3n, estudios de reacciones qu\xEDmicas, investigaci\xF3n
+    m\xE9dica. Tiene algunas aplicaciones en medicina nuclear y en la detecci\xF3n
+    de part\xEDculas."
+  configElectronica: '[Xe] 4f <sup> 14</sup> 5d<sup>2</sup> 6s<sup>2</sup> 6p <sup>5</sup>'
+  caracteristicas: "S\xF3lido oscuro o brillante, radiactivo"
+  dndEncontrarlo: "Minerales de uranio y torio. Se produce por bombardeo de bismuto
+    con part\xEDculas alfa"

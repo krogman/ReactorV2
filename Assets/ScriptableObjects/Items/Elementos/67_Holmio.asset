@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 67_Holmio
+  m_EditorClassIdentifier: 
+  id: 66
+  nombre: Holmio
+  icono: {fileID: 0}
+  descripcion: "Lant\xE1nido, empleado en l\xE1seres y en la fabricaci\xF3n de imanes."
+  tipo: 3
+  esElemento: 1
+  simbolo: Ho
+  elemento_img: {fileID: 0}
+  numAtomico: 67
+  pesoAtomico: 164.9303
+  uso: "El holmio tiene la mayor fuerza magn\xE9tica de todos los elementos y, por
+    lo tanto, se utiliza para crear los campos magn\xE9ticos m\xE1s fuertes generados
+    artificialmente, cuando se coloca dentro de imanes de alta resistencia como pieza
+    de polo magn\xE9tico."
+  configElectronica: '[Xe] 4f <sup> 11</sup> 6s<sup>2</sup>'
+  caracteristicas: "Es un metal blanco plateado con brillo met\xE1lico."
+  dndEncontrarlo: "Producido mediante reducci\xF3n del \xF3xido de holmio con calcio"

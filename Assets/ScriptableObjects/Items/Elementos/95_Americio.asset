@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 95_Americio
+  m_EditorClassIdentifier: 
+  id: 94
+  nombre: Americio
+  icono: {fileID: 0}
+  descripcion: "Act\xEDnido artificial, utilizado en detectores de humo y en investigaciones
+    cient\xEDficas."
+  tipo: 3
+  esElemento: 1
+  simbolo: Am
+  elemento_img: {fileID: 0}
+  numAtomico: 95
+  pesoAtomico: 244
+  uso: "Reactores nucleares, investigaci\xF3n cient\xEDfica, armamento nuclear, investigaci\xF3n
+    de la f\xEDsica nuclear, generaci\xF3n de neutrones y en la detecci\xF3n de humo."
+  configElectronica: '[Rn] 5f <sup>7</sup> 7s <sup>2</sup>'
+  caracteristicas: "S\xF3lido met\xE1lico, plateado en apariencia, maleable y d\xFActil."
+  dndEncontrarlo: Minerales de uranio y/o plutonio en residuos nucleares.

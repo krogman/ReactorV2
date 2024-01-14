@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 22_Titanio
+  m_EditorClassIdentifier: 
+  id: 21
+  nombre: Titanio
+  icono: {fileID: 0}
+  descripcion: "Metal de transici\xF3n, fuerte y ligero, utilizado en aviaci\xF3n,
+    pr\xF3tesis y pigmentos."
+  tipo: 3
+  esElemento: 1
+  simbolo: Ti
+  elemento_img: {fileID: 0}
+  numAtomico: 22
+  pesoAtomico: 47.867
+  uso: "Aleaciones de acero, turbinas de aviones y motores, implantes m\xE9dicos."
+  configElectronica: 1s <sup>2 </sup>2s <sup>2</sup> 2p <sup>6</sup>3s <sup>2</sup>
+    3p <sup> 6 </sup> 4s <sup>2</sup> 3d <sup>2 </sup>
+  caracteristicas: Metal plateado, resistente y liviano.
+  dndEncontrarlo: Se extrae principalmente de minerales de titanio.

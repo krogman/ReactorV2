@@ -126,12 +126,12 @@ TextureImporter:
       name: minas1_2
       rect:
         serializedVersion: 2
-        x: 291
+        x: 336
         y: 1
-        width: 92
+        width: 46
         height: 96
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -147,12 +147,12 @@ TextureImporter:
       name: minas1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 496
-        width: 32
-        height: 32
+        x: 48
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -165,15 +165,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: minas1_1
+      name: minas1_29
       rect:
         serializedVersion: 2
-        x: 32
-        y: 496
-        width: 32
-        height: 32
+        x: 48
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -186,148 +186,400 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: minas1_3
+      name: minas1_10
       rect:
         serializedVersion: 2
-        x: 64
-        y: 496
-        width: 32
-        height: 32
+        x: 337
+        y: 264
+        width: 47
+        height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9350c8f46720e284c975d2f0b0ea7f5b
-      internalID: -1993394844
+      spriteID: fa6819c8e8505e94bb4d12b835f28315
+      internalID: 899861465
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: minas1_4
+      name: minas1_11
       rect:
         serializedVersion: 2
-        x: 0
-        y: 464
-        width: 32
-        height: 32
+        x: 192
+        y: 264
+        width: 145
+        height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83fb3717de9dc6f46ba435f1cf7011a0
-      internalID: 1901059751
+      spriteID: 3f9f65bd3691ef74a94fcdec22e1638f
+      internalID: 156813188
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: minas1_5
+      name: minas1_12
       rect:
         serializedVersion: 2
-        x: 32
-        y: 464
-        width: 32
-        height: 32
+        x: 336
+        y: 99
+        width: 46
+        height: 93
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7970b67af737c4440ba89c3538c450ad
-      internalID: 2002022631
+      spriteID: 8b60484f48e2f514b88a3651290011c0
+      internalID: 309192809
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: minas1_6
+      name: minas1_13
       rect:
         serializedVersion: 2
-        x: 64
-        y: 464
-        width: 32
-        height: 32
+        x: 96
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ff7331383a5613428a577da54f917d7
-      internalID: -1607402648
+      spriteID: eee5e103caa24444a848bba6c56388d1
+      internalID: 1252577220
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: minas1_7
+      name: minas1_14
       rect:
         serializedVersion: 2
-        x: 0
+        x: 144
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb35c5770cc602047acd4a9bc9ae47b8
+      internalID: -107379223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minas1_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42762b7aa6630a4d8461567248d55bc
+      internalID: -201159776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minas1_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b5d74d3ed6c3143925a25d6ad21f19
+      internalID: 670537613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minas1_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b6898de9c4c9d4fbda02ad9ca31f68
+      internalID: 135160035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minas1_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19f3a274d68cee46953e5a193855001
+      internalID: -766652036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minas1_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076dc645a2f907b46aa7750a9ffa180a
+      internalID: 720516125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minas1_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89071f1d6bec11f40af8a56c30895af5
+      internalID: 165703453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minas1_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3324e8e3507875a43a791b106ad6a822
+      internalID: 1558868627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minas1_22
+      rect:
+        serializedVersion: 2
+        x: 96
         y: 432
-        width: 32
-        height: 32
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3510ed5dd3aabb4ba7ccdb468200553
-      internalID: 215145503
+      spriteID: 743ed81bfb02f9646a91105cd16a5965
+      internalID: -905841833
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: minas1_8
+      name: minas1_23
       rect:
         serializedVersion: 2
-        x: 32
+        x: 144
         y: 432
-        width: 32
-        height: 32
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b48b21781a4c67d4d94838bd01b2bc32
-      internalID: -1802683489
+      spriteID: 4975608d173902d46b50449ec86f2677
+      internalID: -616243305
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: minas1_9
+      name: minas1_24
       rect:
         serializedVersion: 2
-        x: 64
+        x: 192
         y: 432
-        width: 32
-        height: 32
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 375931338d450b043bcaed5e9f11043b
-      internalID: 462557257
+      spriteID: e38df6c3da17a064c825c47a12b35674
+      internalID: 1711346054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minas1_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be36fd94c5f9ef04ba3c5937522eec58
+      internalID: 282225065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minas1_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26402c4b5748fa44586bcd43b3dbb880
+      internalID: -259131467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minas1_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f06d1d3cbff2364bbd77b75d40a793a
+      internalID: 11391926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minas1_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf0ca5a0fb0ac44aa7e508a0c2548e7
+      internalID: 1426220211
       vertices: []
       indices: 
       edges: []
@@ -346,7 +598,26 @@ TextureImporter:
       minas1_0: 200495478
       minas1_1: 274468505
       minas1_10: 1912635594
+      minas1_11: 899861465
+      minas1_12: 156813188
+      minas1_13: 309192809
+      minas1_14: 1252577220
+      minas1_15: -107379223
+      minas1_16: -201159776
+      minas1_17: 670537613
+      minas1_18: 135160035
+      minas1_19: -766652036
       minas1_2: -172628931
+      minas1_20: 720516125
+      minas1_21: 165703453
+      minas1_22: 1558868627
+      minas1_23: -905841833
+      minas1_24: -616243305
+      minas1_25: 1711346054
+      minas1_26: 282225065
+      minas1_27: -259131467
+      minas1_28: 11391926
+      minas1_29: 1426220211
       minas1_3: -1993394844
       minas1_4: 1901059751
       minas1_5: 2002022631

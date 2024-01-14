@@ -12,15 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
   m_Name: 7_Nitrogeno
   m_EditorClassIdentifier: 
-  id: 0
-  nombre: 
+  id: 6
+  nombre: "Nitr\xF3geno"
   icono: {fileID: 0}
-  descripcion: 
-  tipo: 0
+  descripcion: "Gas esencial en la atm\xF3sfera, utilizado en fertilizantes y refrigerantes."
+  tipo: 3
+  esElemento: 1
+  simbolo: N
   elemento_img: {fileID: 0}
-  numAtomico: 0
-  pesoAtomico: 
-  uso: 
-  configElectronica: 
-  caracteristicas: 
-  dndEncontrarlo: 
+  numAtomico: 7
+  pesoAtomico: 14.0067
+  uso: "Producci\xF3n de amon\xEDaco, enfriamiento, conservaci\xF3n de alimentos,
+    etc\xE9tera."
+  configElectronica: 1s <sup>2 </sup>2s <sup>2</sup> 2p <sup>3</sup>
+  caracteristicas: Gas incoloro e inodoro
+  dndEncontrarlo: "Se obtiene de la destilaci\xF3n fraccionada del aire (atm\xF3sfera
+    terrestre), extracci\xF3n de gas natural principalmente."

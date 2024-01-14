@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 29_Cobre
+  m_EditorClassIdentifier: 
+  id: 28
+  nombre: Cobre
+  icono: {fileID: 0}
+  descripcion: "Metal de transici\xF3n, conductor el\xE9ctrico, utilizado en cables,
+    monedas y construcci\xF3n."
+  tipo: 3
+  esElemento: 1
+  simbolo: Cu
+  elemento_img: {fileID: 0}
+  numAtomico: 29
+  pesoAtomico: 63.546
+  uso: "Electr\xF3nica, monedas, cables el\xE9ctricos, joyer\xEDa, entre otros."
+  configElectronica: 1s <sup>2 </sup>2s <sup>2</sup> 2p <sup>6</sup>3s <sup>2</sup>
+    3p <sup> 6 </sup> 4s <sup>1</sup> 3d <sup>10 </sup>
+  caracteristicas: "Rojo naranja, maleable, d\xFActil, buen conductor el\xE9ctrico
+    y t\xE9rmico"
+  dndEncontrarlo: "Se encuentra en minerales como calcopirita, cuprita, malaquita
+    y azurita, extracci\xF3n mediante procesos de lixiviaci\xF3n y electrol\xEDticos"

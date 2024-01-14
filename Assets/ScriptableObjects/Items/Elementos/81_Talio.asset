@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 81_Talio
+  m_EditorClassIdentifier: 
+  id: 80
+  nombre: Talio
+  icono: {fileID: 0}
+  descripcion: "Metal pesado, t\xF3xico, utilizado en aleaciones y en detectores
+    de radiaci\xF3n."
+  tipo: 3
+  esElemento: 1
+  simbolo: Tl
+  elemento_img: {fileID: 0}
+  numAtomico: 81
+  pesoAtomico: 204.3833
+  uso: " Fabricaci\xF3n de vidrios de alta calidad, en la producci\xF3n de semiconductores
+    y en la elaboraci\xF3n de compuestos qu\xEDmicos para la medicina nuclear. Adem\xE1s,
+    en el pasado se ha utilizado como veneno, ya que es altamente t\xF3xico para
+    los seres vivos."
+  configElectronica: '[Xe] 4f <sup> 14</sup> 5d<sup>1</sup> 6s<sup>2</sup> 6p <sup>1</sup>'
+  caracteristicas: "Es un metal suave de color blanco azulado\r\nEn su forma pura,
+    es inodoro e ins\xEDpido\r\nEs blando y maleable\r\n"
+  dndEncontrarlo: " Crookesita, lor\xE1ndita y la hutchinsonita\r\n Tambi\xE9n se
+    puede encontrar en algunos dep\xF3sitos de sulfuros de plomo y zinc. Petr\xF3leo
+    crudo y gas natural, y en algunas fuentes termales y g\xE9iseres.\r\n"

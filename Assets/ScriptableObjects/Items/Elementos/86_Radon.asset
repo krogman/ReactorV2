@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 86_Radon
+  m_EditorClassIdentifier: 
+  id: 85
+  nombre: "Rad\xF3n"
+  icono: {fileID: 0}
+  descripcion: "Gas noble radioactivo, peligroso, presente en la descomposici\xF3n
+    de uranio y torio."
+  tipo: 3
+  esElemento: 1
+  simbolo: Rn
+  elemento_img: {fileID: 0}
+  numAtomico: 86
+  pesoAtomico: 222
+  uso: "Detecci\xF3n de fugas en tuber\xEDas, tratamiento de c\xE1ncer, etc\xE9tera."
+  configElectronica: '[Xe] 4f <sup> 14</sup> 5d<sup>2</sup> 6s<sup>2</sup> 6p <sup>6</sup>'
+  caracteristicas: Gas inodoro e incoloro, radiactivo
+  dndEncontrarlo: Gas natural y algunos minerales. Se produce a partir del decaimiento
+    radiactivo del uranio.

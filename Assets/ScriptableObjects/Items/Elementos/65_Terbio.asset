@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 65_Terbio
+  m_EditorClassIdentifier: 
+  id: 64
+  nombre: Terbio
+  icono: {fileID: 0}
+  descripcion: "Lant\xE1nido, empleado en imanes y en la producci\xF3n de aleaciones."
+  tipo: 3
+  esElemento: 1
+  simbolo: Tb
+  elemento_img: {fileID: 0}
+  numAtomico: 65
+  pesoAtomico: 158.9253
+  uso: "El oxosulfato de gadolinio dopado con terbio es uno de los mejores colorantes
+    en rayos X.\r\nTambi\xE9n se emplea como cristal estabilizador en c\xE9lulas
+    de combustible que operan a elevadas temperaturas y en la producci\xF3n de componentes
+    electr\xF3nicos, etc\xE9tera."
+  configElectronica: '[Xe] 4f <sup> 9 </sup> 6s<sup>2</sup>'
+  caracteristicas: "\rEl terbio es un metal, elemento de las tierras raras de color
+    blanco plateado que es maleable, d\xFActil y lo suficientemente blando como para
+    cortarlo con un cuchillo.\r"
+  dndEncontrarlo: "Se encuentra habitualmente como \xF3xido en las tierras raras.\r\nEl
+    terbio no se encuentra nunca en estado libre en la naturaleza, sino contenido
+    en diversos minerales como la cerita, la gadolinita, la monazita, la xenotima
+    y la euxenita, algunos de ellos con un contenido inferior al 1% de terbio.\r\n"

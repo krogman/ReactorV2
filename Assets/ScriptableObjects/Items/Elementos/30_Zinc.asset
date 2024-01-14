@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 30_Zinc
+  m_EditorClassIdentifier: 
+  id: 29
+  nombre: Zinc
+  icono: {fileID: 0}
+  descripcion: "Metal de transici\xF3n, esencial para la salud, utilizado en galvanizaci\xF3n
+    y en aleaciones."
+  tipo: 3
+  esElemento: 1
+  simbolo: Zn
+  elemento_img: {fileID: 0}
+  numAtomico: 30
+  pesoAtomico: 65.39
+  uso: "Galvanizado, aleaciones, bater\xEDas, protectores solares, etc."
+  configElectronica: 1s <sup>2 </sup>2s <sup>2</sup> 2p <sup>6</sup>3s <sup>2</sup>
+    3p <sup> 6 </sup> 4s <sup>2</sup> 3d <sup>10 </sup>
+  caracteristicas: "Plateado azulado, quebradizo, buen conductor el\xE9ctrico"
+  dndEncontrarlo: "Minerales de esfalerita y sulfuro, extracci\xF3n mediante procesos
+    de fundici\xF3n y electrol\xEDticos"

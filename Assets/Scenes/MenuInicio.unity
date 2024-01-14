@@ -3690,8 +3690,6 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 56e7bb6dcdf618941af0ff7caaf40e27, type: 3}
   - {fileID: 21300000, guid: bf181932c0f2be945869fa752edcff92, type: 3}
   - {fileID: 21300000, guid: 89178852bb9e98642bf34279cfcc1b99, type: 3}
-  head: 0
-  eyes: 0
 --- !u!114 &965485739
 MonoBehaviour:
   m_ObjectHideFlags: 0

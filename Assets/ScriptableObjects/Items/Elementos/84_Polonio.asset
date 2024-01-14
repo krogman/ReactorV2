@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 84_Polonio
+  m_EditorClassIdentifier: 
+  id: 83
+  nombre: Polonio
+  icono: {fileID: 0}
+  descripcion: "Elemento radioactivo, peligroso, utilizado en investigaciones cient\xEDficas."
+  tipo: 3
+  esElemento: 1
+  simbolo: Po
+  elemento_img: {fileID: 0}
+  numAtomico: 0
+  pesoAtomico: 
+  uso: "Fuentes de neutrones, calefactores termoel\xE9ctricos, dispositivos de eliminaci\xF3n
+    de est\xE1tica"
+  configElectronica: '[Xe] 4f <sup> 14</sup> 5d<sup>2</sup> 6s<sup>2</sup> 6p <sup>4</sup>'
+  caracteristicas: "Metal s\xF3lido plateado, muy brillante y muy t\xF3xico."
+  dndEncontrarlo: Minerales de uranio y torio. Se encuentra en el mineral uraninita
+    y se produce artificialmente.

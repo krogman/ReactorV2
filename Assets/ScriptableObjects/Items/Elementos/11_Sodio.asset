@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 11_Sodio
+  m_EditorClassIdentifier: 
+  id: 10
+  nombre: Sodio
+  icono: {fileID: 0}
+  descripcion: "Metal alcalino, reacciona vigorosamente con agua, es esencial para
+    la funci\xF3n celular y en la cocina."
+  tipo: 3
+  esElemento: 1
+  simbolo: Na
+  elemento_img: {fileID: 0}
+  numAtomico: 11
+  pesoAtomico: 22.9897
+  uso: "Producci\xF3n de sosa c\xE1ustica, vidrio, papel, textiles, productos qu\xEDmicos,
+    aleaciones de aluminio y producci\xF3n de metal de sodio."
+  configElectronica: 1s <sup>2 </sup>2s <sup>2</sup> 2p <sup>6</sup>3s <sup>1</sup>
+  caracteristicas: "Metal blando y altamente reactivo, que se oxida r\xE1pidamente
+    en presencia de aire o agua."
+  dndEncontrarlo: "Se encuentra en grandes cantidades en la naturaleza como cloruro
+    de sodio (sal com\xFAn) y se puede obtener a trav\xE9s de la electr\xF3lisis
+    de este compuesto."

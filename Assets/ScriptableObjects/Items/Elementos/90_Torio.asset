@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 90_Torio
+  m_EditorClassIdentifier: 
+  id: 89
+  nombre: Torio
+  icono: {fileID: 0}
+  descripcion: "Act\xEDnido, utilizado en la industria nuclear y en investigaciones
+    cient\xEDficas."
+  tipo: 3
+  esElemento: 1
+  simbolo: Th
+  elemento_img: {fileID: 0}
+  numAtomico: 90
+  pesoAtomico: 231.0359
+  uso: "Producci\xF3n de energ\xEDa nuclear, l\xE1mparas de gas. Se utiliza como
+    combustible en algunos reactores nucleares y como aleaci\xF3n en acero."
+  configElectronica: '[Rn] 5f <sup>2</sup> 7s <sup>2</sup>'
+  caracteristicas: Metal plateado y altamente radiactivo
+  dndEncontrarlo: Rocas, suelos y minerales de torio.
