@@ -12,14 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9051e32d038d174aae402ce05c06297, type: 3}
   m_Name: Minero
   m_EditorClassIdentifier: 
-  nombre: Minero2
+  nombre: "Brogan Piedra\xEDgne"
   saludo: Hola, bienvenido a la ciudad
   conversacion:
-  - hastaEvento: 3
+  - hastaEvento: 5
     contieneMision: 1
     oraciones:
-    - Esta ciudad siempre ha sido mi favorita, deberias visitar la panaderia,  hacen
-      unos pasteles deliciosos
-    - "Esta hacia el norte, te acompa\xF1aria, pero mi hijo me espera en casa"
+    - "\xBFAcaso tu eres el hijo de Aether?"
+    mision: {fileID: 11400000, guid: ecc27004aced7334486f1ef972561885, type: 2}
+  - hastaEvento: 5
+    contieneMision: 1
+    oraciones:
+    - "Nos rescataste, as\xED que conf\xEDo en ti. Antes de entrar a la mina, hay
+      un camino secreto que lleva hacia una zona secreta del bosque, posiblemente
+      haya obst\xE1culos, pero es el \xFAnico que conocemos."
+    - "He escuchado que podr\xEDa haber algo de inter\xE9s ah\xED."
     mision: {fileID: 11400000, guid: ecc27004aced7334486f1ef972561885, type: 2}
   despedida: Nos vemos

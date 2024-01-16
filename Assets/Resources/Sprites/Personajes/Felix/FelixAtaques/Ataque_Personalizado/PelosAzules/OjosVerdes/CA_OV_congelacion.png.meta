@@ -1,0 +1,723 @@
+fileFormatVersion: 2
+guid: 0780de24e72c1f34a8556717ab1ba6bf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CA_OV_congelacion_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 233
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bf76b234bec0241a56ddcf90bd895f
+      internalID: 978443351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 233
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9437282af1ecf384ca374c1e6ca99309
+      internalID: -1293798672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 245
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015b8f8ec8e5a65429bab864009b7644
+      internalID: 79754022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 233
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f094326dda1d6434eb11561611ac11b1
+      internalID: 917014937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 244
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37858a67cfd9ca4a822840c75ba5b86
+      internalID: -1737654954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 233
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2dac43fd4dd7943b5b7aab6aae5186
+      internalID: 1490936698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 243
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0187fc72115694d91e51482740649a
+      internalID: 373266422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 233
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b840c684866e84ca8b6c9db176cd7a
+      internalID: 498556852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_8
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 241
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9f79dcd6534094baeedd6cb982dbf0
+      internalID: 2007560304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 233
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129bdc3c944bc944b8d7a9294ac47096
+      internalID: 64246839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 184
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75e9a69c42826c4babc0e690c742275
+      internalID: -603278216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 176
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3310d1a501db98b4da6849e18381fcba
+      internalID: 2111073222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_12
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 184
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13074143777c5e459eecd5732168d03
+      internalID: -2108825733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 176
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a767849876569f54d9bb4c21bfe8adcf
+      internalID: -1894665945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_14
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 184
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d435d94067478e448563c5c06bcd6b6
+      internalID: 189881966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 176
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad9e825ebbdea94cac8a78ddf571e88
+      internalID: -1466175209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 82
+        width: 34
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48958334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b72aa14ebdcf841ae8f2c5a7a32054
+      internalID: 942314195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 82
+        width: 39
+        height: 48
+      alignment: 9
+      pivot: {x: 0.43589744, y: 0.48958334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f61f0e567d63b74b86689a6f1b1953f
+      internalID: -493598952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_18
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 82
+        width: 53
+        height: 48
+      alignment: 9
+      pivot: {x: 0.3207547, y: 0.48958334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4499fedd44e14f74f8b7c6fe0219dddf
+      internalID: 2017904979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 82
+        width: 60
+        height: 48
+      alignment: 9
+      pivot: {x: 0.28333333, y: 0.48958334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30b8397cd6006b4092acdcd9988dba1
+      internalID: 565223321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 82
+        width: 69
+        height: 48
+      alignment: 9
+      pivot: {x: 0.24637681, y: 0.48958334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8aae600f433b24bb08cf96030c3b9e
+      internalID: 968299347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_24
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 82
+        width: 75
+        height: 48
+      alignment: 9
+      pivot: {x: 0.22666667, y: 0.48958334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b2cf4e8f2d06e408d6addbee266411
+      internalID: -1880386631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 24
+        width: 97
+        height: 48
+      alignment: 9
+      pivot: {x: 0.17525773, y: 0.48958334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6daf32210f925b46a8ffa7d867b3173
+      internalID: 842520984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_28
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 24
+        width: 105
+        height: 48
+      alignment: 9
+      pivot: {x: 0.16190477, y: 0.48958334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cac02c8d5388541a4fcf42bf022cc9
+      internalID: -1730924240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CA_OV_congelacion_30
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 24
+        width: 106
+        height: 48
+      alignment: 9
+      pivot: {x: 0.16037735, y: 0.48958334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccef6eec4310a4b4c84bd3f3a7e8da71
+      internalID: -1663937138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CA_OV_congelacion_0: 978443351
+      CA_OV_congelacion_1: -1293798672
+      CA_OV_congelacion_10: -603278216
+      CA_OV_congelacion_11: 2111073222
+      CA_OV_congelacion_12: -2108825733
+      CA_OV_congelacion_13: -1894665945
+      CA_OV_congelacion_14: 189881966
+      CA_OV_congelacion_15: -1466175209
+      CA_OV_congelacion_16: 942314195
+      CA_OV_congelacion_17: -493598952
+      CA_OV_congelacion_18: 2017904979
+      CA_OV_congelacion_19: -882151183
+      CA_OV_congelacion_2: 79754022
+      CA_OV_congelacion_20: 565223321
+      CA_OV_congelacion_21: -20808779
+      CA_OV_congelacion_22: 968299347
+      CA_OV_congelacion_23: 1290563263
+      CA_OV_congelacion_24: -1880386631
+      CA_OV_congelacion_25: 2132847116
+      CA_OV_congelacion_26: 842520984
+      CA_OV_congelacion_27: -135571008
+      CA_OV_congelacion_28: -1730924240
+      CA_OV_congelacion_29: 1089716685
+      CA_OV_congelacion_3: 917014937
+      CA_OV_congelacion_30: -1663937138
+      CA_OV_congelacion_31: 736091813
+      CA_OV_congelacion_4: -1737654954
+      CA_OV_congelacion_5: 1490936698
+      CA_OV_congelacion_6: 373266422
+      CA_OV_congelacion_7: 498556852
+      CA_OV_congelacion_8: 2007560304
+      CA_OV_congelacion_9: 64246839
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

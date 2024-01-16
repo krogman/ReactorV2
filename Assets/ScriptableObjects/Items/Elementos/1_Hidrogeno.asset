@@ -15,8 +15,8 @@ MonoBehaviour:
   id: 0
   nombre: "Hidr\xF3geno [H]"
   icono: {fileID: 21300000, guid: fb0a21ff412b5264cad97c350dca6d07, type: 3}
-  descripcion: "Es el elemento m\xE1s ligero, combustible estelar y componente esencial
-    del agua."
+  descripcion: 'Es un gas inflamable eh incoloro, se encuentra en la atmosfera terrestre
+    y en el agua '
   tipo: 3
   esElemento: 1
   simbolo: H
@@ -25,7 +25,7 @@ MonoBehaviour:
   pesoAtomico: 1.00784 u
   uso: "Se utiliza en la producci\xF3n de amoniaco, combustible, refinaci\xF3n de
     petroleo, entre otros."
-  configElectronica: 1 s<sup>1</sup>
+  configElectronica: 1 S<sup>1</sup>
   caracteristicas: 'Es un gas inflamable eh incoloro que no se puede encontrar en
     esttdo puro '
   dndEncontrarlo: "Gas natural,  el petr\xF3leo, el carb\xF3n y el agua. \nPara poder

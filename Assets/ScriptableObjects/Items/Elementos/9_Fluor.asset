@@ -12,26 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
   m_Name: 9_Fluor
   m_EditorClassIdentifier: 
-  id: 8
-  nombre: "Fl\xFAor"
+  id: 0
+  nombre: 
   icono: {fileID: 0}
-  descripcion: "Elemento altamente reactivo, utilizado en odontolog\xEDa y en la
-    industria qu\xEDmica."
-  tipo: 3
-  esElemento: 1
-  simbolo: F
+  descripcion: 
+  tipo: 0
   elemento_img: {fileID: 0}
-  numAtomico: 9
-  pesoAtomico: 18.9984
-  uso: "Hacer pol\xEDmeros, fluoruro de calcio se introduce en alto horno y reduce
-    la viscosidad de la escoria en la metalurgia del hierro, fluoruro de hidr\xF3geno
-    se usa para obtener criolita sint\xE9tica. Producci\xF3n de fluoruro de hidr\xF3geno,
-    fabricaci\xF3n de vidrio y cer\xE1mica, refrigerantes, pesticidas y fluoruro
-    de sodio para la fluorizaci\xF3n del agua potable, etc."
-  configElectronica: 1s <sup>2 </sup>2s <sup>2</sup> 2p <sup>5</sup>
-  caracteristicas: "Amarillo verdoso o incoloro. Gas altamente reactivo, de color
-    amarillo p\xE1lido, que se combina con la mayor\xEDa de los elementos."
-  dndEncontrarlo: "Se encuentra en la naturaleza como fluorita y en peque\xF1as cantidades
-    en otros minerales. Se puede obtener a trav\xE9s de la electr\xF3lisis del fluoruro
-    de hidr\xF3geno.  Sometiendo la fluorita a algunos \xE1cidos, desprende un vapor
-    muy corrosivo. "
+  numAtomico: 0
+  pesoAtomico: 
+  uso: 
+  configElectronica: 
+  caracteristicas: 
+  dndEncontrarlo: 

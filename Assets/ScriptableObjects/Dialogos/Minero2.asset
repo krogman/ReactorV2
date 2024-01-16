@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9051e32d038d174aae402ce05c06297, type: 3}
+  m_Name: Minero2
+  m_EditorClassIdentifier: 
+  nombre: "Rafael Carb\xF3novski"
+  saludo: "Hola, ni\xF1o extra\xF1o."
+  conversacion:
+  - hastaEvento: 0
+    contieneMision: 0
+    oraciones:
+    - "S\xED, por culpa de Aether estamos aqu\xED, todo habr\xEDa sido m\xE1s f\xE1cil
+      si \xE9l no se hubiera rehusado a revelar informaci\xF3n sobre el reactor y
+      la cura. Parec\xEDa que conoc\xEDa bien a IM."
+    mision: {fileID: 0}
+  despedida: "Adi\xF3s."

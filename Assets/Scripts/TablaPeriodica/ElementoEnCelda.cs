@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class ElementoEnCelda : MonoBehaviour
 {
-    //pos ya que
     public Elemento elemento;
     
 }

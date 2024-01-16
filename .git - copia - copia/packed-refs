@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+a639b40d90984e2cd98affdb85c43ce5b2d7bc88 refs/heads/main
+fc1f1dd188ef392e3aa2cfa87a83697352b72465 refs/heads/rama1
+9f4ba9c031d8e1c536b3f6d896cb1fed2330831a refs/heads/rama1_1
+a639b40d90984e2cd98affdb85c43ce5b2d7bc88 refs/remotes/ReactorV3P/main
+a639b40d90984e2cd98affdb85c43ce5b2d7bc88 refs/remotes/origin/main
+9df4c273be0da19c39eadc5961a50110286bbe5c refs/remotes/origin/rama1

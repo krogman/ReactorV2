@@ -17,7 +17,9 @@ public class ItemPorAgregar : MonoBehaviour
             if(itemReferencia.esElemento){
                 TablaPeriodica.Instance.desbloquearElement(itemReferencia);
             }
-            Debug.Log("Nombre del Item: "+gameObject.name);
+            Debug.Log("Id del Item: "+itemReferencia.id);
+            MisionController.Instance.evaluarProgresoEnMision(itemReferencia.id);
+            UIController.Instance.mostrarAlerta("Has encontrado " + itemReferencia.nombre);
             EsceneController.Instance.agregarObjetoDestruido(gameObject.name); 
             Destroy(gameObject);
         }

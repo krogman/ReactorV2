@@ -31,7 +31,6 @@ public class ListaStringWrapper{
 
 
 public class DatosPartida : MonoBehaviour
-
 {
 
     private void Start() {
@@ -62,6 +61,8 @@ public class DatosPartida : MonoBehaviour
     //misiones en curso
     //Guardar su progreso en la propia mision
 
+    List<int> misiones;
+
     List<SlotInventario> inventario;
 
     List<Item> inventario3;
@@ -83,6 +84,8 @@ public class DatosPartida : MonoBehaviour
         arma= JugadorStats.Instance.Arma;
         escudo=JugadorStats.Instance.Escudo;
         resEscudo= JugadorStats.Instance.nivelResEscudo;
+
+        misiones= MisionController.Instance.guardarMisionesCurso();
 
         //ver como guardar las misiones
         inventario = Inventario.Instance.guardarItemsInventario();
@@ -147,7 +150,13 @@ public class DatosPartida : MonoBehaviour
 
 
         PlayerPrefs.SetInt("ResistenciaEscudo",resEscudo);
-        
+
+        // Crear lista y convertirla a JSON de misiones
+        ListaEnterosWrapper wrapperMis = new ListaEnterosWrapper { listaEnteros = misiones };
+        string jsonListaMisiones = JsonUtility.ToJson(wrapperMis);
+        PlayerPrefs.SetString("Misiones",jsonListaMisiones);
+        //Debug.Log("TablaP-JSON = "+jsonListaTabla);
+
         // Crear lista y convertirla a JSON de Inventario
         listaItemsWrapper wrapperInv2 = new listaItemsWrapper { listaItems = inventario3 };
         string jsonListaInv2 = JsonUtility.ToJson(wrapperInv2);
@@ -165,11 +174,13 @@ public class DatosPartida : MonoBehaviour
 
         //Debug.Log("Se terminaron de cargar los datos"); 
 
-        // Crear lista y convertirla a JSON de TablaP
+        // Crear lista y convertirla a JSON de DestroyList
         ListaStringWrapper wrapperDestroy = new ListaStringWrapper { listaStrings = destroyLista };
         string jsonListaDes = JsonUtility.ToJson(wrapperDestroy);
         PlayerPrefs.SetString("DestroyLista",jsonListaDes);
         //Debug.Log("Destroy-JSON = "+jsonListaDes);
+
+        
     
     }
 
@@ -212,7 +223,17 @@ public class DatosPartida : MonoBehaviour
 
         resEscudo= PlayerPrefs.GetInt("ResistenciaEscudo",0);
 
-        //ver como guardar las misiones
+        
+        //Pasar de Json a list<int> Misiones
+        // --------Deserializar JSON a lista
+        string jsonListaMisiones=PlayerPrefs.GetString("Misiones");
+        ListaEnterosWrapper mis2 = JsonUtility.FromJson<ListaEnterosWrapper>(jsonListaMisiones);
+        // Acceder a la lista y mostrar su contenido
+        if(mis2!=null){
+            misiones = mis2.listaEnteros;
+        }else{
+            misiones=null;
+        }
 
         //Pasar de Json a list<Item> Inventario
         // --------Deserializar JSON a lista
@@ -271,6 +292,7 @@ public class DatosPartida : MonoBehaviour
             inventario=new List<SlotInventario>();
             int cant=1;
             for(int i = 1; i < inventario3.Count; i++) {
+                if (inventario3[i] != null && inventario3[i - 1] != null) {
                 if(i==inventario3.Count-1){
                     if(inventario3[i].id==inventario3[i-1].id){
                         cant++;
@@ -278,13 +300,16 @@ public class DatosPartida : MonoBehaviour
                     }else{
                         inventario.Add(new SlotInventario(inventario3[i],1));
                     }   
-                }else{
+                }else if(i<inventario3.Count-2){
                     if(inventario3[i].id==inventario3[i-1].id){
                         cant++;
                     }else{
                         inventario.Add(new SlotInventario(inventario3[i-1],cant));
                         cant=1;
                     }
+                }else{
+                    inventario.Add(new SlotInventario(inventario3[i],1)); 
+                }
                 }
             }
         }
@@ -293,7 +318,11 @@ public class DatosPartida : MonoBehaviour
         //for(int i=0;i<inventario.Count;i++){
             //Debug.Log("ITEMG: " + inventario[i].itemGuardado.nombre + "  CANT: " + inventario[i].cantidad);
         //}
+
+        MisionController.Instance.cargarMisionesCurso(misiones);
+
         Inventario.Instance.cargarItemsEquipadosInventario(inventario,arma,escudo);
+        Inventario.Instance.inicializarUIInventario(apariencia);
         //Inventario.Instance.cargarItemsInventario(inventario3);
 
         TablaPeriodica.Instance.cargarTabla(tablaP);

@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: da4c58fcaa99e874daa462870c54b95c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CR_OV_lanzallamas_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 227
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ca12bb134892e448c32a362ef04407
+      internalID: -229301817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CR_OV_lanzallamas_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 227
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73d3f6772c0afd4f94f3bb41c71c569
+      internalID: 1156171706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CR_OV_lanzallamas_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 238
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9550b06821421a48b00c99772c05420
+      internalID: 791158076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CR_OV_lanzallamas_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 227
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22c7c7b29d2e6b409bdd84e38255e22
+      internalID: 1447529741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CR_OV_lanzallamas_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 237
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c86ee3ace0c3bc4aaabd5ee48bbafbb
+      internalID: 1608164009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CR_OV_lanzallamas_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 227
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367f5600e31c4b241b15b205ad062d51
+      internalID: 2132932766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CR_OV_lanzallamas_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 236
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea275bb75fed6e449686f27af11f7e4
+      internalID: 737105185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CR_OV_lanzallamas_7
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 227
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf05e9b996a6d144b9789752e38216e
+      internalID: 314015042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CR_OV_lanzallamas_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 179
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2b9b9c737862749886c60e05c802b2
+      internalID: -405482996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CR_OV_lanzallamas_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 169
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d07d8d136d31794f956dfb3cbb29b15
+      internalID: -659281117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CR_OV_lanzallamas_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 182
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044b18f6c34a6f34c8a93c6871502d28
+      internalID: 159164375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CR_OV_lanzallamas_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 176
+        width: 57
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ee30732ff36544787223d63effd752
+      internalID: 1401301241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CR_OV_lanzallamas_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 169
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6a70c20e82bc545934d147be93c31b
+      internalID: 1045496416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CR_OV_lanzallamas_13
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 177
+        width: 54
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a29d984f34849d49b2c1a253df4e9f7
+      internalID: -439228486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CR_OV_lanzallamas_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 169
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca26b284b6491ab4c9c60c707166d514
+      internalID: 1731549724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CR_OV_lanzallamas_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 91
+        width: 34
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5882353, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4cd3c4a58dbf14bb6aeae5c009ffae
+      internalID: -959069186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CR_OV_lanzallamas_16
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 91
+        width: 42
+        height: 50
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8603792443c0e6b4da709cb2a3c40f5d
+      internalID: 655642327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CR_OV_lanzallamas_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 91
+        width: 58
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3448276, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2655ba54d394af742886a1fc76699f4c
+      internalID: -2019783262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CR_OV_lanzallamas_19
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 91
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be0adb6a7f937e4f8716facd16fece9
+      internalID: 1267510099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CR_OV_lanzallamas_21
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 91
+        width: 73
+        height: 50
+      alignment: 9
+      pivot: {x: 0.2739726, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c40c73a9f351f34c9df83879758610e
+      internalID: 16619041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CR_OV_lanzallamas_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 24
+        width: 94
+        height: 50
+      alignment: 9
+      pivot: {x: 0.21276596, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc104de94218d7b4d8bf282325672ff8
+      internalID: 348475462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CR_OV_lanzallamas_25
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 24
+        width: 102
+        height: 50
+      alignment: 9
+      pivot: {x: 0.19607843, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cff111bfc11be44be870d77a8f75bd
+      internalID: 555533245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CR_OV_lanzallamas_28
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 24
+        width: 100
+        height: 50
+      alignment: 9
+      pivot: {x: 0.2, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3650e367d13ca49b08990c237ee7b7
+      internalID: 1644306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CR_OV_lanzallamas_0: -229301817
+      CR_OV_lanzallamas_1: 1156171706
+      CR_OV_lanzallamas_10: 159164375
+      CR_OV_lanzallamas_11: 1401301241
+      CR_OV_lanzallamas_12: 1045496416
+      CR_OV_lanzallamas_13: -439228486
+      CR_OV_lanzallamas_14: 1731549724
+      CR_OV_lanzallamas_15: -959069186
+      CR_OV_lanzallamas_16: 655642327
+      CR_OV_lanzallamas_17: -2019783262
+      CR_OV_lanzallamas_18: -1095605227
+      CR_OV_lanzallamas_19: 1267510099
+      CR_OV_lanzallamas_2: 791158076
+      CR_OV_lanzallamas_20: -61877317
+      CR_OV_lanzallamas_21: 16619041
+      CR_OV_lanzallamas_22: 1476276188
+      CR_OV_lanzallamas_23: 348475462
+      CR_OV_lanzallamas_24: 839351930
+      CR_OV_lanzallamas_25: 555533245
+      CR_OV_lanzallamas_26: 279246592
+      CR_OV_lanzallamas_27: 1658253857
+      CR_OV_lanzallamas_28: 1644306
+      CR_OV_lanzallamas_29: -232906789
+      CR_OV_lanzallamas_3: 1447529741
+      CR_OV_lanzallamas_4: 1608164009
+      CR_OV_lanzallamas_5: 2132932766
+      CR_OV_lanzallamas_6: 737105185
+      CR_OV_lanzallamas_7: 314015042
+      CR_OV_lanzallamas_8: -405482996
+      CR_OV_lanzallamas_9: -659281117
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

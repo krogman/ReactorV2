@@ -14,7 +14,7 @@ public class CambiadorDeEscena : MonoBehaviour
 
     //Punto específico en el nuevo escenario
     [SerializeField]
-    public Vector2 posicionObjetivo = new Vector2(0f, 0f);
+    public Vector2 posicionObjetivo;// = new Vector2(0f, 0f);
 
     //private bool persistenciaManejada = false;
 
@@ -102,11 +102,13 @@ public class CambiadorDeEscena : MonoBehaviour
     private void ConfigurarPosicionFelix()
     {
         // Encuentra el objeto Félix en la nueva escena (asegúrate de que sea único)
-        GameObject Felix_Player= GameObject.FindGameObjectWithTag("Player");
+        GameObject Felix_Player= GameObject.Find("Player");
 
         // Configura la posición de Félix en la nueva escena
         if (Felix_Player != null)
         {
+            Debug.Log("Player encontrado");
+            Debug.Log("x: " + posicionObjetivo.x+"Y: "+ posicionObjetivo.y);
             Felix_Player.transform.position = posicionObjetivo;
         }
     }

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9051e32d038d174aae402ce05c06297, type: 3}
+  m_Name: IA_Old
+  m_EditorClassIdentifier: 
+  nombre: Orion Technowizard
+  saludo: ...
+  conversacion:
+  - hastaEvento: 0
+    contieneMision: 0
+    oraciones:
+    - "\xBFQui\xE9n eres? \xBFC\xF3mo encontraste este lugar?"
+    - "Mientes, todas los caminos est\xE1n bloqueados. Tendr\xE1s que decirme la
+      verdad o tendr\xE9 que destruirte."
+    - "\xBFY por qu\xE9 necesitas hablar con nosotros?"
+    - "\xBFTienes un problema con Ignis Mundi? \xBFEn qu\xE9 te metiste, ni\xF1o?"
+    mision: {fileID: 0}
+  - hastaEvento: 0
+    contieneMision: 0
+    oraciones:
+    - "\xBFQui\xE9n eres? \xBFC\xF3mo encontraste este lugar?"
+    mision: {fileID: 0}
+  despedida: "Te deseo lo mejor, F\xE9lix"

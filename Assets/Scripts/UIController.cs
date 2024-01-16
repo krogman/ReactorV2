@@ -28,17 +28,9 @@ public class UIController : Singleton<UIController>
     public GameObject alertaTexto_Panel;
     public TMP_Text alerta_txt;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    [Header("UI de Menu inicio")]
+    public GameObject advertenciaJuegoNuevo;
+    public GameObject pantallaPersonalizacion;
 
     public void abrirTablaP(){
 
@@ -75,4 +67,14 @@ public class UIController : Singleton<UIController>
         alertaTexto_Panel.SetActive(true);
         alerta_txt.text=alerta;
     }
+
+    //funciones del de menu de inicio
+    public void abrirPanelAdvertenciaJuegoNuevo(){
+        advertenciaJuegoNuevo.SetActive(true);
+    }
+
+    public void abrirPantallaPersonalizacion(){
+        pantallaPersonalizacion.SetActive(true);
+    }
 }
+

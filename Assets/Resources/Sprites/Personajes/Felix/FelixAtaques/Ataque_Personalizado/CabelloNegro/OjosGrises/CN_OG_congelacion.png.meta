@@ -1,0 +1,723 @@
+fileFormatVersion: 2
+guid: ab62e5110def9024199d253d01410875
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CN_OG_congelacion_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 233
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8652eb128ff5f7c4ab703728358337d6
+      internalID: 35082385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 233
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daef2751393eac944aa45c7143e37678
+      internalID: -979434230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 245
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f9982d2c613884c9fc3833293b83eb
+      internalID: 1797964837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 233
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbe3bef67277014db91fd04dd8803c6
+      internalID: 525233490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 244
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6d6acccf54a5443a0db09987481059
+      internalID: -1311709325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 233
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1d6150205533148bbb6ad815e524a9
+      internalID: -570662822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 243
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af45011f867cad448f248dfa959c123
+      internalID: -1659992927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 233
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64b528564757ab468ba1b86907e53c2
+      internalID: -534114446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_8
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 241
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6dc7e025e7d534191427f9b2ec2260
+      internalID: 1541854594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 233
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ef649626fc0ba4f8dad77076cb2cec
+      internalID: -678657958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 184
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b61e0c2d8b378439bce418e1b1d25c
+      internalID: 30481115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 176
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243d31f8166d9df41a014328f9bc3743
+      internalID: -1150090791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_12
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 184
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f032e5b4d1d266e4ab506a6a56af3587
+      internalID: -981880023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 176
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43659634e0f68946a294babc63cf2a0
+      internalID: -136224363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_14
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 184
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2fca2442a349940912e1d865ac1ae6
+      internalID: 1097087434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 176
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c9b45b855e4044c9550a001164fe2a
+      internalID: -1086292476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 82
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a0f3efdfc4a3144916fd00b2acd90e
+      internalID: -691830818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 82
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0.43589744, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93323acef2a99434ca859aade649cfa7
+      internalID: 1343950328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_18
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 82
+        width: 53
+        height: 47
+      alignment: 9
+      pivot: {x: 0.3207547, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908e78082e4645e4296c8ddaf5be45bb
+      internalID: -2102235846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 82
+        width: 60
+        height: 47
+      alignment: 9
+      pivot: {x: 0.28333333, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed8fb17b8012c54a8cad6df6927948f
+      internalID: 725312414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 82
+        width: 69
+        height: 47
+      alignment: 9
+      pivot: {x: 0.24637681, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35b5a2b06dc18643b105ea395cbc2e0
+      internalID: -969793316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_24
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 82
+        width: 75
+        height: 47
+      alignment: 9
+      pivot: {x: 0.22666667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26c403a2dfbfdf4099da8e441640e67
+      internalID: 1854079127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 24
+        width: 97
+        height: 47
+      alignment: 9
+      pivot: {x: 0.17525773, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ac28de6fe4f7c4d8f3f23bdb2bb25d
+      internalID: 153718202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_28
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 24
+        width: 105
+        height: 47
+      alignment: 9
+      pivot: {x: 0.16190477, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389c88b25c938a74e9f510dc091dc580
+      internalID: -948102140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OG_congelacion_30
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 24
+        width: 106
+        height: 47
+      alignment: 9
+      pivot: {x: 0.16037735, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d46b32bb28c5d4d9c9f429d087a721
+      internalID: 847791838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CN_OG_congelacion_0: 35082385
+      CN_OG_congelacion_1: -979434230
+      CN_OG_congelacion_10: 30481115
+      CN_OG_congelacion_11: -1150090791
+      CN_OG_congelacion_12: -981880023
+      CN_OG_congelacion_13: -136224363
+      CN_OG_congelacion_14: 1097087434
+      CN_OG_congelacion_15: -1086292476
+      CN_OG_congelacion_16: -691830818
+      CN_OG_congelacion_17: 1343950328
+      CN_OG_congelacion_18: -2102235846
+      CN_OG_congelacion_19: -1930030342
+      CN_OG_congelacion_2: 1797964837
+      CN_OG_congelacion_20: 725312414
+      CN_OG_congelacion_21: -563255822
+      CN_OG_congelacion_22: -969793316
+      CN_OG_congelacion_23: 259914819
+      CN_OG_congelacion_24: 1854079127
+      CN_OG_congelacion_25: 186392595
+      CN_OG_congelacion_26: 153718202
+      CN_OG_congelacion_27: -999682768
+      CN_OG_congelacion_28: -948102140
+      CN_OG_congelacion_29: -2105090776
+      CN_OG_congelacion_3: 525233490
+      CN_OG_congelacion_30: 847791838
+      CN_OG_congelacion_31: -736844796
+      CN_OG_congelacion_4: -1311709325
+      CN_OG_congelacion_5: -570662822
+      CN_OG_congelacion_6: -1659992927
+      CN_OG_congelacion_7: -534114446
+      CN_OG_congelacion_8: 1541854594
+      CN_OG_congelacion_9: -678657958
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

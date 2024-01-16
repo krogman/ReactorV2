@@ -29,7 +29,7 @@ public class JugadorVida : Singleton<JugadorVida>
         if(vida > 0){
            vida -= cantidad; 
            actualizarCorazones(vida);
-           if(vida==0){
+           if(vida<=0){
             personajeDerrotado();
            }
         }else{

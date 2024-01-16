@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 5ee89b8e235cf184e8c2dbceeef5835f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CN_OR_ArmaMagica_22
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 70
+        height: 92
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0.25543478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd087e2d9b6b15468ec499cf28e12a7
+      internalID: 1018803227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaMagica_24
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 10
+        width: 70
+        height: 92
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0.25543478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac839ca52c98aa149980708d3cc2ddc7
+      internalID: 1657407494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaMagica_26
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 10
+        width: 70
+        height: 92
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0.25543478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6444f1b3dc057ae49b936057ec315806
+      internalID: -563334136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaMagica_28
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 10
+        width: 39
+        height: 84
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.2797619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256d63afb6d459c4d96b011f2268c40f
+      internalID: -1206218702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaMagica_39
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 10
+        width: 35
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.48958334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf607b76fefaeb4ab30678e8e1a9063
+      internalID: -728465205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaMagica_40
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 10
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb636862312b4e340b58a8c9de43e010
+      internalID: -688846166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CN_OR_ArmaMagica_0: 1595032171
+      CN_OR_ArmaMagica_1: 71930012
+      CN_OR_ArmaMagica_10: -220186893
+      CN_OR_ArmaMagica_11: -44784849
+      CN_OR_ArmaMagica_12: -73881870
+      CN_OR_ArmaMagica_13: -1967646691
+      CN_OR_ArmaMagica_14: 506610613
+      CN_OR_ArmaMagica_15: -97878236
+      CN_OR_ArmaMagica_16: 1497327509
+      CN_OR_ArmaMagica_17: -59922119
+      CN_OR_ArmaMagica_18: 472924358
+      CN_OR_ArmaMagica_19: -1283545578
+      CN_OR_ArmaMagica_2: 1275405681
+      CN_OR_ArmaMagica_20: 1516861302
+      CN_OR_ArmaMagica_21: 74659631
+      CN_OR_ArmaMagica_22: 1018803227
+      CN_OR_ArmaMagica_23: 904881680
+      CN_OR_ArmaMagica_24: 1657407494
+      CN_OR_ArmaMagica_25: -715319667
+      CN_OR_ArmaMagica_26: -563334136
+      CN_OR_ArmaMagica_27: 1527736425
+      CN_OR_ArmaMagica_28: -1206218702
+      CN_OR_ArmaMagica_29: -698923188
+      CN_OR_ArmaMagica_3: 215574532
+      CN_OR_ArmaMagica_30: 1429246463
+      CN_OR_ArmaMagica_31: 1134040613
+      CN_OR_ArmaMagica_32: -1739203555
+      CN_OR_ArmaMagica_33: 1594928441
+      CN_OR_ArmaMagica_34: -1829030332
+      CN_OR_ArmaMagica_35: 838840226
+      CN_OR_ArmaMagica_36: 1115889428
+      CN_OR_ArmaMagica_37: -1573745114
+      CN_OR_ArmaMagica_38: -750574185
+      CN_OR_ArmaMagica_39: -728465205
+      CN_OR_ArmaMagica_4: -957451584
+      CN_OR_ArmaMagica_40: -688846166
+      CN_OR_ArmaMagica_41: -405308974
+      CN_OR_ArmaMagica_42: -1589285050
+      CN_OR_ArmaMagica_43: -2121745042
+      CN_OR_ArmaMagica_5: -792159274
+      CN_OR_ArmaMagica_6: 1529828871
+      CN_OR_ArmaMagica_7: 1570423482
+      CN_OR_ArmaMagica_8: -516812139
+      CN_OR_ArmaMagica_9: -717930445
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

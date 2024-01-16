@@ -48,6 +48,10 @@ public class Inventario : Singleton<Inventario>
     public Image armaSelect_Img;
     public Sprite armaSelectDefault_Img;
 
+    [Header("Imagen en Invetario")]
+    public Image FelixInventario;
+    public Sprite[] spritesFelix; 
+
 
 
     // Update is called once per frame
@@ -322,7 +326,16 @@ public class Inventario : Singleton<Inventario>
     }
 
 
-    //public void inicializarInventario()
+    public void inicializarUIInventario(int i){
+        if (i != null&&i>=0) { 
+            FelixInventario.sprite=spritesFelix[i];
+        }
+        else
+        {
+            Debug.Log("I es nulo");
+        }
+        
+    }
 
 
 }

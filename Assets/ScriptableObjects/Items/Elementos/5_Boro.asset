@@ -12,18 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
   m_Name: 5_Boro
   m_EditorClassIdentifier: 
-  id: 4
-  nombre: Boro
+  id: 0
+  nombre: 
   icono: {fileID: 0}
-  descripcion: Elemento metaloide, esencial para plantas y utilizado en compuestos
-    semiconductores y vidrio.
-  tipo: 3
-  esElemento: 1
-  simbolo: B
+  descripcion: 
+  tipo: 0
   elemento_img: {fileID: 0}
-  numAtomico: 5
-  pesoAtomico: 10.811
-  uso: "Fabricaci\xF3n de vidrio, cer\xE1mica, semiconductores, entre otros."
-  configElectronica: 1s <sup>2 </sup> 2s <sup>2</sup> 2p <sup>1</sup>
-  caracteristicas: "S\xF3lido marr\xF3n no met\xE1lico"
-  dndEncontrarlo: "Se extrae del de b\xF3rax, miner\xEDa subterr\xE1nea, etc."
+  numAtomico: 0
+  pesoAtomico: 
+  uso: 
+  configElectronica: 
+  caracteristicas: 
+  dndEncontrarlo: 

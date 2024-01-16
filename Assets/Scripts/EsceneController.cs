@@ -4,43 +4,11 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using System;
 
-//[Serializable]
 public class EsceneController : Singleton<EsceneController>
 {
-/*
-    public GameObject objPrueba;
-    //para crear el slot
-    public GameObject slotReference;
-    private GameObject slotInstance;
-    public GameObject slotHolder;//donde estan todos los slots
-    
-
-    private void OnCollisionEnter2D(Collision2D collision) {
-        Debug.Log(collision.gameObject.name);
-        if(collision.collider.CompareTag("Player")){
-            //Debug.Log("colisiono con Jugador");
-            Destroy(objPrueba);
-            slotInstance = Instantiate(slotReference, slotHolder.transform);
-        }
-    } */
-
-    //----------------------EsceneController--------------------------
-    //public int x;
-    // Start is called before the first frame update
 
     public List<string> elementosdestruidos=new List<string>();
     DatosPartida dat = new DatosPartida();
-
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 
     public void cambiarEscena(int x){
         SceneManager.LoadSceneAsync(x);
@@ -81,8 +49,27 @@ public class EsceneController : Singleton<EsceneController>
         
     }
 
+    public void crearPartida(){
+        int datosGuardados= PlayerPrefs.GetInt("DatosGuardados",0);
+        if(datosGuardados==1){
+            //Mostrar advertencia
+            UIController.Instance.abrirPanelAdvertenciaJuegoNuevo();
+        }else{
+            //Abrir directamente la personalizacion del personaje
+            UIController.Instance.abrirPantallaPersonalizacion();
+        }
+    }
+
     public void reiniciarPartida(){
         dat.borrarPartida();
+    }
+    
+    public void pausarPartida(){
+        Time.timeScale = 0f;
+    }
+
+    public void renaudarPartida(){
+        Time.timeScale = 1f;
     }
 
     

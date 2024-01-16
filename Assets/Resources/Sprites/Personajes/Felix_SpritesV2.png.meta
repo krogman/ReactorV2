@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 48
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -191,6 +191,48 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+      name: Felix_SpritesV2_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472894519aee8ea4d8a1df2b76de6e67
+      internalID: -1662199565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Felix_SpritesV2_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf3078191cf5c54a879ba08b149f7d1
+      internalID: -789975191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
       name: Felix_SpritesV2_2
       rect:
         serializedVersion: 2
@@ -205,8 +247,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 472894519aee8ea4d8a1df2b76de6e67
-      internalID: -1662199565
+      spriteID: 6393cc272d724764c9d1cfe3ce82581e
+      internalID: 1493827212
       vertices: []
       indices: 
       edges: []
@@ -226,8 +268,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dcf3078191cf5c54a879ba08b149f7d1
-      internalID: -789975191
+      spriteID: 67148e5c4abffa54a9ae200d933bde86
+      internalID: -1960644015
       vertices: []
       indices: 
       edges: []
@@ -247,8 +289,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6393cc272d724764c9d1cfe3ce82581e
-      internalID: 1493827212
+      spriteID: d7b66b2df81e68840b6db5ce36edfaae
+      internalID: 1164774261
       vertices: []
       indices: 
       edges: []
@@ -268,8 +310,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 67148e5c4abffa54a9ae200d933bde86
-      internalID: -1960644015
+      spriteID: 955338f3fd0cacc44944d3fbad668102
+      internalID: -1744910828
       vertices: []
       indices: 
       edges: []
@@ -289,8 +331,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7b66b2df81e68840b6db5ce36edfaae
-      internalID: 1164774261
+      spriteID: ac227ccb7bf5c314bbde1a4dd6f647f7
+      internalID: -267129937
       vertices: []
       indices: 
       edges: []
@@ -310,8 +352,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 955338f3fd0cacc44944d3fbad668102
-      internalID: -1744910828
+      spriteID: 3ab8dd09102892f4d845e8f4121052c5
+      internalID: 1345525254
       vertices: []
       indices: 
       edges: []
@@ -331,8 +373,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac227ccb7bf5c314bbde1a4dd6f647f7
-      internalID: -267129937
+      spriteID: 3e40b3ca42858534e9cd68d7f49c9da8
+      internalID: -327708726
       vertices: []
       indices: 
       edges: []
@@ -342,48 +384,6 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 2
-        width: 48
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3ab8dd09102892f4d845e8f4121052c5
-      internalID: 1345525254
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Felix_SpritesV2_10
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 2
-        width: 48
-        height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3e40b3ca42858534e9cd68d7f49c9da8
-      internalID: -327708726
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Felix_SpritesV2_11
-      rect:
-        serializedVersion: 2
-        x: 96
         y: 2
         width: 48
         height: 48
@@ -413,16 +413,16 @@ TextureImporter:
     nameFileIdTable:
       Felix_SpritesV2_0: 1974518779
       Felix_SpritesV2_1: -1811047401
-      Felix_SpritesV2_10: -327708726
-      Felix_SpritesV2_11: -784465644
-      Felix_SpritesV2_2: -1662199565
-      Felix_SpritesV2_3: -789975191
-      Felix_SpritesV2_4: 1493827212
-      Felix_SpritesV2_5: -1960644015
-      Felix_SpritesV2_6: 1164774261
-      Felix_SpritesV2_7: -1744910828
-      Felix_SpritesV2_8: -267129937
-      Felix_SpritesV2_9: 1345525254
+      Felix_SpritesV2_10: -1662199565
+      Felix_SpritesV2_11: -789975191
+      Felix_SpritesV2_2: 1493827212
+      Felix_SpritesV2_3: -1960644015
+      Felix_SpritesV2_4: 1164774261
+      Felix_SpritesV2_5: -1744910828
+      Felix_SpritesV2_6: -267129937
+      Felix_SpritesV2_7: 1345525254
+      Felix_SpritesV2_8: -327708726
+      Felix_SpritesV2_9: -784465644
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

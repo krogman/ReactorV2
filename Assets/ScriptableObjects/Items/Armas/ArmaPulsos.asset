@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ce51bd29e58f394b8653c1fe0c307a3, type: 3}
+  m_Name: ArmaPulsos
+  m_EditorClassIdentifier: 
+  id: 125
+  nombre: "Arma de pulsos electromagn\xE9ticos"
+  icono: {fileID: 21300000, guid: 3e0cdde519eb1e640a91c5e82d19638b, type: 3}
+  descripcion: "Genera fuertes descargas el\xE9ctricas"
+  tipo: 0
+  esElemento: 0
+  nivelDano: 10

@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9051e32d038d174aae402ce05c06297, type: 3}
   m_Name: LocoDialogo
   m_EditorClassIdentifier: 
-  nombre: Loco
-  ContieneInteraccionExtra: 0
+  nombre: Tarrant Hightopp
   saludo: "\xA1Hey!, no te habia visto por aqui"
   conversacion:
   - hastaEvento: 3
+    contieneMision: 0
     oraciones:
     - "\xBFHas visto al herrero?, a veces es un hombre muy amargado, pero suele ayudar
       cuando estas en problemas"
     - "\xBFPor que estas tan apurado?, me recuerdas a un amigo que siempre va tarde
       a todos lados "
+    mision: {fileID: 0}
   - hastaEvento: 5
+    contieneMision: 0
     oraciones:
     - "Sabias que la dinamita contiene man\xED como un ingrediente"
     - "Yo sabia que ese tal \"Man\xED\" no era de fiar"
-  despedida: "Sabes, tambien deb\xEDa ir a algun lado, solo que no recuerdo a donde"
+    mision: {fileID: 0}
+  despedida: "Sabes, tambien deb\xEDa ir a algun lado, solo que no recuerdo a donde."

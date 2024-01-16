@@ -67,7 +67,9 @@ public class TablaPeriodica : Singleton<TablaPeriodica>
             int auxCount= tab.Count;
             if(auxCount>0){
                 for(int i=0;i<auxCount;i++){
-                    desbloquearElement(tab[i]);
+                    if(tab[i]!=null){
+                        desbloquearElement(tab[i]);
+                    }
                 } 
             }
         }
