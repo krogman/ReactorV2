@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 29
   nombre: Zinc
-  icono: {fileID: 21300000, guid: 6f840eef5238ac04e932c9f6129cf720, type: 3}
+  icono: {fileID: 21300000, guid: 51c302f64de43fe4b8b02506b6ed1918, type: 3}
   descripcion: "Metal de transici\xF3n, esencial para la salud, utilizado en galvanizaci\xF3n
     y en aleaciones."
   tipo: 3
   esElemento: 1
   simbolo: Zn
-  elemento_img: {fileID: 21300000, guid: 6f840eef5238ac04e932c9f6129cf720, type: 3}
+  elemento_img: {fileID: 21300000, guid: 51c302f64de43fe4b8b02506b6ed1918, type: 3}
   numAtomico: 30
   pesoAtomico: 65.39
   uso: "Galvanizado, aleaciones, bater\xEDas, protectores solares, etc."

@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 108
   nombre: Meitnerio
-  icono: {fileID: -283064491, guid: 10ac785fb968d9c4c840c71ba3b5cc8d, type: 3}
+  icono: {fileID: 0}
   descripcion: "Elemento transact\xEDnido artificial, producido en laboratorios,
     sin aplicaciones pr\xE1cticas conocidas."
   tipo: 3
   esElemento: 1
   simbolo: Mt
-  elemento_img: {fileID: -283064491, guid: 10ac785fb968d9c4c840c71ba3b5cc8d, type: 3}
+  elemento_img: {fileID: 0}
   numAtomico: 109
   pesoAtomico: 277
   uso: "Se utiliza principalmente para la investigaci\xF3n nuclear y la s\xEDntesis

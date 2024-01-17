@@ -14,16 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 6
   nombre: "Nitr\xF3geno"
-  icono: {fileID: -1000761946, guid: f15a474843192d241aada2fafbdc65a7, type: 3}
-  descripcion: "Gas esencial en la atm\xF3sfera, utilizado en fertilizantes y refrigerantes."
+  icono: {fileID: 21300000, guid: b4872dcff3a17a240a530f8c43714669, type: 3}
+  descripcion: 
   tipo: 3
   esElemento: 1
   simbolo: N
-  elemento_img: {fileID: -1000761946, guid: f15a474843192d241aada2fafbdc65a7, type: 3}
-  numAtomico: 0
-  pesoAtomico: 14.0067
-  uso: "Creaci\xF3n de productos qu\xEDmicos, materiales compuestos, joyer\xEDa"
-  configElectronica: 1 S<sup>2</sup> 2s <sup> 2 </sup> 2p <sup>3</sup>
-  caracteristicas: Gas incoloro e inodoro
-  dndEncontrarlo: "Destilaci\xF3n fraccionada del aire (atm\xF3sfera terrestre),
-    extracci\xF3n de gas natural"
+  elemento_img: {fileID: 21300000, guid: b4872dcff3a17a240a530f8c43714669, type: 3}
+  numAtomico: 7
+  pesoAtomico: 
+  uso: 
+  configElectronica: 
+  caracteristicas: 
+  dndEncontrarlo: 

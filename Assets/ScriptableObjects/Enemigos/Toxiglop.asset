@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a2b78aa253ab7a40b66b1ae8099ae96, type: 3}
+  m_Name: Toxiglop
+  m_EditorClassIdentifier: 
+  id: 1
+  nivAtaque: 2
+  nivelVida: 10
+  esIM: 0
+  id_ArmaCompatible: 123
+  mensajeRecompensa: Has derrotado un Toxiglop
+  recompensaExp: 17
+  itemsRecompensa:
+  - itm: {fileID: 11400000, guid: 7edfee392e94c534ab1d9cb496fa503f, type: 2}
+    cantidad: 1

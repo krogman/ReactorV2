@@ -14,16 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 3
   nombre: Berilio
-  icono: {fileID: 21300000, guid: 73f08eca393303142b718a50d49a36f6, type: 3}
-  descripcion: "Metal raro, ligero y resistente, utilizado en tecnolog\xEDa aeroespacial
-    y m\xE9dica."
+  icono: {fileID: 21300000, guid: b1ae28f3400e10c4a9b1d06b6b474039, type: 3}
+  descripcion: 
   tipo: 3
   esElemento: 1
   simbolo: Be
-  elemento_img: {fileID: 21300000, guid: 73f08eca393303142b718a50d49a36f6, type: 3}
+  elemento_img: {fileID: 21300000, guid: b1ae28f3400e10c4a9b1d06b6b474039, type: 3}
   numAtomico: 4
-  pesoAtomico: 9.0122
-  uso: "Industria aeroespacial, electr\xF3nica, radiograf\xEDa, entre otros."
-  configElectronica: 1 S<sup>2</sup> 2s <sup> 2 </sup>
-  caracteristicas: Metal plateado duro y ligero
-  dndEncontrarlo: Minerales de berilio, escombros nucleares
+  pesoAtomico: 
+  uso: 
+  configElectronica: 
+  caracteristicas: 
+  dndEncontrarlo: 

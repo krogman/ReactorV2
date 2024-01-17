@@ -12,17 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
   m_Name: 23_Vanadio
   m_EditorClassIdentifier: 
-  id: 22
-  nombre: Vanadio
-  icono: {fileID: 21300000, guid: d8295cf59f345bd42ae1802ee4f76240, type: 3}
+  id: 0
+  nombre: 
+  icono: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
   descripcion: "Metal de transici\xF3n, utilizado en aleaciones y en la producci\xF3n
     de acero especial."
-  tipo: 3
-  esElemento: 1
-  simbolo: V
-  elemento_img: {fileID: 21300000, guid: d8295cf59f345bd42ae1802ee4f76240, type: 3}
-  numAtomico: 23
-  pesoAtomico: 50.9415 u
+  tipo: 0
+  esElemento: 0
+  simbolo: 
+  elemento_img: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
+  numAtomico: 0
+  pesoAtomico: 
   uso: "Aleaciones de acero, superconductores, bater\xEDas, catalizadores, entre
     otros."
   configElectronica: 1s <sup>2 </sup>2s <sup>2</sup> 2p <sup>6</sup>3s <sup>2</sup>

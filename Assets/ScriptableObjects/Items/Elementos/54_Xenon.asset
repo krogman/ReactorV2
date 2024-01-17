@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 53
   nombre: "Xen\xF3n"
-  icono: {fileID: -1109354594, guid: f15a474843192d241aada2fafbdc65a7, type: 3}
+  icono: {fileID: 21300000, guid: b4872dcff3a17a240a530f8c43714669, type: 3}
   descripcion: "Gas noble, utilizado en l\xE1mparas de xen\xF3n y en investigaci\xF3n
     m\xE9dica."
   tipo: 3
   esElemento: 1
   simbolo: Xe
-  elemento_img: {fileID: -1109354594, guid: f15a474843192d241aada2fafbdc65a7, type: 3}
+  elemento_img: {fileID: 21300000, guid: b4872dcff3a17a240a530f8c43714669, type: 3}
   numAtomico: 54
   pesoAtomico: 131.293
   uso: "L\xE1mparas, aislantes y refrigerantes, entre otros."

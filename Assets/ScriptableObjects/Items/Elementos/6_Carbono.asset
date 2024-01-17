@@ -14,19 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 5
   nombre: Carbono
-  icono: {fileID: -1562376734, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
-  descripcion: "Base de la vida, forma mol\xE9culas complejas y est\xE1 presente
-    en materia org\xE1nica."
+  icono: {fileID: 21300000, guid: 2774e5bbe63be204988f1c5f7f2ae979, type: 3}
+  descripcion: 
   tipo: 3
   esElemento: 1
   simbolo: C
-  elemento_img: {fileID: -1562376734, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
+  elemento_img: {fileID: 21300000, guid: 2774e5bbe63be204988f1c5f7f2ae979, type: 3}
   numAtomico: 6
-  pesoAtomico: 12.0107
-  uso: "Creaci\xF3n de productos qu\xEDmicos, materiales compuestos, joyer\xEDa"
-  configElectronica: 1 S<sup>2</sup> 2s <sup> 2 </sup> 2p <sup>2</sup>
-  caracteristicas: "S\xF3lido no met\xE1lico de varios colores"
-  dndEncontrarlo: "Se encuentra en la atmosfera terrestre y materia org\xE1nica.\nSe
-    extrae mediante miner\xEDa subterr\xE1nea, combusti\xF3n incompleta de materiales
-    org\xE1nicos. es posible extraerlo a partir de materiales org\xE1nicos, como
-    madera y carb\xF3n vegetal."
+  pesoAtomico: 
+  uso: 
+  configElectronica: 
+  caracteristicas: 
+  dndEncontrarlo: 

@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 104
   nombre: Dubnio
-  icono: {fileID: 21300000, guid: 73f08eca393303142b718a50d49a36f6, type: 3}
+  icono: {fileID: 0}
   descripcion: "Elemento transact\xEDnido artificial, producido en laboratorios,
     sin aplicaciones pr\xE1cticas conocidas."
   tipo: 3
   esElemento: 1
   simbolo: Db
-  elemento_img: {fileID: 21300000, guid: 73f08eca393303142b718a50d49a36f6, type: 3}
+  elemento_img: {fileID: 0}
   numAtomico: 105
   pesoAtomico: 263
   uso: "El dubnio se utiliza principalmente para la investigaci\xF3n nuclear y la

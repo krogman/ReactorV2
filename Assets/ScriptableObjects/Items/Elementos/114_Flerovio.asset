@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 113
   nombre: Flerovio
-  icono: {fileID: 941944033, guid: d581cd8168b49bd4f97d328a93ee31d7, type: 3}
+  icono: {fileID: 0}
   descripcion: "Elemento transact\xEDnido artificial, producido en laboratorios,
     sin aplicaciones pr\xE1cticas conocidas."
   tipo: 3
   esElemento: 1
   simbolo: Fl
-  elemento_img: {fileID: 941944033, guid: d581cd8168b49bd4f97d328a93ee31d7, type: 3}
+  elemento_img: {fileID: 0}
   numAtomico: 114
   pesoAtomico: 
   uso: "Se utiliza principalmente para la investigaci\xF3n en f\xEDsica nuclear y

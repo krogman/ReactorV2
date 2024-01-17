@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 80
   nombre: Talio
-  icono: {fileID: 21300000, guid: 75d97c5d6a557fd4ea48d191e6f130a1, type: 3}
+  icono: {fileID: 21300000, guid: 51c302f64de43fe4b8b02506b6ed1918, type: 3}
   descripcion: "Metal pesado, t\xF3xico, utilizado en aleaciones y en detectores
     de radiaci\xF3n."
   tipo: 3
   esElemento: 1
   simbolo: Tl
-  elemento_img: {fileID: 21300000, guid: 75d97c5d6a557fd4ea48d191e6f130a1, type: 3}
+  elemento_img: {fileID: 0}
   numAtomico: 81
   pesoAtomico: 204.3833
   uso: " Fabricaci\xF3n de vidrios de alta calidad, en la producci\xF3n de semiconductores

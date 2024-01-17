@@ -18,16 +18,14 @@ public class EnemigoController : MonoBehaviour
            vida -= cantidad; 
            if(vida<=0){
             entregarRecompensa();
-            EsceneController.Instance.agregarObjetoDestruido(gameObject.name);
-            Destroy(gameObject);
+            muere();
            }
         }else{
             //Muere
             vida=0;
             entregarRecompensa();
 
-            EsceneController.Instance.agregarObjetoDestruido(gameObject.name);
-            Destroy(gameObject);
+            muere();
         }
         
     
@@ -44,6 +42,9 @@ public class EnemigoController : MonoBehaviour
         if(enemigo.esIM==false){
             if(enemigo.itemsRecompensa!=null && enemigo.itemsRecompensa.Length>0){
             for (int i = 0; i < enemigo.itemsRecompensa.Length; i++){
+                //if(enemigo.itemsRecompensa[i].itm.esElemento){
+                //TablaPeriodica.Instance.desbloquearElement(enemigo.itemsRecompensa[i].itm);//si hay tiempo hay que cambiar esta parte a Inventario
+                //}
                 Inventario.Instance.agregarItem(enemigo.itemsRecompensa[i].itm,enemigo.itemsRecompensa[i].cantidad);
             }
             }
@@ -57,5 +58,11 @@ public class EnemigoController : MonoBehaviour
         }
 
         
+    }
+
+    public void muere(){
+        MisionController.Instance.evaluarProgresoEnMision(enemigo.id);
+        EsceneController.Instance.agregarObjetoDestruido(gameObject.name);
+        Destroy(gameObject);
     }
 }

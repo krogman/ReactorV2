@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 85
   nombre: "Rad\xF3n"
-  icono: {fileID: -1646987020, guid: f15a474843192d241aada2fafbdc65a7, type: 3}
+  icono: {fileID: 21300000, guid: b4872dcff3a17a240a530f8c43714669, type: 3}
   descripcion: "Gas noble radioactivo, peligroso, presente en la descomposici\xF3n
     de uranio y torio."
   tipo: 3
   esElemento: 1
   simbolo: Rn
-  elemento_img: {fileID: -1646987020, guid: f15a474843192d241aada2fafbdc65a7, type: 3}
+  elemento_img: {fileID: 21300000, guid: b4872dcff3a17a240a530f8c43714669, type: 3}
   numAtomico: 86
   pesoAtomico: 222
   uso: "Detecci\xF3n de fugas en tuber\xEDas, tratamiento de c\xE1ncer, etc\xE9tera."

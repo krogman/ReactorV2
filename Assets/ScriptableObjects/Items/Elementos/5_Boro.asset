@@ -14,16 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 4
   nombre: Boro
-  icono: {fileID: 21300000, guid: 08d184627b2a6f74f95ade726f930456, type: 3}
-  descripcion: Elemento metaloide, esencial para plantas y utilizado en compuestos
-    semiconductores y vidrio.
+  icono: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
+  descripcion: 
   tipo: 3
   esElemento: 1
   simbolo: B
-  elemento_img: {fileID: 21300000, guid: 08d184627b2a6f74f95ade726f930456, type: 3}
-  numAtomico: 0
-  pesoAtomico: 10.811
-  uso: "Fabricaci\xF3n de vidrio, cer\xE1mica, semiconductores"
-  configElectronica: 1 S<sup>2</sup> 2s <sup> 2 </sup> 2p <sup>1</sup>
-  caracteristicas: "S\xF3lido marr\xF3n no met\xE1lico"
-  dndEncontrarlo: "Minerales de b\xF3rax, roca volc\xE1nica"
+  elemento_img: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
+  numAtomico: 5
+  pesoAtomico: 
+  uso: 
+  configElectronica: 
+  caracteristicas: 
+  dndEncontrarlo: 

@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 21
   nombre: Titanio
-  icono: {fileID: 21300000, guid: 6f840eef5238ac04e932c9f6129cf720, type: 3}
+  icono: {fileID: 21300000, guid: 51c302f64de43fe4b8b02506b6ed1918, type: 3}
   descripcion: "Metal de transici\xF3n, fuerte y ligero, utilizado en aviaci\xF3n,
     pr\xF3tesis y pigmentos."
   tipo: 3
   esElemento: 1
   simbolo: Ti
-  elemento_img: {fileID: 21300000, guid: 6f840eef5238ac04e932c9f6129cf720, type: 3}
+  elemento_img: {fileID: 21300000, guid: 51c302f64de43fe4b8b02506b6ed1918, type: 3}
   numAtomico: 22
   pesoAtomico: 47.867
   uso: "Aleaciones de acero, turbinas de aviones y motores, implantes m\xE9dicos."

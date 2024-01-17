@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 87
   nombre: Radio
-  icono: {fileID: 21300000, guid: 25793856ccd06ed49a08e3794bd9464a, type: 3}
+  icono: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
   descripcion: "Metal alcalinot\xE9rreo radioactivo, utilizado en tratamientos m\xE9dicos
     y en la dataci\xF3n por radiocarbono."
   tipo: 3
   esElemento: 1
   simbolo: Ra
-  elemento_img: {fileID: 21300000, guid: 25793856ccd06ed49a08e3794bd9464a, type: 3}
+  elemento_img: {fileID: 0}
   numAtomico: 88
   pesoAtomico: 226
   uso: "Fuentes de energ\xEDa nuclear, estudio de la estructura de los \xE1tomos.

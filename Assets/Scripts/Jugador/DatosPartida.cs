@@ -171,6 +171,8 @@ public class DatosPartida : MonoBehaviour
         //Debug.Log("TablaP-JSON = "+jsonListaTabla);
 
         PlayerPrefs.SetInt("DatosGuardados",1);
+        
+        //PlayerPrefs.SetInt("TipoCargaEscena",0);
 
         //Debug.Log("Se terminaron de cargar los datos"); 
 
@@ -185,10 +187,17 @@ public class DatosPartida : MonoBehaviour
     }
 
     public void cargarPartida(){
+        int posStatus= PlayerPrefs.GetInt("TipoCargaEscena",0);
+        if(posStatus==0){
+            //es cambio de inicio a escena del juego
+            cargarPosicion();
+        }//else{ es cambio entre escenas
+
+
         //llamar los datos
-        posX= PlayerPrefs.GetFloat("PosX",0);
-        posY= PlayerPrefs.GetFloat("PosY",0);
-        posicion= new Vector2(posX,posY);
+        //posX= PlayerPrefs.GetFloat("PosX",0);
+        //posY= PlayerPrefs.GetFloat("PosY",0);
+        //posicion= new Vector2(posX,posY);
         vida = PlayerPrefs.GetInt("Vida",10);
         exp = PlayerPrefs.GetInt("Exp",0);
         escenario= PlayerPrefs.GetInt("Escenario",1);//aparte se mandara llamar en el momento de contuniar partida, en INICIO
@@ -276,7 +285,7 @@ public class DatosPartida : MonoBehaviour
 
         //-------------------------------------------------------------
         //Mandar los datos a sus scripts
-        JugadorStats.Instance.setPosicion(posicion);
+        //JugadorStats.Instance.setPosicion(posicion);
         JugadorVida.Instance.cargarVida(vida);
         JugadorExp.Instance.agregarExp(exp);
         JugadorStats.Instance.escenario=escenario;
@@ -331,10 +340,19 @@ public class DatosPartida : MonoBehaviour
         
 
     }
+    public void cargarPosicion(){
+        posX= PlayerPrefs.GetFloat("PosX",0);
+        posY= PlayerPrefs.GetFloat("PosY",0);
+        posicion= new Vector2(posX,posY);
+        //Mandar los datos a sus scripts
+        JugadorStats.Instance.setPosicion(posicion);
+
+    }
 
     public void borrarPartida(){
         //reiniciar las misiones
         PlayerPrefs.DeleteAll();
+        MisionesExistencias.Instance.resetearMisiones();
         UIController.Instance.mostrarAlerta("Los datos han sido borrados");
     }
 

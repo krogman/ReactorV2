@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 81
   nombre: Plomo
-  icono: {fileID: 941944033, guid: d581cd8168b49bd4f97d328a93ee31d7, type: 3}
+  icono: {fileID: 21300000, guid: 187ed0ddef46b1d48be502bdc6dc7c0d, type: 3}
   descripcion: "Metal pesado, utilizado en la construcci\xF3n, bater\xEDas y en la
     fabricaci\xF3n de municiones."
   tipo: 3
   esElemento: 1
   simbolo: Pb
-  elemento_img: {fileID: 941944033, guid: d581cd8168b49bd4f97d328a93ee31d7, type: 3}
+  elemento_img: {fileID: 0}
   numAtomico: 82
   pesoAtomico: 207.2
   uso: "Se utiliza en la producci\xF3n de tuber\xEDas, pinturas, bater\xEDas y municiones."

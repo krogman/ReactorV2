@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 93
   nombre: Plutonio
-  icono: {fileID: 941944033, guid: d581cd8168b49bd4f97d328a93ee31d7, type: 3}
+  icono: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
   descripcion: "Act\xEDnido radioactivo, utilizado en la fabricaci\xF3n de armas
     nucleares y en reactores."
   tipo: 3
   esElemento: 1
   simbolo: Pu
-  elemento_img: {fileID: 941944033, guid: d581cd8168b49bd4f97d328a93ee31d7, type: 3}
+  elemento_img: {fileID: 0}
   numAtomico: 94
   pesoAtomico: 243
   uso: "Reactores nucleares, investigaci\xF3n cient\xEDfica, armamento nuclear, etc\xE9tera."

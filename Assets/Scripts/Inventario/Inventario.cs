@@ -77,6 +77,9 @@ public class Inventario : Singleton<Inventario>
     }
 
     public void agregarItem(Item itemObtenido, int cantidad){
+        if(itemObtenido.esElemento){
+            TablaPeriodica.Instance.desbloquearElement(itemObtenido);
+        }
         //allSlots = slotHolder.transform.childCount;
         if(allSlots>0){
             int existencia=VerificarExistencias(itemObtenido.id);
@@ -327,14 +330,7 @@ public class Inventario : Singleton<Inventario>
 
 
     public void inicializarUIInventario(int i){
-        if (i != null&&i>=0) { 
-            FelixInventario.sprite=spritesFelix[i];
-        }
-        else
-        {
-            Debug.Log("I es nulo");
-        }
-        
+        FelixInventario.sprite=spritesFelix[i];
     }
 
 

@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 43
   nombre: Rutenio
-  icono: {fileID: -1918379506, guid: d581cd8168b49bd4f97d328a93ee31d7, type: 3}
+  icono: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
   descripcion: "Metal de transici\xF3n, utilizado en catalizadores y en la industria
     electr\xF3nica."
   tipo: 3
   esElemento: 1
   simbolo: Ru
-  elemento_img: {fileID: -1918379506, guid: d581cd8168b49bd4f97d328a93ee31d7, type: 3}
+  elemento_img: {fileID: 0}
   numAtomico: 44
   pesoAtomico: 101.07
   uso: "Catalizadores, joyer\xEDa, componentes electr\xF3nico, entre otros."

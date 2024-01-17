@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41fc23eb17b379d409c0f51d20a6b5bf, type: 3}
+  m_Name: M4_Derrota3M
+  m_EditorClassIdentifier: 
+  nombre: Derrota a 3 monstruos en la ciudad
+  id: 4
+  imagenMision: {fileID: 21300000, guid: 7494ba15848983f46b96fc61c28d5674, type: 3}
+  cantidadObjetivo: 3
+  tipoMision: 2
+  listaObj_Id:
+  - id: 134
+    check: 0
+  - id: 134
+    check: 0
+  - id: 133
+    check: 0
+  - id: 133
+    check: 0
+  descripcion: "Ciertos monstruos est\xE1n causando estragos en la cuidad, si los
+    derrotas podr\xEDas obtener algunos elementos que te faltan."
+  descripcionCorta: Derrota 3 monstruos.
+  recompensaExp: 7
+  recompensaItem:
+  - item: {fileID: 11400000, guid: 8543c1d7ced3ce14ead46ebaeeed32f8, type: 2}
+    cantidad: 1
+  misionAceptada: 0
+  cantidadActual: 0
+  misionCompletada: 0

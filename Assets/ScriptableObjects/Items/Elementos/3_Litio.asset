@@ -14,15 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 2
   nombre: Litio
-  icono: {fileID: -1892988772, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
-  descripcion: "Metal ligero, empleado en bater\xEDas y medicamentos psiqui\xE1tricos."
-  tipo: 0
+  icono: {fileID: 21300000, guid: fea24183072532a419f27d6b302d3f24, type: 3}
+  descripcion: 
+  tipo: 3
   esElemento: 1
   simbolo: Li
-  elemento_img: {fileID: -1892988772, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
+  elemento_img: {fileID: 21300000, guid: fea24183072532a419f27d6b302d3f24, type: 3}
   numAtomico: 3
-  pesoAtomico: 6.941
-  uso: "Fabricaci\xF3n de bater\xEDas, vidrio, cer\xE1mica, aleaciones"
-  configElectronica: 1 S<sup>2</sup> 2s <sup> 1 </sup>
-  caracteristicas: Metal blando plateado.
-  dndEncontrarlo: Minerales de roca dura, salmuera.
+  pesoAtomico: 
+  uso: 
+  configElectronica: 
+  caracteristicas: 
+  dndEncontrarlo: 

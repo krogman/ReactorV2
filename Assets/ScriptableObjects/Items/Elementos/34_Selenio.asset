@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 33
   nombre: Selenio
-  icono: {fileID: 21300000, guid: 6f840eef5238ac04e932c9f6129cf720, type: 3}
+  icono: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
   descripcion: "Elemento esencial en peque\xF1as cantidades, utilizado en la producci\xF3n
     de vidrio y en la fotograf\xEDa."
   tipo: 3
   esElemento: 1
   simbolo: Se
-  elemento_img: {fileID: 21300000, guid: 6f840eef5238ac04e932c9f6129cf720, type: 3}
+  elemento_img: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
   numAtomico: 34
   pesoAtomico: 78.96
   uso: "Fotocopiadoras, c\xE9lulas solares, vidrio, etc."

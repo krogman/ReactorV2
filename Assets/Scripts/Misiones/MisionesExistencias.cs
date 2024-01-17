@@ -2,7 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MisionesExistencias : MonoBehaviour
+public class MisionesExistencias : Singleton<MisionesExistencias>
+
 {
     //En este script se guardaran todas las misiiones scriptables para poder tener un control de existencias y reseteo de las mismas
     public Mision[] misiones;

@@ -14,9 +14,9 @@ public class ItemPorAgregar : MonoBehaviour
         if(collision.collider.CompareTag("Player")){
             //Inventario.Instance.crearSlot(itemReferencia,cantidad);
             Inventario.Instance.agregarItem(itemReferencia,cantidad);
-            if(itemReferencia.esElemento){
-                TablaPeriodica.Instance.desbloquearElement(itemReferencia);
-            }
+            //if(itemReferencia.esElemento){
+             //   TablaPeriodica.Instance.desbloquearElement(itemReferencia);
+            //}
             Debug.Log("Id del Item: "+itemReferencia.id);
             MisionController.Instance.evaluarProgresoEnMision(itemReferencia.id);
             UIController.Instance.mostrarAlerta("Has encontrado " + itemReferencia.nombre);

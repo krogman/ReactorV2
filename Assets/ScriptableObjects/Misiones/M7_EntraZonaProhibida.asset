@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41fc23eb17b379d409c0f51d20a6b5bf, type: 3}
+  m_Name: M7_EntraZonaProhibida
+  m_EditorClassIdentifier: 
+  nombre: Dspeja el camino y entra a la zona prohibida
+  id: 7
+  imagenMision: {fileID: 21300000, guid: 905aefa8652570842be8659ac40217a5, type: 3}
+  cantidadObjetivo: 1
+  tipoMision: 3
+  listaObj_Id:
+  - id: 151
+    check: 0
+  descripcion: "El muro que bloquea el camino est\xE1 hecho de un compuesto alcalinot\xE9rreo,
+    nitrato de plata y magnesio, los cuales son muy reactivos, si arrojas una gota
+    de agua se generar\xE1 una explosi\xF3n formando hidr\xF3xido. "
+  descripcionCorta: "\xC9chale agua"
+  recompensaExp: 20
+  recompensaItem:
+  - item: {fileID: 11400000, guid: f0b116fcc2a342341b2c38ea36255d03, type: 2}
+    cantidad: 1
+  - item: {fileID: 11400000, guid: fa89b88c0b6ffd0408b14f190c399c41, type: 2}
+    cantidad: 1
+  misionAceptada: 0
+  cantidadActual: 0
+  misionCompletada: 0

@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 75
   nombre: Osmio
-  icono: {fileID: -1918379506, guid: d581cd8168b49bd4f97d328a93ee31d7, type: 3}
+  icono: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
   descripcion: "Metal de transici\xF3n, denso y resistente, utilizado en aleaciones
     y en la industria qu\xEDmica."
   tipo: 3
   esElemento: 1
   simbolo: Os
-  elemento_img: {fileID: -1918379506, guid: d581cd8168b49bd4f97d328a93ee31d7, type: 3}
+  elemento_img: {fileID: 0}
   numAtomico: 76
   pesoAtomico: 190.23
   uso: "En aleaciones duras y resistentes a la corrosi\xF3n, contactos el\xE9ctricos,

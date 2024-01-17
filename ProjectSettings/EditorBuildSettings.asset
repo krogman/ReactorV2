@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Juego.unity
     guid: b73ca33ef8f2043429097b95fbb00093
   - enabled: 1
-    path: Assets/Scenes/Juego_conEscenarios.unity
+    path: Assets/Scenes/Juego_EsteNoEs.unity
     guid: 1f4e341e2b3a66b4db722c5e7f8ff441
   - enabled: 1
     path: Assets/Scenes/TP.unity

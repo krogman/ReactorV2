@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 101
   nombre: Nobelio
-  icono: {fileID: -1595217561, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
+  icono: {fileID: 0}
   descripcion: "Act\xEDnido artificial, producido en reactores nucleares, utilizado
     en investigaciones cient\xEDficas."
   tipo: 3
   esElemento: 1
   simbolo: No
-  elemento_img: {fileID: -1595217561, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
+  elemento_img: {fileID: 0}
   numAtomico: 102
   pesoAtomico: 259
   uso: "El nobelio se utiliza principalmente para la investigaci\xF3n nuclear y la

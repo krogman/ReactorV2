@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 95
   nombre: Curio
-  icono: {fileID: -1510425418, guid: 10ac785fb968d9c4c840c71ba3b5cc8d, type: 3}
+  icono: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
   descripcion: "Act\xEDnido radioactivo, empleado en investigaciones cient\xEDficas
     y en dispositivos m\xE9dicos."
   tipo: 3
   esElemento: 1
   simbolo: Cm
-  elemento_img: {fileID: -1510425418, guid: 10ac785fb968d9c4c840c71ba3b5cc8d, type: 3}
+  elemento_img: {fileID: 0}
   numAtomico: 96
   pesoAtomico: 247
   uso: "Reactores nucleares, investigaci\xF3n cient\xEDfica, armamento nuclear. El

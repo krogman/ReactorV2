@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 24
   nombre: Manganeso
-  icono: {fileID: 1907084362, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
+  icono: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
   descripcion: "Metal de transici\xF3n, utilizado en aleaciones y en la producci\xF3n
     de acero."
   tipo: 3
   esElemento: 1
   simbolo: Mn
-  elemento_img: {fileID: 1907084362, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
+  elemento_img: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
   numAtomico: 25
   pesoAtomico: 54.938
   uso: "Pilas, acero inoxidable, aleaciones de aluminio, materiales de construcci\xF3n,

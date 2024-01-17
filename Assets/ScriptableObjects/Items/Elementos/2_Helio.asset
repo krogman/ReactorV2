@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 1
   nombre: Helio[He]
-  icono: {fileID: -178291144, guid: f15a474843192d241aada2fafbdc65a7, type: 3}
-  descripcion: " Gas inerte, segundo elemento m\xE1s ligero, presente en estrellas
-    y usado en globos aerost\xE1ticos."
+  icono: {fileID: 21300000, guid: b4872dcff3a17a240a530f8c43714669, type: 3}
+  descripcion: Es un gas noble, incoloro e inodoro. se encuentra como gas natural
+    y en la admosfera solar
   tipo: 3
   esElemento: 1
   simbolo: He
-  elemento_img: {fileID: -178291144, guid: f15a474843192d241aada2fafbdc65a7, type: 3}
+  elemento_img: {fileID: 21300000, guid: b4872dcff3a17a240a530f8c43714669, type: 3}
   numAtomico: 2
   pesoAtomico: 2.0125u
   uso: "Se suele utilizar en Soldadura por arco y en la fabricaci\xF3n de cristales
@@ -28,9 +28,9 @@ MonoBehaviour:
     en la refrigeraci\xF3n de imanes superconductores; IRM. Enfriamiento de imanes
     en resonancia magn\xE9tica, soldadura, detecci\xF3n de fugas"
   configElectronica: 1 S<sup>1</sup> L
-  caracteristicas: 'Es un gas inflamable e incoloro que no se puede encontrar en
-    estado puro '
-  dndEncontrarlo: "Principalmente: Gas natural,  el petr\xF3leo, el carb\xF3n y el
-    agua. \nPara poder separar el Hidr\xF3geno[H] de estas sustancias, se utilizan
-    distintas t\xE9cnicas tales como la electr\xF3lisis, reformaci\xF3n catal\xEDtica,
-    entre otras."
+  caracteristicas: 'EJEMPLO Es un gas inflamable eh incoloro que no se puede encontrar
+    en esttdo puro '
+  dndEncontrarlo: "EJEMPLO Gas natural,  el petr\xF3leo, el carb\xF3n y el agua.
+    \nPara poder separar el Hidr\xF3geno[H] de estas sustancias, se utilizan distintas
+    t\xE9cnicas tales como la electr\xF3lisis, reformaci\xF3n catal\xEDtica, entre
+    otras."

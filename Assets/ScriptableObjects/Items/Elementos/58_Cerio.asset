@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 57
   nombre: Cerio
-  icono: {fileID: -1595217561, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
+  icono: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
   descripcion: "Lant\xE1nido, utilizado en aleaciones, catalizadores y en la industria
     del pulido."
   tipo: 3
   esElemento: 1
   simbolo: Ce
-  elemento_img: {fileID: -1595217561, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
+  elemento_img: {fileID: 0}
   numAtomico: 58
   pesoAtomico: 140.116
   uso: "Se utiliza en la producci\xF3n de catalizadores para la industria petroqu\xEDmica,

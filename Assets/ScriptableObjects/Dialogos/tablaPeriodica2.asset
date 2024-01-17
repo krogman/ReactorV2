@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9051e32d038d174aae402ce05c06297, type: 3}
+  m_Name: tablaPeriodica2
+  m_EditorClassIdentifier: 
+  nombre: "Tabla peri\xF3dica"
+  saludo: 
+  conversacion:
+  - hastaEvento: 0
+    contieneMision: 0
+    oraciones:
+    - "Esta tabla se organiza de acuerdo con patrones que reflejan las relaciones
+      intr\xEDnsecas entre los elementos. "
+    - "La disposici\xF3n sistem\xE1tica permite identificar conexiones y tendencias,
+      permitiendo a los investigadores comprender mejor la estructura del Aetherium
+      y sus posibles aplicaciones."
+    - " Es un recurso invaluable para aquellos que buscan explorar la ciencia y la
+      alquimia detr\xE1s de esta energ\xEDa, proporcionando claves esenciales para
+      entender los secretos que yacen en este mundo posapocal\xEDptico alterado por
+      la guerra."
+    mision: {fileID: 0}
+  despedida: 

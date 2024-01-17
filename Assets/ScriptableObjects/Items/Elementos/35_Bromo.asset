@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 34
   nombre: Bromo
-  icono: {fileID: 1747088920, guid: 10ac785fb968d9c4c840c71ba3b5cc8d, type: 3}
+  icono: {fileID: 21300000, guid: 88f0b9bb88f3eb8489dec8c0cac3d11c, type: 3}
   descripcion: "L\xEDquido hal\xF3geno, utilizado en desinfectantes y en la fabricaci\xF3n
     de productos qu\xEDmicos."
   tipo: 3
   esElemento: 1
   simbolo: Br
-  elemento_img: {fileID: 1747088920, guid: 10ac785fb968d9c4c840c71ba3b5cc8d, type: 3}
+  elemento_img: {fileID: 21300000, guid: 88f0b9bb88f3eb8489dec8c0cac3d11c, type: 3}
   numAtomico: 35
   pesoAtomico: 79.904
   uso: "Agente oxidante, productos qu\xEDmicos, retardante de llama, etc\xE9tera."
