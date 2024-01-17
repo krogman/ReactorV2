@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 20
   nombre: Escandio
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: 3a3dedfedc59b6e4fb2d71192bafe09b, type: 3}
   descripcion: "Metal de transici\xF3n, utilizado en aleaciones ligeras y en l\xE1mparas
     de vapor de mercurio."
   tipo: 3
   esElemento: 1
   simbolo: Sc
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 21300000, guid: 3a3dedfedc59b6e4fb2d71192bafe09b, type: 3}
   numAtomico: 21
   pesoAtomico: 44.9559
   uso: "Aleaciones de aluminio, materiales de construcci\xF3n, bater\xEDas, componentes

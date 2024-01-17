@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 18
   nombre: "Arg\xF3n"
-  icono: {fileID: 0}
+  icono: {fileID: 872579355, guid: f15a474843192d241aada2fafbdc65a7, type: 3}
   descripcion: "Gas noble, inerte, utilizado en l\xE1mparas y como gas de protecci\xF3n
     en soldaduras."
   tipo: 3
   esElemento: 1
   simbolo: Ar
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 872579355, guid: f15a474843192d241aada2fafbdc65a7, type: 3}
   numAtomico: 18
   pesoAtomico: 39.0983
   uso: "Utilizado en la purificaci\xF3n de agua y como desinfectante."

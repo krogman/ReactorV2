@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 52
   nombre: Yodo
-  icono: {fileID: 0}
+  icono: {fileID: 1308740034, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
   descripcion: "No metal, esencial para la funci\xF3n tiroidea, utilizado en desinfectantes
     y en fotograf\xEDa."
   tipo: 3
   esElemento: 1
   simbolo: I
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 1308740034, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
   numAtomico: 53
   pesoAtomico: 127.6
   uso: "Medicamentos, fotograf\xEDa y tintes, entre otros."

@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 54
   nombre: Cesio
-  icono: {fileID: 0}
+  icono: {fileID: -1812618943, guid: 61530bc67dcdec44ea794b95375d0e50, type: 3}
   descripcion: "Metal alcalino, utilizado en relojes at\xF3micos y en investigaciones
     cient\xEDficas."
   tipo: 3
   esElemento: 1
   simbolo: Ce
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: -1812618943, guid: 61530bc67dcdec44ea794b95375d0e50, type: 3}
   numAtomico: 55
   pesoAtomico: 132.9055
   uso: "Equipos de medici\xF3n, reactores nucleares, aleaciones especiales, etc\xE9tera."

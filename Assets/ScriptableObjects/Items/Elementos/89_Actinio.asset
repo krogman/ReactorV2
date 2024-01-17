@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 88
   nombre: Actinio
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: 1090d6b0fd968eb40958052dc0a75eb9, type: 3}
   descripcion: "Act\xEDnido radioactivo, utilizado en investigaciones cient\xEDficas
     y en terapia con radiaci\xF3n."
   tipo: 3
   esElemento: 1
   simbolo: Ac
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 21300000, guid: 1090d6b0fd968eb40958052dc0a75eb9, type: 3}
   numAtomico: 89
   pesoAtomico: 227
   uso: "Fuente de neutrones, estudio de la estructura de los \xE1tomos, etc\xE9tera."

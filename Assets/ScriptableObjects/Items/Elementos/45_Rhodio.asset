@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 44
   nombre: Rhodio
-  icono: {fileID: 0}
+  icono: {fileID: -1892988772, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
   descripcion: "Metal de transici\xF3n, caro y resistente, utilizado en catalizadores
     y en joyer\xEDa."
   tipo: 3
   esElemento: 1
   simbolo: Rh
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: -1892988772, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
   numAtomico: 45
   pesoAtomico: 102.9055
   uso: "Catalizadores, joyer\xEDa, componentes electr\xF3nicos, entre otros."

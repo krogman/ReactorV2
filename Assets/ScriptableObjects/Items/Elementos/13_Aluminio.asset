@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 12
   nombre: Aluminio
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: 6f840eef5238ac04e932c9f6129cf720, type: 3}
   descripcion: "Metal ligero, ampliamente utilizado en construcci\xF3n, envases y
     componentes electr\xF3nicos."
   tipo: 3
   esElemento: 1
   simbolo: Al
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 21300000, guid: 6f840eef5238ac04e932c9f6129cf720, type: 3}
   numAtomico: 13
   pesoAtomico: 26.9815
   uso: "Producci\xF3n de aleaciones de aluminio, construcci\xF3n, empaques, utensilios

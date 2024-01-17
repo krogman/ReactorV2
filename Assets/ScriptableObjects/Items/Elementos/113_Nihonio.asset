@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 112
   nombre: Nihonio
-  icono: {fileID: 0}
+  icono: {fileID: 752702283, guid: d581cd8168b49bd4f97d328a93ee31d7, type: 3}
   descripcion: "Elemento transact\xEDnido artificial, producido en laboratorios,
     sin aplicaciones pr\xE1cticas conocidas."
   tipo: 3
   esElemento: 1
   simbolo: Nh
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 1941843798, guid: d581cd8168b49bd4f97d328a93ee31d7, type: 3}
   numAtomico: 113
   pesoAtomico: 
   uso: "Se utiliza principalmente para la investigaci\xF3n en f\xEDsica nuclear y

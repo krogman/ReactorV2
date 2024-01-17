@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 49
   nombre: "Esta\xF1o"
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: 73f08eca393303142b718a50d49a36f6, type: 3}
   descripcion: "Metal de transici\xF3n, utilizado en la fabricaci\xF3n de latas,
     aleaciones y en soldaduras."
   tipo: 3
   esElemento: 1
   simbolo: Sn
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 21300000, guid: 73f08eca393303142b718a50d49a36f6, type: 3}
   numAtomico: 50
   pesoAtomico: 118.71
   uso: "Soldadura, fabricaci\xF3n de vidrio, recubrimientos y aleaciones, etc\xE9tera."

@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 25
   nombre: Hierro
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: b87dea2656959ef4d992c10756dd9c12, type: 3}
   descripcion: "Metal de transici\xF3n, esencial en la hemoglobina, utilizado en
     construcci\xF3n y en la industria sider\xFArgica."
   tipo: 3
   esElemento: 1
   simbolo: Fe
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 21300000, guid: b87dea2656959ef4d992c10756dd9c12, type: 3}
   numAtomico: 26
   pesoAtomico: 55.845
   uso: "Producci\xF3n de acero, imanes, catalizadores, maquinaria industrial, etc."

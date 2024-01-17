@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 47
   nombre: Cadmio
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: 73f08eca393303142b718a50d49a36f6, type: 3}
   descripcion: "Metal de transici\xF3n, t\xF3xico, utilizado en bater\xEDas y recubrimientos."
   tipo: 3
   esElemento: 1
   simbolo: Cd
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 21300000, guid: 73f08eca393303142b718a50d49a36f6, type: 3}
   numAtomico: 48
   pesoAtomico: 112.411
   uso: "Bater\xEDas, revestimientos protectores, pigmentos, pl\xE1sticos"

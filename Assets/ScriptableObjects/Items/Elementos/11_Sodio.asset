@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 10
   nombre: Sodio
-  icono: {fileID: 0}
+  icono: {fileID: -1508475396, guid: 10ac785fb968d9c4c840c71ba3b5cc8d, type: 3}
   descripcion: "Metal alcalino, reacciona vigorosamente con agua, es esencial para
     la funci\xF3n celular y en la cocina."
   tipo: 3
   esElemento: 1
   simbolo: Na
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: -1508475396, guid: 10ac785fb968d9c4c840c71ba3b5cc8d, type: 3}
   numAtomico: 11
   pesoAtomico: 22.9897
   uso: "Producci\xF3n de sosa c\xE1ustica, vidrio, papel, textiles, productos qu\xEDmicos,

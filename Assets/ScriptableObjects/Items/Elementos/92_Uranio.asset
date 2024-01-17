@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 91
   nombre: Uranio
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: 25793856ccd06ed49a08e3794bd9464a, type: 3}
   descripcion: "Elemento radioactivo, utilizado en la generaci\xF3n de energ\xEDa
     nuclear y en la fabricaci\xF3n de armas."
   tipo: 3
   esElemento: 1
   simbolo: U
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 21300000, guid: 25793856ccd06ed49a08e3794bd9464a, type: 3}
   numAtomico: 92
   pesoAtomico: 237
   uso: "Reactores nucleares, investigaci\xF3n cient\xEDfica, armamento nuclear. combustible

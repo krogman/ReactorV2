@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 14
   nombre: "F\xF3sforo"
-  icono: {fileID: 0}
+  icono: {fileID: 157265443, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
   descripcion: No metal, vital en el ADN, ARN y ATP, usado en fertilizantes y en
     la industria del fuego.
   tipo: 3
   esElemento: 1
   simbolo: P
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 157265443, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
   numAtomico: 15
   pesoAtomico: 30.9738
   uso: Componente de fertilizantes y explosivos.

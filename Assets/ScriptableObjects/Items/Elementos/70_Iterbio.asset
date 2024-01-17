@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 69
   nombre: Iterbio
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: 6f840eef5238ac04e932c9f6129cf720, type: 3}
   descripcion: "Lant\xE1nido, empleado en la fabricaci\xF3n de imanes y en la terapia
     con radiaci\xF3n."
   tipo: 3
   esElemento: 1
   simbolo: Yb
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 21300000, guid: 6f840eef5238ac04e932c9f6129cf720, type: 3}
   numAtomico: 70
   pesoAtomico: 173.04
   uso: "Se utiliza en aleaciones, para la fabricaci\xF3n de aceros inoxidables y

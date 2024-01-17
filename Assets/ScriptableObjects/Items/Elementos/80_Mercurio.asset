@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 0
   nombre: Mercurio
-  icono: {fileID: 0}
+  icono: {fileID: -1658779102, guid: 10ac785fb968d9c4c840c71ba3b5cc8d, type: 3}
   descripcion: "Metal l\xEDquido a temperatura ambiente, utilizado en term\xF3metros
     y en la miner\xEDa de oro."
   tipo: 3
   esElemento: 1
   simbolo: Hg
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: -1658779102, guid: 10ac785fb968d9c4c840c71ba3b5cc8d, type: 3}
   numAtomico: 80
   pesoAtomico: 200.59
   uso: "Term\xF3metro, b\xE1sculas de cocina, relojes, punteros l\xE1ser, calculadoras

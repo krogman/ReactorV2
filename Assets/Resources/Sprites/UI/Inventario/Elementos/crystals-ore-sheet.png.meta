@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: f5a524295217dc848abaf55b0e327bc6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crystals-ore-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 170
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff7d601ad11a8243b9c23198e7c34df
+      internalID: 1326163590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 170
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cb4751004e225418e41851d38c6799
+      internalID: -2072537302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 170
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108f70e3d3c60014f8570d6b6ce9a623
+      internalID: 536491573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 169
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af0ea94ca996844f9ddb8423f4cdc84
+      internalID: 1317963220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 169
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7eaf92e799e8c40b6a2c5ab825660c
+      internalID: 767713782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 169
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f7f3ab7666b8c4ba0cb99bc7968fbc
+      internalID: 343538355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 169
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fc04f78ded99a48a9aad4be63c53da
+      internalID: 157265443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 169
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc9e81e0027f274ba54871d0d1af18b
+      internalID: 293756370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 144
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bcccc62d210964a9f72ef15966b547
+      internalID: -1892988772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 144
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a407a0da380e3ab469cc4123f2103178
+      internalID: 603248176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 144
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6803200a4a93564a9cdfea6f824ad61
+      internalID: -1281037300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 144
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fe76b1ae647a548b4990ab5d7fe062
+      internalID: -897562079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 144
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a506e86d1d9fa41a168e4592d4a90a
+      internalID: 37529565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 144
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce3a3f4d06934249873730628f86383
+      internalID: 1907084362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 144
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594a20b6421c1c345af264a7414b3e58
+      internalID: -908713840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 144
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86d294cda29da84795f13a30fff2c2d
+      internalID: 1301520600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 96
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dff5f1544f20954ab69e5bc44bb9306
+      internalID: 147394042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 96
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fbf3a2087b08e4f81b56ca187b31d7
+      internalID: 205251482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 96
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecb910cb6eabed40ab6e46e80b257d2
+      internalID: 1796813861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 122
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228511cdd94d0134e8f8247219c9614d
+      internalID: 1757185632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 122
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bd84e61510f7a4da1b8af6ed01d37a
+      internalID: -7218948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 122
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba3052571e28d546900e2969a8d6f66
+      internalID: -1562376734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 73
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733726d4904b32b438909389bda0cd45
+      internalID: 1960079710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 73
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012cec841ba726242a7fc2bea362d683
+      internalID: -1671065543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 73
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cede2d9f2acde64290f6f78a2adcfbb
+      internalID: 1252982548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 73
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4c6ef9497c2c14ba5a7c380be22835
+      internalID: 730493335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 73
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275d43be9f9c51242b9e5dd74b6828c5
+      internalID: -1173519531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 73
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf23c9fa981eff419ba528b08e2c547
+      internalID: 258137816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 73
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe35725f8703924b8df3915ac0fa262
+      internalID: -1714758731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 73
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c80d811a30b3a408e1fb43f3de2dcf
+      internalID: 1265734958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 73
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee7759300aa12349ad6aefdf5db4699
+      internalID: 1491886721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 50
+        width: 21
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf67d270452fe5488ceee08e662de32
+      internalID: 22375810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 49
+        width: 21
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2d460dd49010047a7a0e72eac9f53d
+      internalID: 111861418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 50
+        width: 21
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72fb717c79e08c49a3f113de23e16e2
+      internalID: -1584436821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 50
+        width: 21
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a24b8509c4e36f408ba5a694a054863
+      internalID: 1461589633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 49
+        width: 21
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08851b87f8c4ab045b1aa12ec6b4b95f
+      internalID: 231339538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 49
+        width: 21
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac8a762281886e4aaaa50d09450dc39
+      internalID: -1852463282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 50
+        width: 21
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c965ebeb625ae3c41ab466b215b9d858
+      internalID: 1382083414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 49
+        width: 21
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538126f5f5a480d4abe08a1f9318ffd8
+      internalID: -997467899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 49
+        width: 21
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b5c6c59981e18459b82121c6e26bcf
+      internalID: -1595217561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 19
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcce92f963acd24b8b0c95223198f6e
+      internalID: 2128448013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 26
+        width: 21
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12480384e4b55cc4681f63708c532a5d
+      internalID: -1768296379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 25
+        width: 21
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c410e431adb3560468d6a0a6e36f82c8
+      internalID: -745788650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 25
+        width: 21
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5da465464d466648822a74336d8cf28
+      internalID: 1621185983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_88
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 27
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fe0b7346ea48a46bcfe1a0323d9d03
+      internalID: 2048982333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystals-ore-sheet_89
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 27
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358a2bb1f9954d048afa7f2b2e51221e
+      internalID: 1308740034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      crystals-ore-sheet_0: 1326163590
+      crystals-ore-sheet_1: -2072537302
+      crystals-ore-sheet_10: -1281037300
+      crystals-ore-sheet_11: -897562079
+      crystals-ore-sheet_12: 37529565
+      crystals-ore-sheet_13: 1907084362
+      crystals-ore-sheet_14: -908713840
+      crystals-ore-sheet_15: 1301520600
+      crystals-ore-sheet_16: 147394042
+      crystals-ore-sheet_17: 205251482
+      crystals-ore-sheet_18: 1796813861
+      crystals-ore-sheet_19: -1384640999
+      crystals-ore-sheet_2: 536491573
+      crystals-ore-sheet_20: 115060138
+      crystals-ore-sheet_21: 1136753285
+      crystals-ore-sheet_22: 363280031
+      crystals-ore-sheet_23: 1039855874
+      crystals-ore-sheet_24: 679723525
+      crystals-ore-sheet_25: 1127732629
+      crystals-ore-sheet_26: -2134678152
+      crystals-ore-sheet_27: -1456411570
+      crystals-ore-sheet_28: 973553743
+      crystals-ore-sheet_29: 466818423
+      crystals-ore-sheet_3: 1317963220
+      crystals-ore-sheet_30: -2032501027
+      crystals-ore-sheet_31: -1886249562
+      crystals-ore-sheet_32: -531280705
+      crystals-ore-sheet_33: -1885881161
+      crystals-ore-sheet_34: 806397012
+      crystals-ore-sheet_35: 1516152532
+      crystals-ore-sheet_36: -339874321
+      crystals-ore-sheet_37: -323973165
+      crystals-ore-sheet_38: -15125953
+      crystals-ore-sheet_39: 1423118152
+      crystals-ore-sheet_4: 767713782
+      crystals-ore-sheet_40: -2138756202
+      crystals-ore-sheet_41: 1601360626
+      crystals-ore-sheet_42: -155749600
+      crystals-ore-sheet_43: 651143620
+      crystals-ore-sheet_44: -932093721
+      crystals-ore-sheet_45: -17936174
+      crystals-ore-sheet_46: -1479245118
+      crystals-ore-sheet_47: 1357046272
+      crystals-ore-sheet_48: 1757185632
+      crystals-ore-sheet_49: -7218948
+      crystals-ore-sheet_5: 343538355
+      crystals-ore-sheet_50: -1562376734
+      crystals-ore-sheet_51: -838228021
+      crystals-ore-sheet_52: 1919872911
+      crystals-ore-sheet_53: -183425411
+      crystals-ore-sheet_54: -1213939789
+      crystals-ore-sheet_55: 1217904626
+      crystals-ore-sheet_56: -1740622161
+      crystals-ore-sheet_57: 324649405
+      crystals-ore-sheet_58: 1249677850
+      crystals-ore-sheet_59: -892848673
+      crystals-ore-sheet_6: 157265443
+      crystals-ore-sheet_60: 593685684
+      crystals-ore-sheet_61: -2011640190
+      crystals-ore-sheet_62: 443069541
+      crystals-ore-sheet_63: -560895964
+      crystals-ore-sheet_64: 1692145511
+      crystals-ore-sheet_65: -88985334
+      crystals-ore-sheet_66: 1960079710
+      crystals-ore-sheet_67: -1671065543
+      crystals-ore-sheet_68: 1252982548
+      crystals-ore-sheet_69: 730493335
+      crystals-ore-sheet_7: 293756370
+      crystals-ore-sheet_70: -1173519531
+      crystals-ore-sheet_71: 258137816
+      crystals-ore-sheet_72: -1714758731
+      crystals-ore-sheet_73: 1265734958
+      crystals-ore-sheet_74: 1491886721
+      crystals-ore-sheet_75: 22375810
+      crystals-ore-sheet_76: 111861418
+      crystals-ore-sheet_77: -1584436821
+      crystals-ore-sheet_78: 1461589633
+      crystals-ore-sheet_79: 231339538
+      crystals-ore-sheet_8: -1892988772
+      crystals-ore-sheet_80: -1852463282
+      crystals-ore-sheet_81: 1382083414
+      crystals-ore-sheet_82: -997467899
+      crystals-ore-sheet_83: -1595217561
+      crystals-ore-sheet_84: 2128448013
+      crystals-ore-sheet_85: -1768296379
+      crystals-ore-sheet_86: -745788650
+      crystals-ore-sheet_87: 1621185983
+      crystals-ore-sheet_88: 2048982333
+      crystals-ore-sheet_89: 1308740034
+      crystals-ore-sheet_9: 603248176
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

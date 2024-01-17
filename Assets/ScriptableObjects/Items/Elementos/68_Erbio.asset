@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 67
   nombre: Erbio
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: 6f840eef5238ac04e932c9f6129cf720, type: 3}
   descripcion: "Lant\xE1nido, utilizado en la industria de la comunicaci\xF3n y en
     la medicina."
   tipo: 3
   esElemento: 1
   simbolo: Er
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 21300000, guid: 6f840eef5238ac04e932c9f6129cf720, type: 3}
   numAtomico: 69
   pesoAtomico: 167.259
   uso: "Se utiliza como un dopante en fibras \xF3pticas y amplificadores de fibra

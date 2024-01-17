@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 23
   nombre: Cromo
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: 73f08eca393303142b718a50d49a36f6, type: 3}
   descripcion: "Metal de transici\xF3n, empleado en recubrimientos protectores, aleaciones
     y en la cromoterapia."
   tipo: 3
   esElemento: 1
   simbolo: Cr
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 21300000, guid: 73f08eca393303142b718a50d49a36f6, type: 3}
   numAtomico: 24
   pesoAtomico: 51.9961
   uso: Acero inoxidable, aleaciones de alta resistencia, pigmentos

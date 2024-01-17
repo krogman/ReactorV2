@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 11
   nombre: Magnesio
-  icono: {fileID: 0}
+  icono: {fileID: 1326163590, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
   descripcion: "Metal alcalinot\xE9rreo, esencial para la salud \xF3sea, presente
     en clorofila y aleaciones ligeras."
   tipo: 3
   esElemento: 1
   simbolo: Mg
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 1326163590, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
   numAtomico: 12
   pesoAtomico: 24.305
   uso: "Producci\xF3n de aleaciones de aluminio, p\xF3lvora, pirotecnia, productos

@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 40
   nombre: Niobio
-  icono: {fileID: 0}
+  icono: {fileID: 1491886721, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
   descripcion: "Metal de transici\xF3n, utilizado en aleaciones superconductoras
     y en tecnolog\xEDa aeroespacial."
   tipo: 3
   esElemento: 1
   simbolo: Nb
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 1491886721, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
   numAtomico: 41
   pesoAtomico: 92.9064
   uso: "Superaleaciones, reactores nucleares, l\xE1seres, etc."

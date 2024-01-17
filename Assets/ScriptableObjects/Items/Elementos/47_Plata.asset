@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 46
   nombre: Plata
-  icono: {fileID: 0}
+  icono: {fileID: -69998801, guid: 1a3ec62aa277a03468f9de1cdcc65958, type: 3}
   descripcion: "Metal de transici\xF3n, conductor el\xE9ctrico, utilizado en monedas,
     joyer\xEDa y fotograf\xEDa."
   tipo: 3
   esElemento: 1
   simbolo: Ag
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: -69998801, guid: 1a3ec62aa277a03468f9de1cdcc65958, type: 3}
   numAtomico: 47
   pesoAtomico: 107.8682
   uso: "Joyer\xEDa, monedas, fotograf\xEDa, electr\xF3nica, entre otros."

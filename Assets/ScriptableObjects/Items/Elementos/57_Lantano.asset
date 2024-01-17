@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 56
   nombre: Lantano
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: 73f08eca393303142b718a50d49a36f6, type: 3}
   descripcion: "Lant\xE1nido, utilizado en la fabricaci\xF3n de imanes permanentes
     y en catalizadores."
   tipo: 3
   esElemento: 1
   simbolo: La
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 21300000, guid: 73f08eca393303142b718a50d49a36f6, type: 3}
   numAtomico: 57
   pesoAtomico: 138.9055
   uso: " Producci\xF3n de catalizadores para la industria petroqu\xEDmica, en la

@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 66
   nombre: Holmio
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: 6f840eef5238ac04e932c9f6129cf720, type: 3}
   descripcion: "Lant\xE1nido, empleado en l\xE1seres y en la fabricaci\xF3n de imanes."
   tipo: 3
   esElemento: 1
   simbolo: Ho
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 21300000, guid: 80bceecd7fd7b6547a5f2d10ede525a6, type: 3}
   numAtomico: 67
   pesoAtomico: 164.9303
   uso: "El holmio tiene la mayor fuerza magn\xE9tica de todos los elementos y, por

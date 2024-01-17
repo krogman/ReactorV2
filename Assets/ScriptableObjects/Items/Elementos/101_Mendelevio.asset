@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 100
   nombre: Mendelevio
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: d8295cf59f345bd42ae1802ee4f76240, type: 3}
   descripcion: "Act\xEDnido artificial, producido en reactores nucleares, utilizado
     en investigaciones cient\xEDficas."
   tipo: 3
   esElemento: 1
   simbolo: Md
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 21300000, guid: d8295cf59f345bd42ae1802ee4f76240, type: 3}
   numAtomico: 101
   pesoAtomico: 258
   uso: "El mendelevio se utiliza principalmente para la investigaci\xF3n nuclear

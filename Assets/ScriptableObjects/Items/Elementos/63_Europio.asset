@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 62
   nombre: Europio
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: c089b6ce4e7651343a3e79f0772297a5, type: 3}
   descripcion: "Lant\xE1nido, utilizado en la fabricaci\xF3n de pantallas de televisores
     y en l\xE1mparas fluorescentes."
   tipo: 3
   esElemento: 1
   simbolo: Eu
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 21300000, guid: c089b6ce4e7651343a3e79f0772297a5, type: 3}
   numAtomico: 63
   pesoAtomico: 151.964
   uso: "El europio se utiliza principalmente en la fabricaci\xF3n de f\xF3sforos

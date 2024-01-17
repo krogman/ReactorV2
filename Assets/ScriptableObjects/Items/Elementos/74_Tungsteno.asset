@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 73
   nombre: Tungsteno
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: 6f840eef5238ac04e932c9f6129cf720, type: 3}
   descripcion: "Metal de transici\xF3n, de alto punto de fusi\xF3n, utilizado en
     filamentos de bombillas y en aleaciones."
   tipo: 3
   esElemento: 1
   simbolo: W
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 21300000, guid: 6f840eef5238ac04e932c9f6129cf720, type: 3}
   numAtomico: 74
   pesoAtomico: 183.84
   uso: "En filamentos de bombillas, aleaciones resistentes a la corrosi\xF3n, aceros

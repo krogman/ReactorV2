@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 61
   nombre: Samario
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: b87dea2656959ef4d992c10756dd9c12, type: 3}
   descripcion: "Lant\xE1nido, empleado en imanes permanentes y en la producci\xF3n
     de aleaciones."
   tipo: 3
   esElemento: 1
   simbolo: Sm
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 21300000, guid: b87dea2656959ef4d992c10756dd9c12, type: 3}
   numAtomico: 62
   pesoAtomico: 150.36
   uso: "puede ser encontrado en equipos tales como televisiones en color, l\xE1mparas

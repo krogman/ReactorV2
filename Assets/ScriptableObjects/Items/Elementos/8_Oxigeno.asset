@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 7
   nombre: "Ox\xEDgeno"
-  icono: {fileID: 0}
+  icono: {fileID: -466562980, guid: f15a474843192d241aada2fafbdc65a7, type: 3}
   descripcion: "Vital para la respiraci\xF3n, componente mayoritario de la atm\xF3sfera
     y oxidante en reacciones qu\xEDmicas."
   tipo: 3
   esElemento: 1
   simbolo: O
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: -466562980, guid: f15a474843192d241aada2fafbdc65a7, type: 3}
   numAtomico: 8
   pesoAtomico: 15.9994
   uso: "Combusti\xF3n, respiraci\xF3n, metalurgia, producci\xF3n de explosivos, productos

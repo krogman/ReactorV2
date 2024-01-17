@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 94
   nombre: Americio
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: 6bc42fa1ddeb2284b82b40cbbda6791c, type: 3}
   descripcion: "Act\xEDnido artificial, utilizado en detectores de humo y en investigaciones
     cient\xEDficas."
   tipo: 3
   esElemento: 1
   simbolo: Am
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 21300000, guid: 6bc42fa1ddeb2284b82b40cbbda6791c, type: 3}
   numAtomico: 95
   pesoAtomico: 244
   uso: "Reactores nucleares, investigaci\xF3n cient\xEDfica, armamento nuclear, investigaci\xF3n

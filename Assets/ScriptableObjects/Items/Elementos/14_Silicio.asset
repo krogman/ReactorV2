@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 13
   nombre: Silicio
-  icono: {fileID: 0}
+  icono: {fileID: 2107137914, guid: 10ac785fb968d9c4c840c71ba3b5cc8d, type: 3}
   descripcion: "Metaloide esencial en la electr\xF3nica, forma la base de los semiconductores
     y la arena."
   tipo: 3
   esElemento: 1
   simbolo: Si
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 2107137914, guid: 10ac785fb968d9c4c840c71ba3b5cc8d, type: 3}
   numAtomico: 14
   pesoAtomico: 28.0855
   uso: "Es un componente importante de la electr\xF3nica y la construcci\xF3n."

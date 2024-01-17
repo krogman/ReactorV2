@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 97
   nombre: Californio
-  icono: {fileID: 0}
+  icono: {fileID: 603248176, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
   descripcion: "Act\xEDnido artificial, utilizado en investigaciones cient\xEDficas
     y en la industria nuclear."
   tipo: 3
   esElemento: 1
   simbolo: Cf
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 603248176, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
   numAtomico: 98
   pesoAtomico: 251
   uso: "Investigaci\xF3n cient\xEDfica y producci\xF3n de is\xF3topos radiactivos."

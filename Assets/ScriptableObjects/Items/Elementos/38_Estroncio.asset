@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 37
   nombre: Estroncio
-  icono: {fileID: 0}
+  icono: {fileID: -745788650, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
   descripcion: "Metal alcalinot\xE9rreo, usado en fuegos artificiales y en la industria
     del vidrio."
   tipo: 3
   esElemento: 1
   simbolo: Sr
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: -745788650, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
   numAtomico: 38
   pesoAtomico: 87.62
   uso: Pirotecnia, vidrio, aleaciones de acero.

@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 86
   nombre: Francio
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: 68c437c662c50c445a2602d0a2a89572, type: 3}
   descripcion: "Metal alcalino radioactivo, presente en trazas, utilizado en investigaciones
     cient\xEDficas."
   tipo: 3
   esElemento: 1
   simbolo: Fr
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 21300000, guid: 68c437c662c50c445a2602d0a2a89572, type: 3}
   numAtomico: 87
   pesoAtomico: 223
   uso: "Estudios de reacciones qu\xEDmicas, investigaci\xF3n m\xE9dica. Tiene muy

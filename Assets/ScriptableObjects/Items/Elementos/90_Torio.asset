@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 89
   nombre: Torio
-  icono: {fileID: 0}
+  icono: {fileID: 2048982333, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
   descripcion: "Act\xEDnido, utilizado en la industria nuclear y en investigaciones
     cient\xEDficas."
   tipo: 3
   esElemento: 1
   simbolo: Th
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 2048982333, guid: f5a524295217dc848abaf55b0e327bc6, type: 3}
   numAtomico: 90
   pesoAtomico: 231.0359
   uso: "Producci\xF3n de energ\xEDa nuclear, l\xE1mparas de gas. Se utiliza como

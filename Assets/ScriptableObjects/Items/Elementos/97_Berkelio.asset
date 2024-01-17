@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 96
   nombre: Berkelio
-  icono: {fileID: 0}
+  icono: {fileID: -1510425418, guid: 10ac785fb968d9c4c840c71ba3b5cc8d, type: 3}
   descripcion: "Act\xEDnido artificial, utilizado en investigaciones cient\xEDficas
     y en la industria nuclear."
   tipo: 3
   esElemento: 1
   simbolo: Bk
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: -1510425418, guid: 10ac785fb968d9c4c840c71ba3b5cc8d, type: 3}
   numAtomico: 97
   pesoAtomico: 247
   uso: "Principalmente en reactores nucleares, investigaci\xF3n cient\xEDfica, armamento

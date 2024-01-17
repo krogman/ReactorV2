@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 99
   nombre: Fermio
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: 0de5d5dc6426a6849a4915550644d206, type: 3}
   descripcion: "Act\xEDnido artificial, producido en reactores nucleares, utilizado
     en investigaciones cient\xEDficas."
   tipo: 3
   esElemento: 1
   simbolo: Fm
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 21300000, guid: 0de5d5dc6426a6849a4915550644d206, type: 3}
   numAtomico: 100
   pesoAtomico: 257
   uso: "El fermio se utiliza principalmente para la investigaci\xF3n nuclear y la

@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 77
   nombre: Platino
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: 73f08eca393303142b718a50d49a36f6, type: 3}
   descripcion: "Metal de transici\xF3n, resistente a la corrosi\xF3n, utilizado en
     joyer\xEDa, catalizadores y en la industria qu\xEDmica."
   tipo: 3
   esElemento: 1
   simbolo: Pt
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 21300000, guid: 73f08eca393303142b718a50d49a36f6, type: 3}
   numAtomico: 78
   pesoAtomico: 195.078
   uso: "En joyer\xEDa, electr\xF3nica, equipos m\xE9dicos, catalizadores, contactos

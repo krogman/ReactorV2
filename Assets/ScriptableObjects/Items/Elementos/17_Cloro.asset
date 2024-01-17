@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 16
   nombre: Cloro
-  icono: {fileID: 0}
+  icono: {fileID: -191497587, guid: f15a474843192d241aada2fafbdc65a7, type: 3}
   descripcion: "Gas hal\xF3geno, desinfectante, presente en la sal de mesa y en productos
     qu\xEDmicos industriales."
   tipo: 3
   esElemento: 1
   simbolo: Cl
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: -191497587, guid: f15a474843192d241aada2fafbdc65a7, type: 3}
   numAtomico: 17
   pesoAtomico: 35.453
   uso: "Componente de la producci\xF3n de \xE1cido sulf\xFArico y otros qu\xEDmicos."

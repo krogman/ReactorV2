@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 3
   nombre: Oro
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: 882e471ad4225eb49b9272313e85dfc6, type: 3}
   descripcion: "industria qu\xEDmica.Metal de transici\xF3n, precioso, utilizado
     en joyer\xEDa, electr\xF3nica y en la industria m\xE9dica."
   tipo: 3
   esElemento: 1
   simbolo: Au
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 21300000, guid: 882e471ad4225eb49b9272313e85dfc6, type: 3}
   numAtomico: 79
   pesoAtomico: 196.9665
   uso: "En joyer\xEDa, monedas, electr\xF3nica, odontolog\xEDa, medicina, entre otros."

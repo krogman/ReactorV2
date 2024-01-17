@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 92
   nombre: Neptunio
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: 559bafdb26be4844aacd9872e3c666fb, type: 3}
   descripcion: "Act\xEDnido artificial, producido en reactores nucleares, utilizado
     en investigaciones cient\xEDficas."
   tipo: 3
   esElemento: 1
   simbolo: Np
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 21300000, guid: 559bafdb26be4844aacd9872e3c666fb, type: 3}
   numAtomico: 93
   pesoAtomico: 238.0289
   uso: "Reactores nucleares, investigaci\xF3n cient\xEDfica, armamento nuclear, etc\xE9tera."

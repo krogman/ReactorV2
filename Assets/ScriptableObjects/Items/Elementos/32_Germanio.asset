@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 31
   nombre: Germanio
-  icono: {fileID: 0}
+  icono: {fileID: 21300000, guid: 191280c967a9c854ba555cff02b0854e, type: 3}
   descripcion: "Semiconductivo, utilizado en la industria electr\xF3nica y en la
     detecci\xF3n de radiaci\xF3n."
   tipo: 3
   esElemento: 1
   simbolo: Ge
-  elemento_img: {fileID: 0}
+  elemento_img: {fileID: 21300000, guid: 7e25cff6598c4c04ebc6e333f5233c08, type: 3}
   numAtomico: 32
   pesoAtomico: "[Ar] 3d10 4s2 4p2\t72.64"
   uso: "Se usa en transistores, c\xE9lulas solares, fibra \xF3ptica, etc\xE9tera."
