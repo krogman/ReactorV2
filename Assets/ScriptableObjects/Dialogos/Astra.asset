@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9051e32d038d174aae402ce05c06297, type: 3}
+  m_Name: Astra
+  m_EditorClassIdentifier: 
+  esCarta: 0
+  nombre: Astra
+  saludo: Hola.
+  conversacion:
+  - hastaEvento: 2
+    contieneMision: 0
+    oraciones:
+    - "Bienvenido al laboratorio de alta tecnolog\xEDa SYNERGO. Has activado el Sistema
+      Energ\xE9tico de Asistencia Rob\xF3tica."
+    - "Estoy aqu\xED para ayudarte y proporcionarte informaci\xF3n y soluciones.
+      \xA1Avancemos hacia el futuro del conocimiento!"
+    - "Oh, veo que no est\xE1s familiarizado con este lugar. Tu rostro y tu voz no
+      est\xE1n guardados en mis archivos de memoria. \xBFC\xFAal es tu nombre?"
+    - "Oh, veo que no est\xE1s familiarizado con este lugar. Tu rostro y tu voz no
+      est\xE1n guardados en mis archivos de memoria. \xBFC\xFAal es tu nombre?"
+    - "Saludos, Felix. Estas en Terra Praesidium, un centro de investigaci\xF3n de
+      alta tecnolog\xEDa."
+    - " No detecto a ning\xFAn otro ser humano. \xBFPodr\xEDas decirme que a\xF1o
+      es este?"
+    - "\xA1Oh!, A pasado tiempo, el proyecto Terra Praesidium fue ambicioso. Comenz\xF3
+      con el descubrimiento de un nuevo elemento: el aetherium. En base a esto, se
+      logr\xF3 sintetizar un nuevo tipo de fuente de energ\xEDa casi ilimitada"
+    - "Esta energ\xEDa podr\xEDa proveer las necesidades energ\xE9ticas de la humanidad
+      durante cientos de a\xF1os. Sin embargo, la ambici\xF3n provoc\xF3 una guerra
+      que dur\xF3 cientos de a\xF1os."
+    - "\xBFPor que existe este lugar despues de la guerra? Hmm, ser\xE1 por que solo
+      muy pocas personas ten\xEDan acceso a este lugar, ya que se tem\xEDa que fuera
+      usado con otro tipo de fines."
+    - No te preocupes, Felix, en T.P. Y con mi ayuda puedes resolver lo que sea.
+    - "Solo hay un problema, hay una secci\xF3n dentro del sistema a la que no tengo
+      acceso y no puedo desbloquear uno de los salones del recinto; "
+    - "Fue sellado al iniciar la guerra y sus creadores dejaron pistas para que alg\xFAn
+      d\xEDa un humano volviera y lo guiara para hacer buen uso del conocimiento
+      que hay aqu\xED."
+    - "Si logras tener acceso al equipo que se resguarda ah\xED dentro te dar\xEDa
+      una gran ventaja. Para abrirla tienes que completar esta gran tabla de aqu\xED."
+    - "Al entrar a este lugar obtienes algunos \xEDtems. <br>\nLas pociones te ser\xE1n
+      \xFAtiles para recuperarte, estas se componen de glucosa, que es la principal
+      fuente de energ\xEDa del humano."
+    mision: {fileID: 0}
+    eventoSum: 2
+  - hastaEvento: 14
+    contieneMision: 0
+    oraciones:
+    - Parece que necesitas ir a Kalybsia
+    mision: {fileID: 0}
+    eventoSum: 0
+  - hastaEvento: 0
+    contieneMision: 0
+    oraciones:
+    - "Por cierto, alguien ha deslizado una carta debajo de la puerta, la leer\xE9
+      para ti."
+    - "Veo que has conseguido encontrar Terra Praesidium. Tengo m\xE1s informaci\xF3n
+      para ti."
+    - "Por cierto, \xBFsab\xEDas que en un antiguo idioma una palabra usada para
+      referirse al acero es \"chalybs\"? \xBFTe recuerda a algo? Atentamente, Nox."
+    - "Al parecer alguien estuvo sigui\xE9ndote, joven F\xE9lix."
+    - Por lo que me has contado, al parecer esta persona te quiere ver en la ciudad
+      de Kalybsia.
+    - "Me gustar\xEDa acompa\xF1arte, pero mis creadores no me han dado las herramientas
+      para hacerlo. Pero cada vez que vuelvas puedo darte pistas si las necesitas."
+    - "Mucha suerte y lleva armas por si te encuentras con alg\xFAn monstruo."
+    mision: {fileID: 0}
+    eventoSum: 0
+  - hastaEvento: 0
+    contieneMision: 0
+    oraciones:
+    - "Bueno, parece que ya tenemos casi toda la informaci\xF3n completa."
+    - "Al parecer alguien estuvo sigui\xE9ndote, joven F\xE9lix."
+    mision: {fileID: 0}
+    eventoSum: 0
+  - hastaEvento: 0
+    contieneMision: 0
+    oraciones:
+    - "\xBFSab\xEDas que la principal fuente de energ\xEDa del humano es la glucosa?"
+    mision: {fileID: 0}
+    eventoSum: 0
+  - hastaEvento: 0
+    contieneMision: 0
+    oraciones:
+    - Para cortar madera solo necesitas una buena hacha.
+    mision: {fileID: 0}
+    eventoSum: 0
+  - hastaEvento: 0
+    contieneMision: 0
+    oraciones:
+    - "Lo que hace al acero tan duro es su composici\xF3n Hierro y Carbono."
+    - A veces el acero puede tener rastros de Mb, Ni, Cu, Al, etc., eso le da mucha
+      versatilidad.
+    mision: {fileID: 0}
+    eventoSum: 0
+  - hastaEvento: 0
+    contieneMision: 0
+    oraciones:
+    - "Recuerda que los elementos alcalinot\xE9rreos son el primer grupo de la tabla."
+    mision: {fileID: 0}
+    eventoSum: 0
+  - hastaEvento: 0
+    contieneMision: 0
+    oraciones:
+    - "-\tLos monstruos met\xE1licos se caracterizan por ser sumamente fuertes, pero
+      nada que un generador de pulsos electromagn\xE9ticos no solucione. \xBFC\xF3mo
+      puedes conseguir uno?"
+    mision: {fileID: 0}
+    eventoSum: 0
+  - hastaEvento: 0
+    contieneMision: 0
+    oraciones:
+    - "-\t\xA1No toques nitr\xF3geno l\xEDquido, puedes terminar congelado! Quiz\xE1s
+      un buen lanzallamas funcione."
+    mision: {fileID: 0}
+    eventoSum: 0
+  - hastaEvento: 0
+    contieneMision: 0
+    oraciones:
+    - "Revisa individualmente cada columna (grupo) de la tabla, en el n\xFAmero at\xF3mico
+      podr\xE1s notar un curioso patr\xF3n."
+    - "\xBFRecuerdas por la tabla se llama peri\xF3dica? Todos los elementos siguen
+      un orden detallado seg\xFAn patrones y propiedades, incluso predijo elementos
+      desconocidos."
+    - "El n\xFAm. At\xF3mico seg\xFAn grupos est\xE1 relacionado con la configuraci\xF3n
+      electr\xF3nica."
+    mision: {fileID: 0}
+    eventoSum: 0
+  - hastaEvento: 0
+    contieneMision: 0
+    oraciones:
+    - "Los elementos alcalinot\xE9rreos son muy reactivos con el agua."
+    - "\xBFRecuerdas qu\xE9 es la reactividad? Combina Sodio y Agua."
+    mision: {fileID: 0}
+    eventoSum: 0
+  - hastaEvento: 0
+    contieneMision: 0
+    oraciones:
+    - "Tan nobles que no se mezclan con nada m\xE1s. Pero aun as\xED son muy valioso."
+    - "\xBFRecuerdas qu\xE9 es la reactividad? Combina Sodio y Agua."
+    mision: {fileID: 0}
+    eventoSum: 0
+  - hastaEvento: 0
+    contieneMision: 0
+    oraciones:
+    - "-\tLos lant\xE1nidos son particularmente duros y tienen propiedades magn\xE9ticas
+      \xFAnicas, su apariencia tambi\xE9n es muy bella. Solo hay un mineral que supera
+      en dureza a los lant\xE1nidos \xBFCu\xE1l es? Revisa tus cartas de monstruos."
+    mision: {fileID: 0}
+    eventoSum: 0
+  - hastaEvento: 0
+    contieneMision: 0
+    oraciones:
+    - "El Plomo y el Boro son elementos efectivos para bloquear la radiaci\xF3n.
+      \xBFQu\xE9 se necesitar\xEDa contra un monstruo radiactivo?"
+    mision: {fileID: 0}
+    eventoSum: 0
+  - hastaEvento: 0
+    contieneMision: 0
+    oraciones:
+    - "Encuentra cualquier cosa que pueda almacenar informaci\xF3n. \xBFUn libro
+      o malet\xEDn quiz\xE1s?"
+    mision: {fileID: 0}
+    eventoSum: 0
+  - hastaEvento: 0
+    contieneMision: 0
+    oraciones:
+    - "-\tEl Ne\xF3n no reacciona con nada \u2639 pero\u2026 puedes dejar sin energ\xEDa
+      a un monstruo hecho de Ne\xF3n."
+    mision: {fileID: 0}
+    eventoSum: 0
+  despedida: 

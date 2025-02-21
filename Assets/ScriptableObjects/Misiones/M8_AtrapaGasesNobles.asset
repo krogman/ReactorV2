@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41fc23eb17b379d409c0f51d20a6b5bf, type: 3}
+  m_Name: M8_AtrapaGasesNobles
+  m_EditorClassIdentifier: 
+  nombre: Atrapa a los gases nobles
+  id: 7
+  imagenMision: {fileID: -828449400, guid: 2d6295287faa5e8438e46c58af8526e6, type: 3}
+  cantidadObjetivo: 5
+  tipoMision: 3
+  listaObj_Id:
+  - id: 128
+    check: 0
+  - id: 129
+    check: 0
+  - id: 130
+    check: 0
+  - id: 131
+    check: 0
+  - id: 0
+    check: 0
+  - id: 132
+    check: 0
+  descripcion: "Captura a todos los gases nobles, se han librado de ser parte de
+    las transformaciones por ser los elementos m\xE1s inertes y no reactivos"
+  descripcionCorta: Captura gases nobles
+  recompensaExp: 10
+  recompensaItem: []
+  misionAceptada: 0
+  cantidadActual: 0
+  misionCompletada: 0
+  eventoInicio: 0
+  eventoFinal: 0

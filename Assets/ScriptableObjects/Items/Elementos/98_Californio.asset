@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 98_Californio
+  m_EditorClassIdentifier: 
+  id: 97
+  nombre: Californio
+  icono: {fileID: 0}
+  descripcion: "Act\xEDnido artificial, utilizado en investigaciones cient\xEDficas
+    y en la industria nuclear."
+  tipo: 3
+  esElemento: 1
+  simbolo: Cf
+  elemento_img: {fileID: 0}
+  numAtomico: 98
+  pesoAtomico: 251
+  uso: "Investigaci\xF3n cient\xEDfica y producci\xF3n de is\xF3topos radiactivos."
+  configElectronica: '[Rn] 5f <sup>10</sup> 7s <sup>2</sup>'
+  caracteristicas: "S\xF3lido met\xE1lico, plateado en apariencia, maleable y d\xFActil,
+    radiactivo"
+  dndEncontrarlo: Minerales de uranio y plutonio en residuos nucleares.

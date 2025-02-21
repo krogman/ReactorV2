@@ -1,0 +1,700 @@
+fileFormatVersion: 2
+guid: 617c2c8406a6a2644a794deea465637c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 241
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0b9cff426a1aa43bf15a100c5dfd23
+      internalID: 1283371774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 241
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f1bced7f7c9eb46bb3b86a5704d42e
+      internalID: -546331203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 241
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ddd3d94826c754e8c85cf48e9aae40
+      internalID: 1289406204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 253
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d55bbf3cd1495d489a323f9a2539465
+      internalID: 812789371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 241
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4ec7f62ea4f12429f9fb74d54320ad
+      internalID: 282914841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 252
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8000b85abbc906e43904df3c4b7feac8
+      internalID: -1038442784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 241
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d11c7fc7e5cacc4889623204e060351
+      internalID: 740462126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 252
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9c512846e5d474c89f3225821782d9
+      internalID: 804186880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_8
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 241
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ed44b14c3572d4585032e6342b1de1
+      internalID: 2046615734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 180
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543d50bfab2b1a54bbf912bf10f1f89b
+      internalID: 1650647157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 170
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9fa40362d6fd942b59c7e0119edc19
+      internalID: 1004786717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 176
+        width: 56
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7670415dc96b8b945ab9eb9b64f40862
+      internalID: -1150636032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 169
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5b77d9438e6464aaf7da4aec78c277
+      internalID: -1605346299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 174
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3500015cb9f59a64784e17e8fb2c0e72
+      internalID: 1297037888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_14
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 168
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc75a9c242f839549845ff3aae1980c6
+      internalID: -319163488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 91
+        width: 34
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166f2a8746070bd4a8cd7c4744d3362e
+      internalID: -1122099017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 91
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.45945945, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f8d4c9e0d1b9c45902123bc040825b
+      internalID: 1790015920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_17
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 91
+        width: 52
+        height: 47
+      alignment: 9
+      pivot: {x: 0.32692307, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b0b3b19b702034197438522b3c2aac
+      internalID: -831307227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 91
+        width: 58
+        height: 47
+      alignment: 9
+      pivot: {x: 0.29310346, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4ba722f7f447146b6581fdc1240933
+      internalID: -1017401662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_20
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 91
+        width: 66
+        height: 47
+      alignment: 9
+      pivot: {x: 0.25757575, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f4e646d639c1642890b8e96afbe096
+      internalID: -978905945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 91
+        width: 73
+        height: 47
+      alignment: 9
+      pivot: {x: 0.23287672, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf8a24feb9510e4d8e8f005c4e83a4c
+      internalID: 1901106325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 33
+        width: 86
+        height: 47
+      alignment: 9
+      pivot: {x: 0.19767442, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24ce1840c7a4474e81783ba002487cf
+      internalID: 1422466404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 32
+        width: 97
+        height: 47
+      alignment: 9
+      pivot: {x: 0.17525773, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09e30006d60bb143adf6d2a7f428e82
+      internalID: -1000536295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CN_OR_ArmaAgua_28
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 31
+        width: 98
+        height: 47
+      alignment: 9
+      pivot: {x: 0.1734694, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ace9fe9c73912458d54fc78874b471
+      internalID: -953347735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CN_OR_ArmaAgua_0: 1283371774
+      CN_OR_ArmaAgua_1: -546331203
+      CN_OR_ArmaAgua_10: 1004786717
+      CN_OR_ArmaAgua_11: -1150636032
+      CN_OR_ArmaAgua_12: -1605346299
+      CN_OR_ArmaAgua_13: 1297037888
+      CN_OR_ArmaAgua_14: -319163488
+      CN_OR_ArmaAgua_15: -1122099017
+      CN_OR_ArmaAgua_16: 1790015920
+      CN_OR_ArmaAgua_17: -831307227
+      CN_OR_ArmaAgua_18: -1017401662
+      CN_OR_ArmaAgua_19: 849388936
+      CN_OR_ArmaAgua_2: 1289406204
+      CN_OR_ArmaAgua_20: -978905945
+      CN_OR_ArmaAgua_21: -1633000287
+      CN_OR_ArmaAgua_22: 1901106325
+      CN_OR_ArmaAgua_23: 916887212
+      CN_OR_ArmaAgua_24: 1422466404
+      CN_OR_ArmaAgua_25: -178415445
+      CN_OR_ArmaAgua_26: -1000536295
+      CN_OR_ArmaAgua_27: -1906852116
+      CN_OR_ArmaAgua_28: -953347735
+      CN_OR_ArmaAgua_29: 1475905245
+      CN_OR_ArmaAgua_3: 812789371
+      CN_OR_ArmaAgua_4: 282914841
+      CN_OR_ArmaAgua_5: -1038442784
+      CN_OR_ArmaAgua_6: 740462126
+      CN_OR_ArmaAgua_7: 804186880
+      CN_OR_ArmaAgua_8: 2046615734
+      CN_OR_ArmaAgua_9: 1650647157
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

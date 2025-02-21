@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9051e32d038d174aae402ce05c06297, type: 3}
+  m_Name: Minero
+  m_EditorClassIdentifier: 
+  esCarta: 0
+  nombre: "Brogan Piedra\xEDgne"
+  saludo: Hola, bienvenido a la ciudad
+  conversacion:
+  - hastaEvento: 15
+    contieneMision: 1
+    oraciones:
+    - "\xBFAcaso tu eres el hijo de Aether?"
+    mision: {fileID: 11400000, guid: ecc27004aced7334486f1ef972561885, type: 2}
+    eventoSum: 0
+  - hastaEvento: 18
+    contieneMision: 1
+    oraciones:
+    - "Nos rescataste, as\xED que conf\xEDo en ti. Antes de entrar a la mina, hay
+      un camino secreto que lleva hacia una zona secreta del bosque, posiblemente
+      haya obst\xE1culos, pero es el \xFAnico que conocemos."
+    - "He escuchado que podr\xEDa haber algo de inter\xE9s ah\xED."
+    mision: {fileID: 11400000, guid: ecc27004aced7334486f1ef972561885, type: 2}
+    eventoSum: 0
+  despedida: Nos vemos

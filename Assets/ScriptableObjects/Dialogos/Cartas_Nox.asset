@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9051e32d038d174aae402ce05c06297, type: 3}
+  m_Name: Cartas_Nox
+  m_EditorClassIdentifier: 
+  esCarta: 1
+  nombre: 'Carta de Nox:'
+  saludo: <<Has recibido una carta de Nox, presiona para ver el contenido>>
+  conversacion:
+  - hastaEvento: 1
+    contieneMision: 0
+    oraciones:
+    - "S\xE9 que en estos momentos solo anhelas respuestas.\nQuiz\xE1 pueda ayudarte
+      con ello.\r\nTu padre era consciente de los peligros que su\r\nb\xFAsqueda
+      implicaba. As\xED que me pidio contactarte en caso de que algo le sucediera."
+    - "Hace un tiempo, me contrat\xF3 para filtrar\r\ninformaci\xF3n para \xE9l,
+      lo que me revel\xF3 indicios de\r\nsu conexi\xF3n con los inventores arcanos
+      y su\r\ninmersi\xF3n en un submundo peligroso."
+    - "El d\xEDa en que Aether desapareci\xF3, estaba tras la pista de algo importante,
+      y, si \xE9l no lograba completar su misi\xF3n, yo deb\xEDa entregarte esta
+      carta que ahora tienes en tus manos"
+    - "En el reverso, encontrar\xE1s una copia del pergamino que le entregu\xE9 a
+      tu padre, en este esta la ubicaci\xF3n de un lugar llamado Terra Praesidium.
+      \nDir\xEDgete ah\xED."
+    - "Se discreto y ten tu mente abierta a lo que puedas descubrir en esta traves\xEDa.
+      Conf\xEDa en mis habilidades y seguir\xE9 tus pasos para avanzar en esta misi\xF3n."
+    mision: {fileID: 0}
+    eventoSum: 1
+  - hastaEvento: 3
+    contieneMision: 1
+    oraciones:
+    - "Veo que has conseguido encontrar Terra Praesidium. Tengo m\xE1s informaci\xF3n
+      para ti."
+    - "Por cierto, \xBFsab\xEDas que en un antiguo idioma una palabra usada para
+      referirse al acero es \"chalybs\"? resulta que existe una ciudad con un nombre
+      parecido."
+    - Te estare esperando en la ciudad.
+    mision: {fileID: 11400000, guid: 8fa0996af710ffa4da378f57de369cce, type: 2}
+    eventoSum: 0
+  - hastaEvento: 13
+    contieneMision: 1
+    oraciones:
+    - "Hola, Felix, veo que ya tienes lo que necesitas. \r\nVe a la mina, algunos
+      mineros est\xE1n atrapados pero el camino est\xE1 bloqueado."
+    mision: {fileID: 11400000, guid: 063df1e608f94514897eb4d592841077, type: 2}
+    eventoSum: 0
+  despedida: 'Att: Nox'

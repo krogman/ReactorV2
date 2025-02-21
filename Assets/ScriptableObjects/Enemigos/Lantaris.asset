@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a2b78aa253ab7a40b66b1ae8099ae96, type: 3}
+  m_Name: Lantaris
+  m_EditorClassIdentifier: 
+  nombre: Lantaris
+  poder_txt: "Genera poderosos ataques de ondas s\xF3nicas gracias a su gran fuerza."
+  armaNecesaria_txt: Espada de diamante
+  debilidad_txt: "Es vulnerable a materiales m\xE1s duros y con mayor resistencia
+    que puedan romper su estructura."
+  imagenEnemigo_img: {fileID: 171494392, guid: 55cc5370a94005f4a9776ade033a6f7f, type: 3}
+  id: 136
+  nivAtaque: 3
+  nivelVida: 10
+  esIM: 0
+  id_ArmaCompatible: 120
+  mensajeRecompensa: Has derrotado a Lantaris
+  recompensaExp: 9
+  itemsRecompensa:
+  - itm: {fileID: 11400000, guid: 4ff6e7710dedc1e4ba43ac53ef8b84e0, type: 2}
+    cantidad: 1
+  - itm: {fileID: 11400000, guid: d16ac45a48051554da1620466ee6ae28, type: 2}
+    cantidad: 1
+  - itm: {fileID: 11400000, guid: a26471c5a1b0fc64c92b72ce1355b0cb, type: 2}
+    cantidad: 1

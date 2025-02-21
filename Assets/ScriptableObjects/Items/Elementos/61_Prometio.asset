@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 61_Prometio
+  m_EditorClassIdentifier: 
+  id: 60
+  nombre: Prometio
+  icono: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
+  descripcion: "Elemento artificial, utilizado en fuentes de energ\xEDa nuclear port\xE1tiles."
+  tipo: 3
+  esElemento: 1
+  simbolo: Pr
+  elemento_img: {fileID: 0}
+  numAtomico: 61
+  pesoAtomico: 145
+  uso: "Fabricaci\xF3n de calibradores de aberturas y en batr\xEDas nucleares empleadas
+    en aplicaciones exoespaciales."
+  configElectronica: '[Xe] 4f <sup> 5 </sup> 6s<sup>2</sup>'
+  caracteristicas: "Metal s\xF3lido ligeramente blando, de Color azul blancuzco con
+    \xE1reas plateadas, aunque en la oscuridad irradia un brillo verdoso."
+  dndEncontrarlo: "Se produce durante la desintegraci\xF3n alfa rara de europio-151
+    natural y fisi\xF3n espont\xE1nea de uranio. Artificial: bombardeando uranio-235
+    (uranio enriquecido) con neutrones t\xE9rmicos para producir prometio-147 como
+    un producto de fisi\xF3n."

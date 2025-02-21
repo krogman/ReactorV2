@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 12_Magnesio
+  m_EditorClassIdentifier: 
+  id: 11
+  nombre: Magnesio
+  icono: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
+  descripcion: "Metal alcalinot\xE9rreo, esencial para la salud \xF3sea, presente
+    en clorofila y aleaciones ligeras."
+  tipo: 3
+  esElemento: 1
+  simbolo: Mg
+  elemento_img: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
+  numAtomico: 12
+  pesoAtomico: 24.305
+  uso: "Producci\xF3n de aleaciones de aluminio, p\xF3lvora, pirotecnia, productos
+    qu\xEDmicos y productos farmac\xE9uticos, etc\xE9tera."
+  configElectronica: 1s <sup>2 </sup>2s <sup>2</sup> 2p <sup>6</sup>3s <sup>2</sup>
+  caracteristicas: "Metal ligero, plateado y altamente reactivo, que se oxida r\xE1pidamente
+    en presencia de aire o agua."
+  dndEncontrarlo: "Se encuentra en la naturaleza c en forma de dolomita, magnesita,
+    brucita y en muchos otros minerales. Se puede obtener a trav\xE9s de la electr\xF3lisis
+    del cloruro de magnesio."

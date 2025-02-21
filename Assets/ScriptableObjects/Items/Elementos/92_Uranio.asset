@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 92_Uranio
+  m_EditorClassIdentifier: 
+  id: 91
+  nombre: Uranio
+  icono: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
+  descripcion: "Elemento radioactivo, utilizado en la generaci\xF3n de energ\xEDa
+    nuclear y en la fabricaci\xF3n de armas."
+  tipo: 3
+  esElemento: 1
+  simbolo: U
+  elemento_img: {fileID: 0}
+  numAtomico: 92
+  pesoAtomico: 237
+  uso: "Reactores nucleares, investigaci\xF3n cient\xEDfica, armamento nuclear. combustible
+    para centrales nucleares y para la producci\xF3n de armamento nuclear. aleaciones
+    de acero para mejorar la resistencia y la durabilidad."
+  configElectronica: '[Rn] 5f <sup>4</sup> 7s <sup>2</sup>'
+  caracteristicas: "S\xF3lido met\xE1lico, plateado en apariencia, maleable y d\xFActil.
+    metal plateado gris\xE1ceo, radiactivo y altamente reactivo con el aire."
+  dndEncontrarlo: "Minerales de uranio, plutonio en residuos nucleares, rocas \xEDgneas
+    y sedimentarias."

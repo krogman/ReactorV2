@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 80_Mercurio
+  m_EditorClassIdentifier: 
+  id: 0
+  nombre: Mercurio
+  icono: {fileID: 21300000, guid: bb129ece4f76ab2468eab02f5b435d28, type: 3}
+  descripcion: "Metal l\xEDquido a temperatura ambiente, utilizado en term\xF3metros
+    y en la miner\xEDa de oro."
+  tipo: 3
+  esElemento: 1
+  simbolo: Hg
+  elemento_img: {fileID: 21300000, guid: bb129ece4f76ab2468eab02f5b435d28, type: 3}
+  numAtomico: 80
+  pesoAtomico: 200.59
+  uso: "Term\xF3metro, b\xE1sculas de cocina, relojes, punteros l\xE1ser, calculadoras
+    de bolsillo. "
+  configElectronica: '[Xe] 4f <sup> 14</sup> 5d<sup>10</sup> 6s<sup>2</sup>'
+  caracteristicas: "metal l\xEDquido, inodoro, plateado y pesado. En estado s\xF3lido
+    es blanco, d\xFActil, maleable y puede cortarse con un cuchillo."
+  dndEncontrarlo: "Yacimientos de cinabrio en regiones volc\xE1nicas y sedimentarias.
+    Yacimientos primarios en rocas volc\xE1nicas, como basaltos y andesitas."

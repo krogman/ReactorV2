@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a2b78aa253ab7a40b66b1ae8099ae96, type: 3}
+  m_Name: NeonixPrime
+  m_EditorClassIdentifier: 
+  nombre: Neonix Prime
+  poder_txt: "Produce poderosas descargas el\xE9ctricas y emite rayos de luz intensos
+    que desorientan a sus oponentes"
+  armaNecesaria_txt: Arma magica
+  debilidad_txt: "Privarlo de la energ\xEDa necesaria para mantenerse en su forma
+    de llama ne\xF3n, ya sea apagando la fuente de energ\xEDa que lo mantiene activo
+    o utilizando un arma que absorba la energ\xEDa del ne\xF3n. "
+  imagenEnemigo_img: {fileID: -1031516527, guid: 612ab2f479e2d3347bacae54a723a05d, type: 3}
+  id: 138
+  nivAtaque: 3
+  nivelVida: 10
+  esIM: 0
+  id_ArmaCompatible: 124
+  mensajeRecompensa: Has derrotado a Neonix Prime
+  recompensaExp: 4
+  itemsRecompensa:
+  - itm: {fileID: 11400000, guid: 7703b83175d51e7489bc3728fac13b3b, type: 2}
+    cantidad: 1

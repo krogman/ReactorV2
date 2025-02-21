@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 71_Lutecio
+  m_EditorClassIdentifier: 
+  id: 70
+  nombre: Lutecio
+  icono: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
+  descripcion: " Lant\xE1nido, utilizado en la investigaci\xF3n cient\xEDfica y en
+    la industria del petr\xF3leo."
+  tipo: 3
+  esElemento: 1
+  simbolo: Lu
+  elemento_img: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
+  numAtomico: 71
+  pesoAtomico: 174.967
+  uso: "Se utiliza en dispositivos de detecci\xF3n de rayos X y como un dopante en
+    materiales de cristal para la producci\xF3n de l\xE1seres. Tambi\xE9n se utiliza
+    en aleaciones para la fabricaci\xF3n de aceros inoxidables y en la producci\xF3n
+    de aleaciones para la generaci\xF3n de neutrones."
+  configElectronica: '[Xe] 4f <sup> 1</sup> 5d<sup>1</sup> 6s<sup>2</sup>'
+  caracteristicas: Es un metal plateado brillante.
+  dndEncontrarlo: Se encuentra en minerales de tierras raras junto con otros elementos.

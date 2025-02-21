@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 54_Xenon
+  m_EditorClassIdentifier: 
+  id: 53
+  nombre: "Xen\xF3n"
+  icono: {fileID: 21300000, guid: b4872dcff3a17a240a530f8c43714669, type: 3}
+  descripcion: "Gas noble, utilizado en l\xE1mparas de xen\xF3n y en investigaci\xF3n
+    m\xE9dica."
+  tipo: 3
+  esElemento: 1
+  simbolo: Xe
+  elemento_img: {fileID: 21300000, guid: b4872dcff3a17a240a530f8c43714669, type: 3}
+  numAtomico: 54
+  pesoAtomico: 131.293
+  uso: "L\xE1mparas, aislantes y refrigerantes, entre otros."
+  configElectronica: '[Kr] 4d <sup> 10</sup> 5s <sup>2</sup> 5p <sup>6</sup>'
+  caracteristicas: Incoloro
+  dndEncontrarlo: "Se encuentra en peque\xF1as cantidades en el aire y en algunos
+    minerales radiactivos."

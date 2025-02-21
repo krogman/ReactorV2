@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 87_Francio
+  m_EditorClassIdentifier: 
+  id: 86
+  nombre: Francio
+  icono: {fileID: 21300000, guid: 1aeaebe2ff34a064093cfd36c9b31a37, type: 3}
+  descripcion: "Metal alcalino radioactivo, presente en trazas, utilizado en investigaciones
+    cient\xEDficas."
+  tipo: 3
+  esElemento: 1
+  simbolo: Fr
+  elemento_img: {fileID: 21300000, guid: 1aeaebe2ff34a064093cfd36c9b31a37, type: 3}
+  numAtomico: 87
+  pesoAtomico: 223
+  uso: "Estudios de reacciones qu\xEDmicas, investigaci\xF3n m\xE9dica. Tiene muy
+    pocas aplicaciones debido a su alta inestabilidad y corta vida media."
+  configElectronica: '[Rn] 7s <sup>1</sup>'
+  caracteristicas: "S\xF3lido plateado y altamente reactivo"
+  dndEncontrarlo: No se encuentra en la naturaleza en grandes cantidades, se produce
+    artificialmente. Es un elemento extremadamente raro que se encuentra en minerales
+    de uranio y torio

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9051e32d038d174aae402ce05c06297, type: 3}
+  m_Name: VictorLumino
+  m_EditorClassIdentifier: 
+  esCarta: 0
+  nombre: Victor Lumino
+  saludo: Saludos
+  conversacion:
+  - hastaEvento: 7
+    contieneMision: 0
+    oraciones:
+    - "Ultimamente la ciudad ha estado muy sola, \xBFSe deber\xE1 a los monstruos
+      que han aparecido los ultimos d\xEDas?"
+    mision: {fileID: 0}
+    eventoSum: 0
+  - hastaEvento: 9
+    contieneMision: 1
+    oraciones:
+    - "\xBFTe conozco?"
+    - "Ya veo, as\xED que algu\xEDen te envi\xF3, si ese es el caso, probablemente
+      eres muy afortunado o est\xE1s en serios problemas."
+    - "Asi que es la segunda, claro que puedo ayudarte, pero primero tu me debes
+      ayudar a mi. He estado creando una nueva m\xE1quina voladora que ser\xE1 una
+      sensaci\xF3n, pero no logro hacerla funcionar por m\xE1s de unos segundos."
+    - "Me he dado cuenta que el problema es la fuente de energ\xEDa."
+    - "\xBFPodr\xEDas traerme un raro metal llamado Litio? Tendr\xE1s que salir a
+      buscarlo."
+    - "S\xE9 que no es muy com\xFAn que la gente de esta ciudad conozca sobre las
+      ciencias alqu\xEDmicas."
+    - "Oh, lo s\xE9. Te dir\xE9 un secretito, lo le\xED en un libro de mi abuelo,
+      no le digas a nadie pero creo que fue un inventor arcano."
+    mision: {fileID: 11400000, guid: e69eba73363dac447af36a1d6db043a1, type: 2}
+    eventoSum: 0
+  - hastaEvento: 14
+    contieneMision: 0
+    oraciones:
+    - "Muchas gracias por tu ayuda, ni\xF1o. Espero que te haya servido el arma que
+      te d\xED."
+    mision: {fileID: 0}
+    eventoSum: 0
+  despedida: Adiosito.

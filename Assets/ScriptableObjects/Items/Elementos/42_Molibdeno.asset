@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 42_Molibdeno
+  m_EditorClassIdentifier: 
+  id: 41
+  nombre: Molibdeno
+  icono: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
+  descripcion: "Metal de transici\xF3n, resistente al calor, utilizado en aleaciones
+    y lubricantes."
+  tipo: 3
+  esElemento: 1
+  simbolo: Mo
+  elemento_img: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
+  numAtomico: 42
+  pesoAtomico: 95.94
+  uso: "Aleaciones de alta resistencia, aceros inoxidables, componentes electr\xF3nicos."
+  configElectronica: '[Kr] 4d <sup> 4</sup> 5s <sup>2</sup>'
+  caracteristicas: "Plateado gris\xE1ceo, d\xFActil y maleable."
+  dndEncontrarlo: "Se extrae de minerales y procesamiento de cobre y n\xEDquel."

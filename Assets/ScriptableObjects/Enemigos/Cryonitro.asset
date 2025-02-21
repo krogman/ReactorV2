@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a2b78aa253ab7a40b66b1ae8099ae96, type: 3}
+  m_Name: Cryonitro
+  m_EditorClassIdentifier: 
+  nombre: Cryonitro
+  poder_txt: "Puede transformarse en gas y emitir nitr\xF3geno l\xEDquido a baja
+    temperatura, lo que puede congelar a los transe\xFAntes . "
+  armaNecesaria_txt: Lanzallamas
+  debilidad_txt: "Es vulnerable al fuego intenso, ya que el calor puede hacer que
+    se desestabilice y pierda su forma gaseosa. Adem\xE1s, el nitr\xF3geno l\xEDquido
+    que emite puede evaporarse con facilidad al entrar en contacto con el fuego,
+    lo que debilita a\xFAn m\xE1s."
+  imagenEnemigo_img: {fileID: -1412683830, guid: 37f78635ffe319e4aa484e19c893c282, type: 3}
+  id: 135
+  nivAtaque: 2
+  nivelVida: 10
+  esIM: 0
+  id_ArmaCompatible: 126
+  mensajeRecompensa: Has derrotado a Cryonitro
+  recompensaExp: 5
+  itemsRecompensa:
+  - itm: {fileID: 11400000, guid: 2e4f3b6c078f5ca4580c64c27d536ec1, type: 2}
+    cantidad: 1

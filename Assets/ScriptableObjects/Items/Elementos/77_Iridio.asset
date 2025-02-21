@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 77_Iridio
+  m_EditorClassIdentifier: 
+  id: 76
+  nombre: Iridio
+  icono: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
+  descripcion: "Metal de transici\xF3n, denso y resistente, utilizado en joyer\xEDa
+    y en la fabricaci\xF3n de electrodos."
+  tipo: 3
+  esElemento: 1
+  simbolo: Ir
+  elemento_img: {fileID: 0}
+  numAtomico: 77
+  pesoAtomico: 192.217
+  uso: "Es de color blanco, parecido al platino, pero presenta una ligera penetraci\xF3n
+    amarilla, duro y quebradizo."
+  configElectronica: '[Xe] 4f <sup> 14</sup> 5d<sup>7</sup> 6s<sup>2</sup>'
+  caracteristicas: "En aleaciones de alta resistencia a la corrosi\xF3n y a altas
+    temperaturas, electrodos de buj\xEDa, contactos el\xE9ctricos, espejos de telescopios."
+  dndEncontrarlo: Se encuentra en la naturaleza como aleaciones con otros metales
+    del grupo del platino, como el paladio, el osmio y el rutenio.

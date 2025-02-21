@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 74_Tungsteno
+  m_EditorClassIdentifier: 
+  id: 73
+  nombre: Tungsteno
+  icono: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
+  descripcion: "Metal de transici\xF3n, de alto punto de fusi\xF3n, utilizado en
+    filamentos de bombillas y en aleaciones."
+  tipo: 3
+  esElemento: 1
+  simbolo: W
+  elemento_img: {fileID: 0}
+  numAtomico: 74
+  pesoAtomico: 183.84
+  uso: "En filamentos de bombillas, aleaciones resistentes a la corrosi\xF3n, aceros
+    de alta velocidad y herramientas de corte"
+  configElectronica: '[Xe] 4f <sup> 14</sup> 5d<sup>4</sup> 6s<sup>2</sup>'
+  caracteristicas: El tungsteno elemental es un metal blanco a gris acero (depende
+    de la pureza) que puede ser usado en forma pura o mezclado con otros metales
+    para formar aleaciones.
+  dndEncontrarlo: Minerales scheelita, wolframita y otros minerales de tungsteno

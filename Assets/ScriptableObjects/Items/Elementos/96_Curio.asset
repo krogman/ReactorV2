@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 96_Curio
+  m_EditorClassIdentifier: 
+  id: 95
+  nombre: Curio
+  icono: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
+  descripcion: "Act\xEDnido radioactivo, empleado en investigaciones cient\xEDficas
+    y en dispositivos m\xE9dicos."
+  tipo: 3
+  esElemento: 1
+  simbolo: Cm
+  elemento_img: {fileID: 0}
+  numAtomico: 96
+  pesoAtomico: 247
+  uso: "Reactores nucleares, investigaci\xF3n cient\xEDfica, armamento nuclear. El
+    curio se utiliza como fuente de neutrones para la investigaci\xF3n y en propulsores
+    de sat\xE9lites artificiales."
+  configElectronica: '[Rn] 5f <sup>8</sup> 7s <sup>2</sup>'
+  caracteristicas: "S\xF3lido met\xE1lico, plateado en apariencia, maleable y d\xFActil."
+  dndEncontrarlo: Minerales de uranio, plutonio en residuos nucleares, desechos nucleares
+    y reactores nucleares.

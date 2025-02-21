@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41fc23eb17b379d409c0f51d20a6b5bf, type: 3}
+  m_Name: M0_EncuentraTP
+  m_EditorClassIdentifier: 
+  nombre: Encuentra Terra Praesidium
+  id: 0
+  imagenMision: {fileID: 0}
+  cantidadObjetivo: 1
+  tipoMision: 2
+  listaObj_Id:
+  - id: 154
+    check: 0
+  descripcion: "Joven F\xE9lix. <br>\r\nS\xE9 que en estos momentos solo anhelas
+    respuestas . <br>\r\nTu padre era consciente de los peligros que su\r\nb\xFAsqueda
+    implicaba. <br>\nHace un tiempo, me contrat\xF3 para filtrar\r\ninformaci\xF3n
+    para \xE9l, lo que me revel\xF3 indicios de\r\nsu conexi\xF3n con los inventores
+    arcanos y su\r\ninmersi\xF3n en un submundo peligroso. <br>\nl d\xEDa en que\r\nAether
+    desapareci\xF3, estaba tras la pista de algo\r\nimportante, y, si \xE9l no lograba
+    completar su\r\nmisi\xF3n, yo deb\xEDa entregarte esta carta que ahora\r\ntienes
+    en tus manos. En el reverso, encontrar\xE1s\r\nuna copia del pergamino que le
+    entregu\xE9 a tu\r\npadre, en este esta la ubicaci\xF3n de un lugar\r\nllamado
+    Terra Praesidium. Dir\xEDgete ah\xED, est\xE1 en las profundidades\ndel bosque.<br>\nSe
+    discreto y ten tu mente abierta a lo que puedas\r\ndescubrir en esta traves\xEDa.
+    Conf\xEDa en mis\r\nhabilidades y seguir\xE9 tus pasos para avanzar en\r\nesta
+    misi\xF3n.<br>"
+  descripcionCorta: Encuentra Terra Praesidium
+  recompensaExp: 3
+  recompensaItem:
+  - item: {fileID: 11400000, guid: 1d00528458864c640b69dc26fac03dd4, type: 2}
+    cantidad: 1
+  - item: {fileID: 11400000, guid: 5bc064852f4fc77449183f6e9b583284, type: 2}
+    cantidad: 1
+  - item: {fileID: 11400000, guid: 6fe5a854950900a42a4e50c966655568, type: 2}
+    cantidad: 1
+  - item: {fileID: 11400000, guid: df97bdcc5951d804f952467f88460f50, type: 2}
+    cantidad: 1
+  - item: {fileID: 11400000, guid: 0223bf66c06f78f40a8274312c5cf938, type: 2}
+    cantidad: 1
+  - item: {fileID: 11400000, guid: 84b5eab100649fc47a35bd7cb40aeb0a, type: 2}
+    cantidad: 1
+  - item: {fileID: 11400000, guid: 28c181013be21054d95f17e8775d2415, type: 2}
+    cantidad: 1
+  - item: {fileID: 11400000, guid: 005145dd65d37644db4ab960c20c089e, type: 2}
+    cantidad: 1
+  - item: {fileID: 11400000, guid: 885b6c7257c2ef64c9d5d29956c4eebb, type: 2}
+    cantidad: 1
+  - item: {fileID: 11400000, guid: 24c121e517accc4489a64122111a270a, type: 2}
+    cantidad: 1
+  - item: {fileID: 11400000, guid: 8fd45290ed6fa1445a47e1b258a7cbaa, type: 2}
+    cantidad: 1
+  - item: {fileID: 11400000, guid: 127af65c9dd4f594c8f6f8a75ca20933, type: 2}
+    cantidad: 1
+  - item: {fileID: 11400000, guid: 9eb2bbc3ab672fa48bcacc3bf255129a, type: 2}
+    cantidad: 1
+  - item: {fileID: 11400000, guid: 423c3a2eb51c2b3438676f978ed090c4, type: 2}
+    cantidad: 1
+  - item: {fileID: 11400000, guid: 33b034ca381a81a4c9a357afb7ab8498, type: 2}
+    cantidad: 1
+  - item: {fileID: 11400000, guid: fbf6e46c22a60524b85311f0ac82328b, type: 2}
+    cantidad: 1
+  - item: {fileID: 11400000, guid: 2414e034c37fecd489957b19ac369184, type: 2}
+    cantidad: 1
+  - item: {fileID: 11400000, guid: 5de0eca6ce3532949bd934e72fbaa96f, type: 2}
+    cantidad: 1
+  - item: {fileID: 11400000, guid: fb5a0d8484ac17e4d87f94e180c8dc8c, type: 2}
+    cantidad: 1
+  misionAceptada: 0
+  cantidadActual: 0
+  misionCompletada: 0

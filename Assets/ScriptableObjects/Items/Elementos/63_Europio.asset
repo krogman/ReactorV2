@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 63_Europio
+  m_EditorClassIdentifier: 
+  id: 62
+  nombre: Europio
+  icono: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
+  descripcion: "Lant\xE1nido, utilizado en la fabricaci\xF3n de pantallas de televisores
+    y en l\xE1mparas fluorescentes."
+  tipo: 3
+  esElemento: 1
+  simbolo: Eu
+  elemento_img: {fileID: 0}
+  numAtomico: 63
+  pesoAtomico: 151.964
+  uso: "El europio se utiliza principalmente en la fabricaci\xF3n de f\xF3sforos
+    rojos, que emiten luz roja brillante cuando se excitan con una llama o una chispa
+    el\xE9ctrica. Tambi\xE9n se utiliza en la producci\xF3n de vidrio para pantallas
+    de televisores y monitores de ordenador, as\xED como en la fabricaci\xF3n de
+    imanes permanentes de alta energ\xEDa para aplicaciones en motores el\xE9ctricos
+    y discos duros de ordenadores."
+  configElectronica: '[Xe] 4f <sup> 7 </sup> 6s<sup>2</sup>'
+  caracteristicas: "Es un elemento qu\xEDmico de aspecto blanco plateado."
+  dndEncontrarlo: "El europio es un elemento raro en la corteza terrestre, y se encuentra
+    principalmente \r\nen minerales de tierras raras como la monacita, la xenotima
+    y la bastnasita. Estos minerales se encuentran en dep\xF3sitos de rocas \xEDgneas
+    y sedimentarias.\r"

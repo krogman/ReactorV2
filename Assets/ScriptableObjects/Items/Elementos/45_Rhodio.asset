@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 45_Rhodio
+  m_EditorClassIdentifier: 
+  id: 44
+  nombre: Rhodio
+  icono: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
+  descripcion: "Metal de transici\xF3n, caro y resistente, utilizado en catalizadores
+    y en joyer\xEDa."
+  tipo: 3
+  esElemento: 1
+  simbolo: Rh
+  elemento_img: {fileID: 0}
+  numAtomico: 45
+  pesoAtomico: 102.9055
+  uso: "Catalizadores, joyer\xEDa, componentes electr\xF3nicos, entre otros."
+  configElectronica: '[Kr] 4d <sup> 7</sup> 5s <sup>2</sup>'
+  caracteristicas: "Plateado blanco, resistente a la corrosi\xF3n"
+  dndEncontrarlo: "Minerales de n\xEDquel y platino."

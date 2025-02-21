@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9051e32d038d174aae402ce05c06297, type: 3}
+  m_Name: Cartas_Desconocido
+  m_EditorClassIdentifier: 
+  esCarta: 1
+  nombre: ???
+  saludo: <<Has recibido una carta de un desconocido, presiona para ver el contenido>>
+  conversacion:
+  - hastaEvento: 0
+    contieneMision: 1
+    oraciones:
+    - "Vi como te deshac\xEDas de ese golem que aterroriza a\r\ntodos. Ataca a unos
+      cuantos monstruos m\xE1s y te\r\ndar\xE9 una valiosa recompensa."
+    mision: {fileID: 11400000, guid: 9fce2947c8b308e449e7c9fb16b9bcbe, type: 2}
+    eventoSum: 0
+  despedida: 

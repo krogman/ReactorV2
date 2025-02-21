@@ -1,0 +1,411 @@
+fileFormatVersion: 2
+guid: 55cc5370a94005f4a9776ade033a6f7f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LantarisSprites_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 109
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0011fe935711a4d4cbcb5b6111dc3d16
+      internalID: 171494392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LantarisSprites_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 35
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678ed271d1d7a3d488abc5fca8517997
+      internalID: 2026758985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LantarisSprites_57
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 29
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdba1f5a0d2c7b04b80f083dfd4c2759
+      internalID: 1761396451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LantarisSprites_59
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 41
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917f3e95b4724664982eb19a31423edf
+      internalID: 1096959008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LantarisSprites_65
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 35
+        height: 67
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cb129c861ef2841bfbec74e6eba320
+      internalID: 283289659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LantarisSprites_68
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 48
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fca6edcbe9b3f14a9c14da6a1550c43
+      internalID: 937258884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LantarisSprites_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 61
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092168a0287a5ee479da2f691edb0198
+      internalID: 825483640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LantarisSprites_72
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 0
+        width: 49
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d407b7fde4298b42a61c83caad65e40
+      internalID: 925682266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LantarisSprites_0: 171494392
+      LantarisSprites_1: -1615393886
+      LantarisSprites_10: 1790800331
+      LantarisSprites_11: 2048510903
+      LantarisSprites_12: 658246243
+      LantarisSprites_13: 1051837602
+      LantarisSprites_14: -1768969452
+      LantarisSprites_15: -353384450
+      LantarisSprites_16: -100192097
+      LantarisSprites_17: -1744957690
+      LantarisSprites_18: -64134815
+      LantarisSprites_19: 1283214024
+      LantarisSprites_2: 18245224
+      LantarisSprites_20: -1180471438
+      LantarisSprites_21: -1516929698
+      LantarisSprites_22: 1419585453
+      LantarisSprites_23: 978687585
+      LantarisSprites_24: -297225011
+      LantarisSprites_25: 1073251893
+      LantarisSprites_26: 735627558
+      LantarisSprites_27: -188125448
+      LantarisSprites_28: -1458524649
+      LantarisSprites_29: 1983380846
+      LantarisSprites_3: -636358065
+      LantarisSprites_30: -69141884
+      LantarisSprites_31: 1552561326
+      LantarisSprites_32: 270516770
+      LantarisSprites_33: 38014240
+      LantarisSprites_34: 2018762872
+      LantarisSprites_35: -1913612750
+      LantarisSprites_36: 198984603
+      LantarisSprites_37: 1104929857
+      LantarisSprites_38: -612804940
+      LantarisSprites_39: -644151594
+      LantarisSprites_4: 173785261
+      LantarisSprites_40: -271406745
+      LantarisSprites_41: 502079034
+      LantarisSprites_42: -1615191091
+      LantarisSprites_43: -543011800
+      LantarisSprites_44: -2122640355
+      LantarisSprites_45: 569098630
+      LantarisSprites_46: -994636541
+      LantarisSprites_47: -1274982024
+      LantarisSprites_48: 499057942
+      LantarisSprites_49: 1389233544
+      LantarisSprites_5: -1393347309
+      LantarisSprites_50: 1903352660
+      LantarisSprites_51: 566946330
+      LantarisSprites_52: 1938891293
+      LantarisSprites_53: -1310418320
+      LantarisSprites_54: 2026758985
+      LantarisSprites_55: 546753816
+      LantarisSprites_56: 1366113899
+      LantarisSprites_57: 1761396451
+      LantarisSprites_58: 978299463
+      LantarisSprites_59: 1096959008
+      LantarisSprites_6: 1148416883
+      LantarisSprites_60: -443706365
+      LantarisSprites_61: -813169290
+      LantarisSprites_62: -1894688728
+      LantarisSprites_63: -1219860616
+      LantarisSprites_64: 2080327290
+      LantarisSprites_65: 283289659
+      LantarisSprites_66: -414173515
+      LantarisSprites_67: 672003057
+      LantarisSprites_68: 937258884
+      LantarisSprites_69: -684851836
+      LantarisSprites_7: 1101609874
+      LantarisSprites_70: 825483640
+      LantarisSprites_71: -1149818330
+      LantarisSprites_72: 925682266
+      LantarisSprites_73: 518733037
+      LantarisSprites_74: 680785935
+      LantarisSprites_75: -2084623067
+      LantarisSprites_76: 921261175
+      LantarisSprites_8: -726313296
+      LantarisSprites_9: -1185070111
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

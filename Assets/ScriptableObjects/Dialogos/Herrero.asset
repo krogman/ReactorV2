@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9051e32d038d174aae402ce05c06297, type: 3}
+  m_Name: Herrero
+  m_EditorClassIdentifier: 
+  esCarta: 0
+  nombre: Herrero
+  saludo: "Buen d\xEDa, ni\xF1o."
+  conversacion:
+  - hastaEvento: 4
+    contieneMision: 0
+    oraciones:
+    - Estoy ocupado, vuelve luego.
+    mision: {fileID: 0}
+    eventoSum: 0
+  - hastaEvento: 6
+    contieneMision: 1
+    oraciones:
+    - "No te hab\xEDa visto antes por aqu\xED. \xBFQu\xE9 necesitas?"
+    - "\xBFBuscas informaci\xF3n?, \xBFQu\xE9 informaci\xF3n podr\xEDa proporcionarte
+      yo?"
+    - "Ah, Nox, lo conozco. Antes de decirte cualquier cosa, deber\xEDas de conseguir
+      algo de acero para m\xED. El acero es esencial para un herrero."
+    - "Ver\xE1s, el acero es una aleaci\xF3n de hierro y carbono y tambi\xE9n puede
+      contener impurezas de otro tipo de \xE1tomos como aluminio, manganeso, molibdeno,
+      n\xEDquel, vanadio, etc."
+    mision: {fileID: 11400000, guid: d6dc8f95006a9c743bdd65ff071ef5f0, type: 2}
+    eventoSum: 0
+  - hastaEvento: 14
+    contieneMision: 0
+    oraciones:
+    - "Estoy muy fel\xEDz con tu servicio. <br>\r\nCreo que Victor Lumino podr\xEDa\r\nayudarte,
+      deber\xEDas de ir a su\r\ntaller."
+    - "Por cierto, \xBFsab\xEDas que el origen de los monstruos est\xE1 en esta misma
+      ciudad?"
+    mision: {fileID: 0}
+    eventoSum: 8
+  despedida: Suerte

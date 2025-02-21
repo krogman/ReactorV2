@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9051e32d038d174aae402ce05c06297, type: 3}
+  m_Name: LocoDialogo
+  m_EditorClassIdentifier: 
+  esCarta: 0
+  nombre: Tarrant Hightopp
+  saludo: "\xA1Hey!, \xBFQue tal?"
+  conversacion:
+  - hastaEvento: 14
+    contieneMision: 0
+    oraciones:
+    - "Primera vez que te veo\r\npor aqu\xED. Luces como alguien\r\ninteligente pero
+      te ves cansado."
+    - "\xBFPor que estas tan apurado?, me recuerdas a un amigo que siempre va tarde
+      a todos lados, deber\xEDas relajarte"
+    - "Sabias que la dinamita contiene man\xED como un ingrediente"
+    - "Yo sabia que ese tal \"Man\xED\" no era de fiar"
+    mision: {fileID: 0}
+    eventoSum: 0
+  despedida: Debo  ir a algun lado, solo que no recuerdo a donde, nos vemos.

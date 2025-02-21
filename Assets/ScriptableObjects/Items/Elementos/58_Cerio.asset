@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 58_Cerio
+  m_EditorClassIdentifier: 
+  id: 57
+  nombre: Cerio
+  icono: {fileID: 21300000, guid: 14a2710916f32c9479082b1bc6a5cb5b, type: 3}
+  descripcion: "Lant\xE1nido, utilizado en aleaciones, catalizadores y en la industria
+    del pulido."
+  tipo: 3
+  esElemento: 1
+  simbolo: Ce
+  elemento_img: {fileID: 0}
+  numAtomico: 58
+  pesoAtomico: 140.116
+  uso: "Se utiliza en la producci\xF3n de catalizadores para la industria petroqu\xEDmica,
+    en la producci\xF3n de materiales de aleaci\xF3n de alta resistencia y en la
+    producci\xF3n de vidrios especiales."
+  configElectronica: '[Xe] 4f <sup> 2 </sup> 6s<sup>2</sup>'
+  caracteristicas: "El cerio es un metal plateado que es blando, d\xFActil y maleable."
+  dndEncontrarlo: "El cerio se encuentra en minerales de tierras raras y se puede
+    obtener por electr\xF3lisis de sus sales fundidas."

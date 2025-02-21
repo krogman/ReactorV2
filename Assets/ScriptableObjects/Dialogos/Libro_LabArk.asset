@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9051e32d038d174aae402ce05c06297, type: 3}
+  m_Name: Libro_LabArk
+  m_EditorClassIdentifier: 
+  esCarta: 0
+  nombre: Libro misterioso
+  saludo: 'Informe de Ignis Mundi sobre el "Reactor de Aether" (2765):'
+  conversacion:
+  - hastaEvento: 14
+    contieneMision: 0
+    oraciones:
+    - "En este reporte estrat\xE9gico, narramos la manipulaci\xF3n exitosa de Aether,
+      un prominente Inventor Arcano, para crear el \"Reactor de Aether\". Aether,
+      impulsado por la ambici\xF3n, descubre las propiedades de la sustancia defectuosa,
+      Aetherium, en 2761."
+    - "La organizaci\xF3n Ignis Mundi logra persuadir a Aether mediante promesas
+      de libertad creativa."
+    - 'El "Reactor de Aether" es construido con el acceso otorgado por Aether, quien
+      no comprende completamente nuestras verdaderas intenciones. En 2762, un experimento
+      fallido resulta en monstruos creados por la sustancia defectuosa. '
+    - "La explosi\xF3n subsiguiente, parcialmente contenida, desata una guerra entre
+      los inventores arcanos y los monstruos controlados por Ignis Mundi."
+    - "La expulsi\xF3n de Aether de la organizaci\xF3n arcano y la retirada de su
+      protecci\xF3n son consecuencias inevitables."
+    - "Este informe destaca el \xE9xito de Ignis Mundi al asegurar el control del
+      \"Reactor de Aether\", resaltando la imprudencia de Aether y anticipando la
+      era de dominio de Ignis Mundi."
+    mision: {fileID: 0}
+    eventoSum: 0
+  despedida: 'Firma:
+
+
+
+    El Maestro de las Sombras.'

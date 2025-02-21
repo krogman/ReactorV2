@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c9c8cdbf210554f9e0853ac71f09f3, type: 3}
+  m_Name: 114_Flerovio
+  m_EditorClassIdentifier: 
+  id: 113
+  nombre: Flerovio
+  icono: {fileID: 0}
+  descripcion: "Elemento transact\xEDnido artificial, producido en laboratorios,
+    sin aplicaciones pr\xE1cticas conocidas."
+  tipo: 3
+  esElemento: 1
+  simbolo: Fl
+  elemento_img: {fileID: 0}
+  numAtomico: 114
+  pesoAtomico: 
+  uso: "Se utiliza principalmente para la investigaci\xF3n en f\xEDsica nuclear y
+    la s\xEDntesis de elementos superpesados."
+  configElectronica: '[Rn] 5f <sup>14</sup> 6d <sup>10 </sup> 7s <sup>2</sup> 7p
+    <sup>2</sup>'
+  caracteristicas: "Es el metal m\xE1s vol\xE1til de la tabla peri\xF3dica."
+  dndEncontrarlo: "Se produce sint\xE9ticamente en peque\xF1as cantidades mediante
+    la irradiaci\xF3n de plutonio con iones de calcio en un acelerador de iones pesados."
